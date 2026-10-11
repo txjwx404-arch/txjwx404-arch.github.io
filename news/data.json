@@ -210,6 +210,106 @@
    "src": "三立新闻 / 壹苹新闻",
    "url": "https://www.setn.com/news/1892572",
    "added": "2026-10-11"
+  },
+  {
+   "date": "2026-06-23",
+   "cat": "水处理设备",
+   "region": "日本",
+   "title": "Daicen 推出新一代透析水处理系统 MOLSEP FC-HE",
+   "summary": "采用自研高回收率 RO 模块，膜与装置一体化设计，体积比旧机缩小约 10%，兼顾高水质和节能，适合机房空间有限的设备更新或扩容。",
+   "src": "共同通信 PR Wire",
+   "url": "https://kyodonewsprwire.jp/release/202606231289",
+   "added": "2026-10-11"
+  },
+  {
+   "date": "2026-09-30",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "辽宁电力中心医院招标更换费森尤斯 AquaB plus 2500 预处理滤材",
+   "summary": "最高限价 7.4 万元，内容含石英砂、椰壳活性炭、软化树脂更换，旧料清运、系统冲洗、化学消毒、整机调试和水质检测，出水须符合 YY 0572-2015。可作为预处理滤材更换的工作范围参考。",
+   "src": "检测招标网",
+   "url": "https://www.jiancezhaobiao.com/news-8829995d9e42a139d003dace8d9bf850/",
+   "added": "2026-10-11"
+  },
+  {
+   "date": "2026-09-15",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "港中大（深圳）医院血透设备采购中标，水处理选贝朗 RO Dia II 2100",
+   "summary": "项目同时采购双泵/单泵血透机、中央供液系统等，反渗透水处理机中标型号为贝朗 RO Dia II 2100，1 台。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-41642c84f952bba1578a583a06fb964b/",
+   "added": "2026-10-11"
+  },
+  {
+   "date": "2026-09-28",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "榆中县血透室水处理系统合同：14.68 万元，二级产水 ≥500 L/h",
+   "summary": "参数要求符合 YY 0793.1 和 YY 0572-2015，细菌 ≤1 CFU/mL、内毒素 ≤0.25 EU/mL，脱盐率 >99%，原水回收率 >65%，带废水智能回收。",
+   "src": "标标达",
+   "url": "https://bbda.com/bidDetail/7f33d0761484ea66590fa12dfddf2225715737a726cc5a8c40f60c1fb9f7262b.html",
+   "added": "2026-10-11"
+  },
+  {
+   "date": "2026-09-30",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "克拉玛依独山子人民医院血透水处理反渗膜采购（二次竞价）",
+   "summary": "采购 RO 反渗膜 5 根，预算 4.75 万元。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-c647d25a6ae6714b1fd5e6e4ce255d05/",
+   "added": "2026-10-11"
+  },
+  {
+   "date": "2026-09-07",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "研究：用 FMEA 评估透析用水质量风险，最高风险是预处理水流下降",
+   "summary": "《Therapeutic Apheresis and Dialysis》论文梳理 39 个故障模式，按方法流程、设备材料、环境三类分析；预处理回路流量下降被列为唯一高优先级风险，提示日常巡检要盯住预处理压力与流量。",
+   "src": "Wiley",
+   "url": "https://obgyn.onlinelibrary.wiley.com/doi/10.1002/1744-9987.70200",
+   "added": "2026-10-11"
+  },
+  {
+   "date": "2026-10-05",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "加拿大 CSA 采纳 ISO 23500-2:2024 透析水处理设备标准",
+   "summary": "CSA Z23500-2:26 取代 2020 版，等同采用 ISO 23500-2 第二版（2024），对透析水处理设备的设计与性能提出更新要求。",
+   "src": "CSA / Skybear",
+   "url": "https://www.skybearstandards.com/documents/csa-z23500-226-preparation-and-quality-management-of-fluids-for-haemodialysis-and-related-therapies-part-2-water-treatment-equipment-for-haemodialysis-applications-and-related-therapies/",
+   "added": "2026-10-11"
+  },
+  {
+   "date": "2026-09-09",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "美国退伍军人医院授标 Evoqua 便携式透析 RO 机，合同 10.7 万美元",
+   "summary": "要求单机 ≤100 磅、满足 ISO 13959 水质、兼容贝朗透析机并支持免化学品热水消毒。",
+   "src": "SAM.gov",
+   "url": "https://sam.gov/opp/a352c6e10ab24f1d9b8aa0fdd8d2ad21/view",
+   "added": "2026-10-11"
+  },
+  {
+   "date": "2026-08-11",
+   "cat": "水处理设备",
+   "region": "台湾",
+   "title": "台湾肾脏科医师科普：洗肾用水为什么比矿泉水还严格",
+   "summary": "一次血透要用上百升水，需经活性炭、软化、RO，必要时加紫外线和超滤，按 ISO 23500 控制细菌和内毒素并定期采样。适合给患者和新进人员讲解。",
+   "src": "引人入肾",
+   "url": "https://drelilin.com/dialysis-water-quality-standard",
+   "added": "2026-10-11"
+  },
+  {
+   "date": "2026-07-24",
+   "cat": "召回与安全警示",
+   "region": "全球",
+   "title": "FDA 警告信：Nipro 美国工厂放行内毒素超标的血透产品",
+   "summary": "FDA 发现多批成品内毒素 LAL 检测超规格却被记录为“合格”并放行，超标调查流程也未执行。",
+   "src": "FDA",
+   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/nipro-renal-solutions-usa-corporation-732874-07242026",
+   "added": "2026-10-11"
   }
  ]
 }
