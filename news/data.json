@@ -1,17 +1,215 @@
 {
-  "updated": "2026-10-11",
-  "items": [
-    {"date":"2026-10-08","cat":"行业动态","title":"费森尤斯医疗 CEO 突然离任","summary":"10月7日费森尤斯医疗宣布更换 CEO，监事会同步调整，股价承压。","src":"MarketScreener","url":"https://www.marketscreener.com/news/davita-activates-emergency-response-efforts-ahead-of-hurricane-isaias-urges-kidney-patients-to-prep-ce785ddfde80f524","added":"2026-10-11"},
-    {"date":"2026-10-08","cat":"行业动态","title":"费森尤斯调整中国业务：停产停售 4008A，退出中国腹透","summary":"将聚焦 5008S CAREsystem、multiFiltratePRO 等高端产品。2026年上半年国内血透设备加权均价同比降 11.90%，4008A 在其在华血透销量中仅占 3.28%，主力机型 4008S V10 占 87.79%。已装机型的现有义务继续履行。","src":"费森尤斯医疗官网 / 制药网","url":"https://freseniusmedicalcare.com/en/media/newsroom/fresenius-medical-care-refines-china-commercial-strategy-with-focus-on-long-term-growth-and-market-leadership/","added":"2026-10-11"},
-    {"date":"2026-10-08","cat":"中国政策与招采","title":"厦大附属中山医院新血透中心启用，设备达 133 台","summary":"在原 99 台基础上新增 34 台，成为福建省最大单中心血透基地，年血透 7 万余例次。","src":"中新网福建","url":"https://www.fj.chinanews.com.cn/news/2026/2026-10-08/591791.html","added":"2026-10-11"},
-    {"date":"2026-10-10","cat":"中国政策与招采","title":"长沙市第四医院血透机中标结果","summary":"单泵血透机 16 台，单价 127,210 元；双泵 3 台，单价 224,360 元。","src":"医疗招标网","url":"https://www.yiliaozhaobiao.com/news-2a32a5affac2fc2400fc94a27d8fe622/","added":"2026-10-11"},
-    {"date":"2026-10-08","cat":"中国政策与招采","title":"北京平谷采购血透机和血滤机，预算 132 万元","summary":"招标文件 10月9日—14日获取，2026年10月29日 09:30 开标。","src":"医疗招标网","url":"https://www.yiliaozhaobiao.com/news-6619c24d51e4fab6258965643cd4abd5/","added":"2026-10-11"},
-    {"date":"2026-09-28","cat":"中国政策与招采","title":"湖南出台慢性肾衰门诊透析慢特病待遇办法（湘医保发〔2026〕38号）","summary":"腹透限额 5000 元/月、结肠透析 2000 元/月、药物治疗 600 元/月，待遇有效期三年。","src":"摩熵医药","url":"https://www.pharnexcloud.com/data/zcfg_aa0749d12839b93705348f5910cc8f13.html","added":"2026-10-11"},
-    {"date":"2026-09-02","cat":"召回与安全警示","title":"FDA 召回：5008X HD/HDF CLiC 血路管（Class II）","summary":"动脉端 Alpha Clip 与主管/泵管连接处漏血风险升高，可致失血。料号 03-5300-3C，召回号 Z-3086-2026，受影响批次应立即隔离停用。","src":"FDA","url":"https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=221854","added":"2026-10-11"},
-    {"date":"2026-09-24","cat":"召回与安全警示","title":"BD 透析导管套件更正被定为 Class I","summary":"套件内 0.9% 氯化钠安瓿（Huons 生产）存在无菌保证问题，取出安瓿后其余组件可继续使用。召回号 Z-2984/2985-2026。","src":"MedTech Current","url":"https://www.medtechcurrent.com/device-recalls/becton-dickinson-dialysis-convenience-kits-saline-fda-class-i-recall/","added":"2026-10-11"},
-    {"date":"2026-08-26","cat":"维修案例","title":"2008T BlueStar 报流量、无水、温度报警：厂家更换部件（Class II 更正）","summary":"美国 1,140 台受影响（型号 191126、191130），治疗中可能触发流量/无水/温度报警被迫换机。属现场更正而非撤机，由厂家更换零件。召回号 Z-3017-2026。","src":"Medical Daily / FDA","url":"https://www.medicaldaily.com/fresenius-2008t-bluestar-dialysis-machine-recall-alarms-477900","added":"2026-10-11"},
-    {"date":"2026-10-01","cat":"研究进展","title":"维生素 E 涂层聚砜膜 + 后稀释在线 HDF 缓解难治性不宁腿","summary":"日本原田医院 2 例报告，发表于 Journal of Artificial Organs，作者称为该组合的首个相关报道，需更大样本验证。","src":"Bioengineer","url":"https://bioengineer.org/vitamin-e-dialysis-membrane-eases-restless-legs-in-two-kidney-patients/","added":"2026-10-11"},
-    {"date":"2026-10-08","cat":"研究进展","title":"FDA 受理拜耳非奈利酮用于非糖尿病 CKD 的补充申请","summary":"KERENDIA（finerenone）拟扩展至不伴糖尿病的慢性肾病成人患者。","src":"Business Wire / FT","url":"https://markets.ft.com/data/announce/detail?dockey=600-202610080230BIZWIRE_USPRX____20261007_BW583229-1","added":"2026-10-11"},
-    {"date":"2026-08-05","cat":"行业动态","title":"DaVita 快速推广 Expanded HD（中截留量透析器）","summary":"使用 Nipro ELISIO-HX 透析器清除中分子毒素，无需更换透析机。","src":"DaVita Newsroom","url":"https://newsroom.davita.com/davita-scales-expanded-hd-to-target-middle-molecules/","added":"2026-10-11"}
-  ]
+ "updated": "2026-10-11",
+ "items": [
+  {
+   "date": "2026-10-08",
+   "cat": "行业动态",
+   "title": "费森尤斯医疗 CEO 突然离任",
+   "summary": "10月7日费森尤斯医疗宣布更换 CEO，监事会同步调整，股价承压。",
+   "src": "MarketScreener",
+   "url": "https://www.marketscreener.com/news/davita-activates-emergency-response-efforts-ahead-of-hurricane-isaias-urges-kidney-patients-to-prep-ce785ddfde80f524",
+   "added": "2026-10-11",
+   "region": "全球"
+  },
+  {
+   "date": "2026-10-08",
+   "cat": "行业动态",
+   "title": "费森尤斯调整中国业务：停产停售 4008A，退出中国腹透",
+   "summary": "将聚焦 5008S CAREsystem、multiFiltratePRO 等高端产品。2026年上半年国内血透设备加权均价同比降 11.90%，4008A 在其在华血透销量中仅占 3.28%，主力机型 4008S V10 占 87.79%。已装机型的现有义务继续履行。",
+   "src": "费森尤斯医疗官网 / 制药网",
+   "url": "https://freseniusmedicalcare.com/en/media/newsroom/fresenius-medical-care-refines-china-commercial-strategy-with-focus-on-long-term-growth-and-market-leadership/",
+   "added": "2026-10-11",
+   "region": "中国大陆"
+  },
+  {
+   "date": "2026-10-08",
+   "cat": "政策与招采",
+   "title": "厦大附属中山医院新血透中心启用，设备达 133 台",
+   "summary": "在原 99 台基础上新增 34 台，成为福建省最大单中心血透基地，年血透 7 万余例次。",
+   "src": "中新网福建",
+   "url": "https://www.fj.chinanews.com.cn/news/2026/2026-10-08/591791.html",
+   "added": "2026-10-11",
+   "region": "中国大陆"
+  },
+  {
+   "date": "2026-10-10",
+   "cat": "政策与招采",
+   "title": "长沙市第四医院血透机中标结果",
+   "summary": "单泵血透机 16 台，单价 127,210 元；双泵 3 台，单价 224,360 元。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-2a32a5affac2fc2400fc94a27d8fe622/",
+   "added": "2026-10-11",
+   "region": "中国大陆"
+  },
+  {
+   "date": "2026-10-08",
+   "cat": "政策与招采",
+   "title": "北京平谷采购血透机和血滤机，预算 132 万元",
+   "summary": "招标文件 10月9日—14日获取，2026年10月29日 09:30 开标。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-6619c24d51e4fab6258965643cd4abd5/",
+   "added": "2026-10-11",
+   "region": "中国大陆"
+  },
+  {
+   "date": "2026-09-28",
+   "cat": "政策与招采",
+   "title": "湖南出台慢性肾衰门诊透析慢特病待遇办法（湘医保发〔2026〕38号）",
+   "summary": "腹透限额 5000 元/月、结肠透析 2000 元/月、药物治疗 600 元/月，待遇有效期三年。",
+   "src": "摩熵医药",
+   "url": "https://www.pharnexcloud.com/data/zcfg_aa0749d12839b93705348f5910cc8f13.html",
+   "added": "2026-10-11",
+   "region": "中国大陆"
+  },
+  {
+   "date": "2026-09-02",
+   "cat": "召回与安全警示",
+   "title": "FDA 召回：5008X HD/HDF CLiC 血路管（Class II）",
+   "summary": "动脉端 Alpha Clip 与主管/泵管连接处漏血风险升高，可致失血。料号 03-5300-3C，召回号 Z-3086-2026，受影响批次应立即隔离停用。",
+   "src": "FDA",
+   "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=221854",
+   "added": "2026-10-11",
+   "region": "全球"
+  },
+  {
+   "date": "2026-09-24",
+   "cat": "召回与安全警示",
+   "title": "BD 透析导管套件更正被定为 Class I",
+   "summary": "套件内 0.9% 氯化钠安瓿（Huons 生产）存在无菌保证问题，取出安瓿后其余组件可继续使用。召回号 Z-2984/2985-2026。",
+   "src": "MedTech Current",
+   "url": "https://www.medtechcurrent.com/device-recalls/becton-dickinson-dialysis-convenience-kits-saline-fda-class-i-recall/",
+   "added": "2026-10-11",
+   "region": "全球"
+  },
+  {
+   "date": "2026-08-26",
+   "cat": "维修案例",
+   "title": "2008T BlueStar 报流量、无水、温度报警：厂家更换部件（Class II 更正）",
+   "summary": "美国 1,140 台受影响（型号 191126、191130），治疗中可能触发流量/无水/温度报警被迫换机。属现场更正而非撤机，由厂家更换零件。召回号 Z-3017-2026。",
+   "src": "Medical Daily / FDA",
+   "url": "https://www.medicaldaily.com/fresenius-2008t-bluestar-dialysis-machine-recall-alarms-477900",
+   "added": "2026-10-11",
+   "region": "全球"
+  },
+  {
+   "date": "2026-10-01",
+   "cat": "研究进展",
+   "title": "维生素 E 涂层聚砜膜 + 后稀释在线 HDF 缓解难治性不宁腿",
+   "summary": "日本原田医院 2 例报告，发表于 Journal of Artificial Organs，作者称为该组合的首个相关报道，需更大样本验证。",
+   "src": "Bioengineer",
+   "url": "https://bioengineer.org/vitamin-e-dialysis-membrane-eases-restless-legs-in-two-kidney-patients/",
+   "added": "2026-10-11",
+   "region": "全球"
+  },
+  {
+   "date": "2026-10-08",
+   "cat": "研究进展",
+   "title": "FDA 受理拜耳非奈利酮用于非糖尿病 CKD 的补充申请",
+   "summary": "KERENDIA（finerenone）拟扩展至不伴糖尿病的慢性肾病成人患者。",
+   "src": "Business Wire / FT",
+   "url": "https://markets.ft.com/data/announce/detail?dockey=600-202610080230BIZWIRE_USPRX____20261007_BW583229-1",
+   "added": "2026-10-11",
+   "region": "全球"
+  },
+  {
+   "date": "2026-08-05",
+   "cat": "行业动态",
+   "title": "DaVita 快速推广 Expanded HD（中截留量透析器）",
+   "summary": "使用 Nipro ELISIO-HX 透析器清除中分子毒素，无需更换透析机。",
+   "src": "DaVita Newsroom",
+   "url": "https://newsroom.davita.com/davita-scales-expanded-hd-to-target-middle-molecules/",
+   "added": "2026-10-11",
+   "region": "全球"
+  },
+  {
+   "date": "2026-09-30",
+   "cat": "召回与安全警示",
+   "region": "日本",
+   "title": "扶桑药品「Kindaly 透析剂 5E」Class II 自主回收",
+   "summary": "稳定性试验第 18 个月发现葡萄糖分解物 5-HMF 超出批准规格，2024-08 至 2025-06 出货的多个批次被回收。厂家称未见健康损害、风险低，已逐一通知交货机构。",
+   "src": "PMDA / Pharma Works",
+   "url": "https://pharma-works.com/news/recall/b7d71c639101fbe197bf70c0c349385309de64ba",
+   "added": "2026-10-11"
+  },
+  {
+   "date": "2026-07-15",
+   "cat": "维修案例",
+   "region": "日本",
+   "title": "Nipro 血液净化装置 NAZ-1 自主改修（Class II，40 台）",
+   "summary": "两处问题：注射泵轴固定螺丝（标记销）可能松动脱落导致无法给药；报警时界面出现两个解除按钮，误按列表外按钮会让治疗停止状态持续。厂家对 2026 年 3–5 月出货的 40 台逐台改修。维修提示：留意泵异响，报警只用报警列表内的解除键。",
+   "src": "PMDA",
+   "url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12897",
+   "added": "2026-10-11"
+  },
+  {
+   "date": "2026-10-10",
+   "cat": "政策与招采",
+   "region": "日本",
+   "title": "日本诊疗报酬改定：末期肾衰竭患者可入住缓和医疗病房",
+   "summary": "2026 年 6 月起，缓和医疗病房不再基本限于癌症患者，末期肾衰竭（含选择停止或不开始透析者）也可入住，医院开始提前做缓和医疗规划。日本透析患者约 34 万人。",
+   "src": "MBS 新闻",
+   "url": "https://topics.smt.docomo.ne.jp/article/mbs_news/nation/mbs_news-2994593",
+   "added": "2026-10-11"
+  },
+  {
+   "date": "2026-09-07",
+   "cat": "研究进展",
+   "region": "日本",
+   "title": "JSDT 2023 年度透析数据报告：患者 343,508 人，HDF 占 59.1%",
+   "summary": "日本透析医学会登记系统调查 4,529 家设施。2023 年末透析患者 343,508 人，增速放缓；HDF 患者 203,113 人占 59.1%；三大死因为感染、心衰和恶性肿瘤；居家 HD 仅 799 人。",
+   "src": "Renal Replacement Therapy / 生物通",
+   "url": "https://www.ebiotrade.com/newsf/2026-9/20260906195716975.htm",
+   "added": "2026-10-11"
+  },
+  {
+   "date": "2026-08-04",
+   "cat": "行业动态",
+   "region": "日本",
+   "title": "Nipro 中截留量透析器 ELISIO-HX 获 FDA 510(k) 并在美上市",
+   "summary": "日本 Nipro 的超高通量膜透析器进入美国，用于“扩展型血液透析（HDx）”，可在现有透析机和流程上增强中大分子清除，无需新增设备。",
+   "src": "Nipro",
+   "url": "https://www.nipro-group.com/en/inspire/nipro-launches-expanded-hemodialysis-elisiotm-hx-us-providers-following-fda-clearance",
+   "added": "2026-10-11"
+  },
+  {
+   "date": "2026-09-18",
+   "cat": "政策与招采",
+   "region": "台湾",
+   "title": "台湾健保署：洗肾新发人数自 2022 年起逐年下降",
+   "summary": "CKD 从初期进展到末期的时间由 2016 年 1.8 年延长到 2025 年 2.9 年。健保至 2025 年已投入 2.58 亿元于 ICU 连续性血液透析（CRRT），医师呼吁提高 CRRT 给付，减少急性肾损伤转为长期透析。",
+   "src": "联合报",
+   "url": "https://udn.com/news/story/7266/9763719",
+   "added": "2026-10-11"
+  },
+  {
+   "date": "2026-10-07",
+   "cat": "行业动态",
+   "region": "台湾",
+   "title": "台中荣总扩大居家透析，配合 2035 年居家透析 18% 目标",
+   "summary": "台湾提出 2035 年居家透析比例达 18%。台中荣总腹膜透析患者自 2024 年起年增逾 10%，现照护 302 人，并导入远程监测系统实时掌握透析数据。",
+   "src": "台湾人民报",
+   "url": "https://www.peponews.tw/2026/10/07/287540/",
+   "added": "2026-10-11"
+  },
+  {
+   "date": "2026-09-11",
+   "cat": "研究进展",
+   "region": "台湾",
+   "title": "林口长庚完成透析碳盘查：每次 4 小时血透约 17.77 kg CO₂e",
+   "summary": "台湾约 8.2 万名血透患者，每年约产生 22.7 万吨 CO₂ 当量；腹膜透析每人每年约少 16%。对透析中心节水节电、耗材管理有参考价值。",
+   "src": "元气网 / 联合报",
+   "url": "https://health.udn.com/health/story/5975/9748102",
+   "added": "2026-10-11"
+  },
+  {
+   "date": "2026-08-20",
+   "cat": "研究进展",
+   "region": "台湾",
+   "title": "亚东医院引进动静脉瘘外支撑装置 VasQ",
+   "summary": "针对血管条件差的患者，在动静脉吻合处外加镍钛合金支撑，帮助瘘管成熟，个案术后约 3 周即可使用。台湾透析人口已超过 9.7 万人。",
+   "src": "三立新闻 / 壹苹新闻",
+   "url": "https://www.setn.com/news/1892572",
+   "added": "2026-10-11"
+  }
+ ]
 }
