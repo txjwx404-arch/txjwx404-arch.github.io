@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-11",
+ "updated": "2026-10-12",
  "items": [
   {
    "date": "2026-10-08",
    "cat": "行业动态",
    "title": "费森尤斯医疗 CEO 突然离任",
-   "summary": "10月7日费森尤斯医疗宣布更换 CEO，监事会同步调整，股价承压。",
-   "src": "MarketScreener",
-   "url": "https://www.marketscreener.com/news/davita-activates-emergency-response-efforts-ahead-of-hurricane-isaias-urges-kidney-patients-to-prep-ce785ddfde80f524",
+   "summary": "费森尤斯医疗 CEO Helen Giza 卸任，原监事会成员 Shervin Korangy 于 10 月 12 日接任。公司称 FME25+ 转型已削减约 12 亿欧元成本，下一阶段转向增长与创新；宣布当日美股 ADR 跌 7.7%。",
+   "src": "Business-News-Today",
+   "url": "https://business-news-today.com/fresenius-medical-care-names-shervin-korangy-ceo-after-e1-2bn-transformation-reset/",
    "added": "2026-10-11",
    "region": "全球"
   },
@@ -112,16 +112,6 @@
    "region": "全球"
   },
   {
-   "date": "2026-08-05",
-   "cat": "行业动态",
-   "title": "DaVita 快速推广 Expanded HD（中截留量透析器）",
-   "summary": "使用 Nipro ELISIO-HX 透析器清除中分子毒素，无需更换透析机。",
-   "src": "DaVita Newsroom",
-   "url": "https://newsroom.davita.com/davita-scales-expanded-hd-to-target-middle-molecules/",
-   "added": "2026-10-11",
-   "region": "全球"
-  },
-  {
    "date": "2026-09-30",
    "cat": "召回与安全警示",
    "region": "日本",
@@ -129,16 +119,6 @@
    "summary": "稳定性试验第 18 个月发现葡萄糖分解物 5-HMF 超出批准规格，2024-08 至 2025-06 出货的多个批次被回收。厂家称未见健康损害、风险低，已逐一通知交货机构。",
    "src": "PMDA / Pharma Works",
    "url": "https://pharma-works.com/news/recall/b7d71c639101fbe197bf70c0c349385309de64ba",
-   "added": "2026-10-11"
-  },
-  {
-   "date": "2026-07-15",
-   "cat": "维修案例",
-   "region": "日本",
-   "title": "Nipro 血液净化装置 NAZ-1 自主改修（Class II，40 台）",
-   "summary": "两处问题：注射泵轴固定螺丝（标记销）可能松动脱落导致无法给药；报警时界面出现两个解除按钮，误按列表外按钮会让治疗停止状态持续。厂家对 2026 年 3–5 月出货的 40 台逐台改修。维修提示：留意泵异响，报警只用报警列表内的解除键。",
-   "src": "PMDA",
-   "url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12897",
    "added": "2026-10-11"
   },
   {
@@ -159,16 +139,6 @@
    "summary": "日本透析医学会登记系统调查 4,529 家设施。2023 年末透析患者 343,508 人，增速放缓；HDF 患者 203,113 人占 59.1%；三大死因为感染、心衰和恶性肿瘤；居家 HD 仅 799 人。",
    "src": "Renal Replacement Therapy / 生物通",
    "url": "https://www.ebiotrade.com/newsf/2026-9/20260906195716975.htm",
-   "added": "2026-10-11"
-  },
-  {
-   "date": "2026-08-04",
-   "cat": "行业动态",
-   "region": "日本",
-   "title": "Nipro 中截留量透析器 ELISIO-HX 获 FDA 510(k) 并在美上市",
-   "summary": "日本 Nipro 的超高通量膜透析器进入美国，用于“扩展型血液透析（HDx）”，可在现有透析机和流程上增强中大分子清除，无需新增设备。",
-   "src": "Nipro",
-   "url": "https://www.nipro-group.com/en/inspire/nipro-launches-expanded-hemodialysis-elisiotm-hx-us-providers-following-fda-clearance",
    "added": "2026-10-11"
   },
   {
@@ -209,16 +179,6 @@
    "summary": "针对血管条件差的患者，在动静脉吻合处外加镍钛合金支撑，帮助瘘管成熟，个案术后约 3 周即可使用。台湾透析人口已超过 9.7 万人。",
    "src": "三立新闻 / 壹苹新闻",
    "url": "https://www.setn.com/news/1892572",
-   "added": "2026-10-11"
-  },
-  {
-   "date": "2026-06-23",
-   "cat": "水处理设备",
-   "region": "日本",
-   "title": "Daicen 推出新一代透析水处理系统 MOLSEP FC-HE",
-   "summary": "采用自研高回收率 RO 模块，膜与装置一体化设计，体积比旧机缩小约 10%，兼顾高水质和节能，适合机房空间有限的设备更新或扩容。",
-   "src": "共同通信 PR Wire",
-   "url": "https://kyodonewsprwire.jp/release/202606231289",
    "added": "2026-10-11"
   },
   {
@@ -292,24 +252,124 @@
    "added": "2026-10-11"
   },
   {
-   "date": "2026-08-11",
-   "cat": "水处理设备",
-   "region": "台湾",
-   "title": "台湾肾脏科医师科普：洗肾用水为什么比矿泉水还严格",
-   "summary": "一次血透要用上百升水，需经活性炭、软化、RO，必要时加紫外线和超滤，按 ISO 23500 控制细菌和内毒素并定期采样。适合给患者和新进人员讲解。",
-   "src": "引人入肾",
-   "url": "https://drelilin.com/dialysis-water-quality-standard",
-   "added": "2026-10-11"
+   "date": "2026-10-01",
+   "cat": "维修案例",
+   "region": "日本",
+   "title": "日机装血液净化装置 TR-2020 自主改修（Class II，489 台）",
+   "summary": "医院报告设备插着市电却切换到电池运行；调查发现断路器开关与内部电源线接触不良、端子烧蚀，强振动后可能导致治疗中断。厂家对 2019-2025 年出货的 489 台逐台改修，暂无健康损害报告。",
+   "src": "PMDA",
+   "url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-12980",
+   "added": "2026-10-12"
   },
   {
-   "date": "2026-07-24",
-   "cat": "召回与安全警示",
+   "date": "2026-10-07",
+   "cat": "水处理设备",
+   "region": "日本",
+   "title": "熊本地震教训：透析诊所断水时缺少大容量储水",
+   "summary": "日本 One Step 公司公布熊本地震时向 3 家透析诊所紧急送去充气式储水罐的经历，指出断水时即使有供水车，诊所缺乏储水容器也难接收足够透析用水，建议医疗机构把储水纳入断水预案。",
+   "src": "产经新闻/PR TIMES",
+   "url": "https://www.sankei.com/pressrelease/prtimes/Z46LGIKTZ5NKFOHMDD4LS75KFM/",
+   "added": "2026-10-12"
+  },
+  {
+   "date": "2026-10-06",
+   "cat": "政策与招采",
+   "region": "日本",
+   "title": "东京医科齿科大学招标采购日机装 DBB-200Si 个人用透析装置 2 台",
+   "summary": "一般竞争招标，10 月 19 日截止、10 月 27 日开标。名古屋医疗中心同期也在招标个人用多用途透析装置。",
+   "src": "N-Search 招标信息",
+   "url": "https://nsearch.jp/nyusatsu_ankens/6ac5191b4746bc7c457cd919",
+   "added": "2026-10-12"
+  },
+  {
+   "date": "2026-10-09",
+   "cat": "研究进展",
+   "region": "台湾",
+   "title": "台湾肾脏科医师：逾半数透析患者受尿毒性瘙痒困扰",
+   "summary": "洪永祥医师指出，瘙痒与皮肤干燥、中大分子毒素蓄积、过敏、高磷及神经调节异常有关，建议与医生讨论增加血液滤过或改用高通量膜，并排查抗凝剂、透析器过敏等因素。",
+   "src": "自由健康网",
+   "url": "https://health.ltn.com.tw/article/breakingnews/5598803",
+   "added": "2026-10-12"
+  },
+  {
+   "date": "2026-10-10",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "茂名山阁镇卫生院血透中心中标：威高透析机 + 瀚泓双级反渗透",
+   "summary": "项目含威高 DBB-EXA ESS E 透析机 10 台、DBB-EXA S 透析滤过机 2 台，以及瀚泓 HHHD-B-1500 双级反渗透水处理系统 1 套（27.97 万元）。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-f7c3b03d0f3fa558cab129ddf33d6c2d/",
+   "added": "2026-10-12"
+  },
+  {
+   "date": "2026-10-10",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "辽宁省金秋医院招标国产双级反渗血透水处理系统",
+   "summary": "采购 1 套国产血透用水处理系统，要求一体化双级反渗主机，并配反渗水供水管路及高温热消毒装置；11 月 2 日投标截止。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-9e6ddc26d4a4644e624e510be66a5016/",
+   "added": "2026-10-12"
+  },
+  {
+   "date": "2026-10-09",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "衢州华埠镇中心卫生院血透水机二次采购：费森尤斯 AquaB plus 中标",
+   "summary": "中标产品为费森尤斯 AquaB plus 主机加 AquaB plus B2 二级反渗组合，供应商为华润医疗器械（浙江）。",
+   "src": "建设招标网",
+   "url": "https://bidding.jszhaobiao.cn/result-detail-333213290.html",
+   "added": "2026-10-12"
+  },
+  {
+   "date": "2026-10-10",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "蛟河市中医院血透制水设备更换滤材询价，预算 1.7 万元",
+   "summary": "医院为透析科制水设备更换预处理滤材公开询价，10 月 16 日前递交报价。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-32a8ceff8f9cc122ffa405f81ef8c284/",
+   "added": "2026-10-12"
+  },
+  {
+   "date": "2026-10-10",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "重庆南川区人民医院血透机招标，预算 534 万元",
+   "summary": "属三甲医院医疗设备更新项目，公开招标，最高限价 534 万元，11 月 3 日开标。",
+   "src": "中国政府采购网",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202610/t20261010_27464366.htm",
+   "added": "2026-10-12"
+  },
+  {
+   "date": "2026-10-10",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "鄂尔多斯社区卫生服务中心采购费森尤斯 4008S 与 5008S",
+   "summary": "中标 4008S V10 透析机 3 台（单价 11.95 万元）和 5008S 血滤机 1 台（22.75 万元）。同日云南建水县也以 13.9 万元/台中标 4008S，可见费森尤斯停售 4008A 后 4008S 仍在基层中标。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-9b8b5cd4407335da07f50ac095798ab1/",
+   "added": "2026-10-12"
+  },
+  {
+   "date": "2026-10-10",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "秦皇岛市第三医院招标血透设备，含透析用水处理设备",
+   "summary": "项目包括血液透析机、血液透析滤过机和血液透析用水处理设备，10 月 12-16 日获取招标文件，11 月 2 日投标截止。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-a0d4b89f13095bd0b792dd31384c6662/",
+   "added": "2026-10-12"
+  },
+  {
+   "date": "2026-10-11",
+   "cat": "行业动态",
    "region": "全球",
-   "title": "FDA 警告信：Nipro 美国工厂放行内毒素超标的血透产品",
-   "summary": "FDA 发现多批成品内毒素 LAL 检测超规格却被记录为“合格”并放行，超标调查流程也未执行。",
-   "src": "FDA",
-   "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/nipro-renal-solutions-usa-corporation-732874-07242026",
-   "added": "2026-10-11"
+   "title": "埃及卫生部推动透析耗材本地化生产",
+   "summary": "埃及卫生部长与国际医疗企业会谈，重点讨论肾病与透析服务合作、技术转移，以及透析耗材和技术在埃及本地生产，以减少对外部供应链的依赖。",
+   "src": "Egyptian Gazette",
+   "url": "https://egyptian-gazette.com/egypt/abdel-ghaffar-bid-to-localise-dialysis-supplies-manufacturing/",
+   "added": "2026-10-12"
   }
  ]
 }
