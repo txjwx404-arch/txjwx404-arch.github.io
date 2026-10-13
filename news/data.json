@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12",
+ "updated": "2026-10-13",
  "items": [
   {
    "date": "2026-10-08",
@@ -370,6 +370,106 @@
    "src": "Egyptian Gazette",
    "url": "https://egyptian-gazette.com/egypt/abdel-ghaffar-bid-to-localise-dialysis-supplies-manufacturing/",
    "added": "2026-10-12"
+  },
+  {
+   "date": "2026-10-12",
+   "cat": "召回与安全警示",
+   "region": "全球",
+   "title": "FDA 向费森尤斯医疗 Ogden 工厂发警告信：腹透液 Delflex 漏液投诉未召回",
+   "summary": "FDA 于 8 月 25 日向费森尤斯医疗位于犹他州 Ogden 的透析液工厂发出警告信：该厂收到约 35 起、涉及约 156 袋 Delflex 腹膜透析液漏液投诉，却把风险评为最低、未及时召回，4 月才启动召回；另指其目检员资格验证用颗粒样本不具代表性。",
+   "src": "Atlas Compliance",
+   "url": "https://www.atlas-compliance.ai/blog/fresenius-fda-warning-letters-2026",
+   "added": "2026-10-13"
+  },
+  {
+   "date": "2026-10-12",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "Humacyte 人工血管 ATEV 女性透析通路 III 期结果将在 ASN 肾脏周压轴报告",
+   "summary": "Humacyte 宣布 V012 III 期中期结果入选 10 月 22 日 ASN Kidney Week 晚期突破口头报告，比较其脱细胞工程血管与自体动静脉内瘘在女性终末期肾病患者中的透析通路表现；公司计划本季度向 FDA 递交透析通路适应症补充申请。",
+   "src": "GlobeNewswire",
+   "url": "https://www.globenewswire.com/news-release/2026/10/12/3378837/0/en/humacyte-announces-phase-3-v012-trial-results-for-atev-in-women-requiring-hemodialysis-access-accepted-for-a-late-breaking-session-presentation-at-asn-kidney-week-2026.html",
+   "added": "2026-10-13"
+  },
+  {
+   "date": "2026-10-12",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "武宣县桐岭中心卫生院血透室中标：威高日机装透析机 15 台 + 康仑 DKL-NH3 水处理",
+   "summary": "中标公告显示：威高日机装 DBB-EXA ESS SE 透析机 15 台（单价 11.69 万元）、DBB-EXA S 透析滤过机 2 台（23.4 万元/台），水处理系统为康仑医疗 DKL-NH3，1 套 27.35 万元。",
+   "src": "马蜂盯标（来宾市公共资源交易中心）",
+   "url": "https://www.dingbiao.com/zhaobiao/af8ecde68c04d3bc4a4107113414376b.html",
+   "added": "2026-10-13"
+  },
+  {
+   "date": "2026-10-12",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "天津市第五中心医院招标血透中心水处理系统，预算 212 万元",
+   "summary": "天津市第五中心医院公开招标血液透析中心水处理系统及相关治疗用水处理设备，预算与最高限价均为 212 万元，专门面向中小企业、不接受进口产品，11 月 3 日开标，合同签订后 60 日内完成安装调试。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-8be8ef9ce1729e0ff65ad96d5f667231/",
+   "added": "2026-10-13"
+  },
+  {
+   "date": "2026-10-10",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "研究：透析 RO 废水可用于水产+水培，39.6㎡ 紧凑系统年产鱼 180 kg",
+   "summary": "《肾脏病杂志》发表的马来西亚研究：血透反渗透排放的废水（常占处理水的 40%-70%）经鱼塘与水培柱再利用，90% 鱼存活，较此前 310㎡ 模型占地缩小 7.8 倍、水再利用效率高 2.5 倍，运行成本低 2.5 倍。",
+   "src": "PubMed / J Nephrol",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42470390",
+   "added": "2026-10-13"
+  },
+  {
+   "date": "2026-10-12",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "重庆永川区招标血透室设备：透析机 15 台、滤过机 4 台、水处理 1 套，限价 359.7 万元",
+   "summary": "永川区公开招标血透室设备一批，含血液透析机 15 台、血液透析滤过机 4 台和血液透析水处理设备 1 套，最高限价 359.7 万元，11 月 2 日 9:30 截标。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-803b72219f4c634fcb8ef43094cbc6ec/",
+   "added": "2026-10-13"
+  },
+  {
+   "date": "2026-10-10",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "蚌埠医科大学一附院中标费森尤斯 5008S 滤过机 6 台，合计 114.6 万元",
+   "summary": "中标公告显示品牌为费森尤斯、型号 5008S 的血液透析滤过机 6 台，单价 19.1 万元，中标金额 114.6 万元。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-131d2da2faa1f33923db4b9f4112b054/",
+   "added": "2026-10-13"
+  },
+  {
+   "date": "2026-10-09",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "平南县人民医院血液净化设备中标：山外山透析机/CRRT/滤过机，共 137.9 万元",
+   "summary": "中标内容含山外山 SWS-6000A 透析机 4 台（15 万元/台）、SWS-5000A 连续血液净化仪 2 台（28.5 万元/台）、SWS-6000 滤过装置 1 台（20.9 万元），总中标额 137.9 万元。",
+   "src": "标标达",
+   "url": "http://bbda.com/bidDetail/1ae2d69fea92f473b8ffa0a4f01039027fbf532084536a3941533cc220e4cf67.html",
+   "added": "2026-10-13"
+  },
+  {
+   "date": "2026-10-12",
+   "cat": "行业动态",
+   "region": "中国大陆",
+   "title": "安徽霍山县第三家血透中心落地黑石渡镇，让透析患者少跑远路",
+   "summary": "霍山县黑石渡镇卫生院血透中心 9 月投用，全县形成县城、上土市、黑石渡三点布局；全县需长期维持透析的患者 500 余人，此前留在县内治疗的 400 余人，不少患者要转多趟车去县城。",
+   "src": "安徽日报/中安在线",
+   "url": "https://api.app.anhuinews.com/pc/content/9651676.html",
+   "added": "2026-10-13"
+  },
+  {
+   "date": "2026-10-11",
+   "cat": "研究进展",
+   "region": "台湾",
+   "title": "高雄诊所科普：透析管路与透析膜可能释出塑胶微粒，尚无危害证据",
+   "summary": "高雄宗禾诊所转述 2026 年 JASN 观点：透析时血液反复接触大量 PVC 管路与透析膜，透析液中曾检出塑胶微粒，现行标准尚未规定上限；目前没有证据显示会增加心血管事件或死亡，仍属待研究的患者安全议题。",
+   "src": "宗禾诊所",
+   "url": "https://zonghedc.wixsite.com/zuoying/single-post/%E6%B4%97%E8%85%8E%E4%B9%9F%E8%A6%81%E6%B3%A8%E6%84%8F%E3%80%8C%E5%A1%91%E8%86%A0%E5%BE%AE%E7%B2%92%E3%80%8D%EF%BC%9F%E6%96%B0%E8%88%88%E7%9A%84%E7%97%85%E4%BA%BA%E5%AE%89%E5%85%A8%E8%AD%B0%E9%A1%8C",
+   "added": "2026-10-13"
   }
  ]
 }
