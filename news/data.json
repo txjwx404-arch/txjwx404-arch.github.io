@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15",
+ "updated": "2026-10-16",
  "items": [
   {
    "date": "2026-10-08",
@@ -630,6 +630,26 @@
    "src": "天工网",
    "url": "https://bid.tgnet.com/Bidding/667223224317271810969n1.html",
    "added": "2026-10-15"
+  },
+  {
+   "date": "2026-10-14",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "试验：急性肾损伤患者间歇性血透90天死亡率高于持续治疗",
+   "summary": "一项试验显示，急性肾损伤患者90天死亡率在间歇性血透组为63.1%，持续治疗组为53.5%；该研究尚不能确定前3天之后哪种方式更优。",
+   "src": "The Clinical Times",
+   "url": "https://theclinicaltimes.com/story/2026-10-14-trial-found-more-deaths-with-intermittent-dialysis-for-acute",
+   "added": "2026-10-16"
+  },
+  {
+   "date": "2026-10-15",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "DaVita公布ASN肾脏周2026七项研究，含扩展血透",
+   "summary": "DaVita将在10月ASN Kidney Week展示七项研究，其中两项关注扩展血透（expanded HD）及低白蛋白血症问题。",
+   "src": "DaVita Newsroom",
+   "url": "https://newsroom.davita.com/2026-10-15-davita-brings-new-clinical-research-to-asn-kidney-week-2026-advancing-evidence-for-the-next-era-of-kidney-care/",
+   "added": "2026-10-16"
   }
  ]
 }
