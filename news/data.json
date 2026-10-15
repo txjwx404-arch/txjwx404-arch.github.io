@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14",
+ "updated": "2026-10-15",
  "items": [
   {
    "date": "2026-10-08",
@@ -580,6 +580,56 @@
    "src": "中时新闻网",
    "url": "https://www.chinatimes.com/realtimenews/20261013001802-260418?ctrack=mo_main_recmd_p09",
    "added": "2026-10-14"
+  },
+  {
+   "date": "2026-10-14",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "无醋酸透析液未改善血透患者营养与肌肉指标",
+   "summary": "《临床肾脏病杂志》随机对照试验显示，与传统低醋酸透析液相比，无醋酸透析液在蛋白质能量消耗、肌量和炎症指标上没有改善，两者安全性相当。",
+   "src": "medicaldialogues.in",
+   "url": "https://medicaldialogues.in/nephrology/news/acetate-free-dialysate-shows-no-nutritional-or-muscle-benefits-in-hemodialysis-patients-study-181256",
+   "added": "2026-10-15"
+  },
+  {
+   "date": "2026-10-14",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "英国团队研发透析管路压力传感器连续监测血压，获追加资助",
+   "summary": "诺丁汉大学团队在透析机管路中加装压力传感器，用于血透中持续测血压，并配合算法预测低血压；已获新资金在更大人群中验证。",
+   "src": "Kidney Research UK",
+   "url": "https://www.kidneyresearchuk.org/2026/10/14/a-new-approach-to-blood-pressure-management-in-dialysis/",
+   "added": "2026-10-15"
+  },
+  {
+   "date": "2026-10-14",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "咸宁市第一人民医院血液透析机采购（第二次）成交 60 万元",
+   "summary": "国药集团湖北省医疗器械有限公司中标，综合评分 91.7 分，成交金额 60 万元。",
+   "src": "中国政府采购网",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202610/t20261014_27485383.htm",
+   "added": "2026-10-15"
+  },
+  {
+   "date": "2026-10-14",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "包头九原区社区卫生服务中心血透室设备中标：威高 DBB-EXA 5 台",
+   "summary": "血透机为威高 DBB-EXA ESS SE，5 套单价 8.8 万元；另有威高 DBB-EXA S 血滤机 1 套 19 万元。",
+   "src": "天工网",
+   "url": "https://bid.tgnet.com/Bidding/004624847691488060n1.html",
+   "added": "2026-10-15"
+  },
+  {
+   "date": "2026-10-13",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "保定徐水区卫生院血透项目中标：费森尤斯 4008A evo 10 台配捷创 JCH-6C-1 制水",
+   "summary": "包含费森尤斯 4008A evo 透析机 10 台、宝莱特 D800H 血滤机 1 台和捷创 JCH-6C-1 透析用水处理设备，合计约 49 万元。",
+   "src": "天工网",
+   "url": "https://bid.tgnet.com/Bidding/667223224317271810969n1.html",
+   "added": "2026-10-15"
   }
  ]
 }
