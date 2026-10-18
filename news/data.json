@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "items": [
   {
    "date": "2026-10-08",
@@ -790,6 +790,216 @@
    "src": "Healio",
    "url": "https://www.healio.com/news/nephrology/20261016/vascular-access-infection-rates-greater-with-home-vs-incenter-hemodialysis",
    "added": "2026-10-17"
+  },
+  {
+   "date": "2026-09-16",
+   "cat": "召回与安全警示",
+   "region": "全球",
+   "title": "Nipro 液体碳酸氢盐/枸橼酸透析浓缩液因内毒素偏高被 FDA 列为 Class II 召回",
+   "summary": "Nipro Renal Solutions USA 的 Medicalyte 液体碳酸氢盐浓缩液（Bc-100、Bc+201 等）及 Citric Complete 液体枸橼酸浓缩液共 4 个品项，因内毒素水平偏高启动召回，FDA 分级为 Class II。使用这些浓缩液的透析中心应核对批号并联系厂家。",
+   "src": "FDA / The Clinical Times",
+   "url": "https://www.accessdata.fda.gov/scripts/ires/index.cfm?Event=99573",
+   "added": "2026-10-18"
+  },
+  {
+   "date": "2026-09-30",
+   "cat": "召回与安全警示",
+   "region": "全球",
+   "title": "费森尤斯 Combiset 血液透析血路管（含预冲装置与压力传感器）发出 IFU 提醒，Class II",
+   "summary": "FDA 记录显示，费森尤斯 Renal Therapies Group 对 Combiset 血液透析血路管套件发出通告，提示临床重新阅读使用说明，并严格按步骤完成治疗准备与操作。分级为 Class II，在美国全国范围销售。",
+   "src": "FDA / The Clinical Times",
+   "url": "https://www.accessdata.fda.gov/scripts/ires/index.cfm?Event=99700",
+   "added": "2026-10-18"
+  },
+  {
+   "date": "2026-10-17",
+   "cat": "维修案例",
+   "region": "日本",
+   "title": "日本透析工程师回忆：日机装 DBB-22B 打开除水开关后透析液压力猛降至负压报警",
+   "summary": "日本诊所工程师在博客中回忆旧款日机装 DBB-22B：开除水开关后透析液压力表打到负压并报警，查水路无泄漏，最后用空气走管路发现脱气腔里的不锈钢浮子穿孔下沉，导致排气阀常开、透析液被抽走。32 年里只遇到过这一次。",
+   "src": "透析工程师博客「メイツの日記」",
+   "url": "http://mates.blog.shinobi.jp/%E8%87%A8%E5%BA%8A%E5%B7%A5%E5%AD%A6%E6%8A%80%E5%A3%AB/",
+   "added": "2026-10-18"
+  },
+  {
+   "date": "2026-10-16",
+   "cat": "行业动态",
+   "region": "日本",
+   "title": "冲绳名护的超级酒店推出“旅行透析套餐”：7 晚住宿+诊所透析+免费接送",
+   "summary": "超级酒店冲绳·名护与当地 Affinity 诊所合作，9 月 7 日起提供 7 晚 8 天套餐：特价住宿、诊所内透析支持、酒店与诊所之间免费接送。主治医生需提前向诊所提供透析条件、近期检验和用药清单等转诊资料。",
+   "src": "观光经济新闻",
+   "url": "https://www.kankokeizai.com/2610161030kks/",
+   "added": "2026-10-18"
+  },
+  {
+   "date": "2026-10-16",
+   "cat": "行业动态",
+   "region": "日本",
+   "title": "日本医疗机构调查：约半数（115/240 家）感到患者对“居家透析（腹膜透析）”认知提高",
+   "summary": "透析病院.com 的运营方对 240 家登载机构调查，47.9% 反映患者对腹膜透析的认知上升，也有机构称相关咨询变多。该调查只反映医院的主观感受，并非患者认知率；稿件同时引用 JSDT 数据：2024 年底日本慢性透析患者 337,414 人，腹透约 3.2%。",
+   "src": "时事通信 / PR TIMES",
+   "url": "https://www.jiji.com/jc/article?g=prt&k=000000009.000104959",
+   "added": "2026-10-18"
+  },
+  {
+   "date": "2026-10-16",
+   "cat": "研究进展",
+   "region": "日本",
+   "title": "长崎大学团队首次估算日本活体供肾者 20 年内进入透析的风险约 1.1%",
+   "summary": "研究用日本肾脏数据登记和移植登记的汇总数据推算，活体供肾者捐肾后 20 年内开始透析的概率约 1.1%（范围约 0.5～2%），60 岁以上捐肾者约 1.6%，高于美国数据，但日本供者年龄更高。作者提醒登记数据缺漏较多，估算可能偏低。",
+   "src": "Transplant International / Bioengineer.org",
+   "url": "https://bioengineer.org/living-kidney-donors-in-japan-face-a-roughly-one-in-a-hundred-dialysis-risk-within-20-years/",
+   "added": "2026-10-18"
+  },
+  {
+   "date": "2026-10-18",
+   "cat": "行业动态",
+   "region": "台湾",
+   "title": "联合报：林口长庚完成全台首次血透、腹透碳足迹盘查并通过第三方 ISO 认证",
+   "summary": "林口长庚绿色透析团队介绍，医院已对血液透析与腹膜透析做碳盘查并经第三方 ISO 认证，主席张智翔表示，盘查是临床推动绿色医疗的依据，希望实现病人、医院与环境“三赢”。",
+   "src": "联合报 元气周报",
+   "url": "https://vip.udn.com/vip/story/123663/9819192?from=vipudn_xyz_subcate&present_date=2026-10-18",
+   "added": "2026-10-18"
+  },
+  {
+   "date": "2026-10-15",
+   "cat": "政策与招采",
+   "region": "台湾",
+   "title": "高雄市卫生局发布“六龟区卫生所多功能智慧血液透析机”采购案",
+   "summary": "高雄市政府卫生局于 10 月 15 日公告六龟区卫生所多功能智慧型血液透析机采购，公开页面未显示预算与截止日期，需登录政府采购网查看。",
+   "src": "GlobalTenders",
+   "url": "https://www.globaltenders.com/tender-detail/115-multifunctional-intelligent-hemodialysis-VVCmP9LsBZgSDehh",
+   "added": "2026-10-18"
+  },
+  {
+   "date": "2026-10-17",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "新泰市人民医院招标血透机 10 台+血透水处理机 1 台，预算 250 万元",
+   "summary": "新泰市紧密型医共体设备项目，公开招标，不接受进口产品；合同签订后 15 个工作日内供货安装调试，投标截止 2026 年 11 月 10 日 09:00。",
+   "src": "中国政府采购网",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202610/t20261017_27513575.htm",
+   "added": "2026-10-18"
+  },
+  {
+   "date": "2026-10-16",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "陇西县第一人民医院二次招标血透用制水设备 1 台，预算 100 万元",
+   "summary": "甘肃陇西县第一人民医院血液透析科设备购置项目（第二次）第二包为血液透析用制水设备 1 台，预算与最高限价均 100 万元，合同签订后 60 天内交货并安装调试，投标截止 11 月 6 日 10:00。",
+   "src": "定西市公共资源交易中心",
+   "url": "https://ggzy.dingxi.gov.cn/jyxx/004002/004002001/20261016/f340723a-fcc0-441d-9e20-7c87c37b18d4.html",
+   "added": "2026-10-18"
+  },
+  {
+   "date": "2026-10-16",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "深圳市中西医结合医院血透水处理系统中标：贝朗 RO DiaII 2800",
+   "summary": "深圳市中西医结合医院“血液透析机用水处理系统等设备”采购结果公示，水处理系统选用贝朗 RO DiaII 2800 一套；公示期 10 月 16 日至 19 日。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-4f7eb13fef23df67b6f5c18dc8e8977d/",
+   "added": "2026-10-18"
+  },
+  {
+   "date": "2026-10-15",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "印度 ESIC 在 GeM 平台招标血透中心集中式 RO 水处理装置",
+   "summary": "印度雇员国家保险公司（ESIC）位于喀拉拉邦的项目在 GeM 平台发布“血液透析用集中式 RO 水处理装置 V2”，数量 1 套，交货期 15 天，投标截止 2026 年 11 月 5 日。",
+   "src": "iBid.Win / GeM",
+   "url": "https://ibid.win/tender/gem-tender-centralized-ro-water-purification-plant-na-asramam-kerala-2464487",
+   "added": "2026-10-18"
+  },
+  {
+   "date": "2026-10-16",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "提鲁帕蒂 SVIMS 透析科招标 2000 LPH RO 与 2000 LPH 双级 RO 系统",
+   "summary": "印度提鲁马拉·提鲁帕蒂寺产管理局为 SVIMS 医院透析科招标 2000 LPH RO 装置及 2000 LPH 双级 RO 系统的供货、安装与调试，10 月 16 日发布，投标截止 11 月 9 日。",
+   "src": "IndianTenders",
+   "url": "https://www.indiantenders.in/tenderdetail/supply-erection-and-commissioning-2000-lph-ro-plant-2000-lph-double-ro-system-dialysis-unit-svims-tir-0b2b009/",
+   "added": "2026-10-18"
+  },
+  {
+   "date": "2026-10-16",
+   "cat": "维修案例",
+   "region": "中国大陆",
+   "title": "成都某医院征集 47 台透析机更换内置电池报价：百特 AK96 29 台、TQS-88 18 台",
+   "summary": "医院医学装备部发布维修调研，两种型号都是更换内置电池，要求报价含配件、安装调试、运输，质保不低于一年，报名截止 10 月 21 日。说明老机型内置电池到期更换已是批量需求。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-f2e3e4590825029d6acaa1ffb48326df/",
+   "added": "2026-10-18"
+  },
+  {
+   "date": "2026-10-15",
+   "cat": "维修案例",
+   "region": "中国大陆",
+   "title": "惠州市第一人民医院征集 5 台贝朗 710200R 透析机维修方案",
+   "summary": "医院发布 5 台德国贝朗 710200R 血液透析设备维修项目调研公告，预告阶段，公开页未列具体故障现象。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-cc68e18b40af70ed1d23948359dfca3f/",
+   "added": "2026-10-18"
+  },
+  {
+   "date": "2026-10-16",
+   "cat": "维修案例",
+   "region": "中国大陆",
+   "title": "青县人民医院透析机维保比选：30 台费森尤斯，限价 15 万元，要求原厂授权与 4 小时到场",
+   "summary": "一年期维保，覆盖主控板、电源、流量泵、传感器、超滤模块、电磁阀、水路等；要求原厂授权、至少 1 名原厂认证工程师、本地备件库，紧急停机 4 小时内到场，配件必须原厂全新。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-67fcccfff2fb945b551907aea595d7fb/",
+   "added": "2026-10-18"
+  },
+  {
+   "date": "2026-10-15",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "徐州县域医共体血透机中标：山外山 72 万元（常规）、领恒 138.84 万元（高端）",
+   "summary": "徐州市卫健委 2025 年县域医共体设备更新项目，采购包 1 常规血透机由重庆山外山中标 72 万元，采购包 2 高端血透机由江苏领恒中标 138.84 万元，定标日 10 月 14 日。",
+   "src": "徐州公共资源交易网",
+   "url": "https://ggzy.zwb.xz.gov.cn/jyxx/003004/003004006/20261015/264ced78-79cb-4c1b-9914-aa6e1a1f3f72.html",
+   "added": "2026-10-18"
+  },
+  {
+   "date": "2026-10-16",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "包头九原区麻池镇卫生院血透室中标 79.8 万元：威高 DBB-EXA 血透机 5 台+血滤机 1 台",
+   "summary": "血透机单价 8.8 万元、血滤机 19 万元，另含康辉 KHXT-1000 处理设备 1 套（9.51 万元），整体 79.8 万元，评审得分 93.45。",
+   "src": "天工网",
+   "url": "https://bid.tgnet.com/Bidding/33652221708396160012n1.html",
+   "added": "2026-10-18"
+  },
+  {
+   "date": "2026-10-15",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "山西医科大学第一医院血透设备中标：贝朗 HDF/血滤机/血透机共 8 台",
+   "summary": "中标品牌为贝朗：血液透析滤过装置 2 台（22.3 万元/台）、OMNI standard 血滤机 2 台（24.5 万元/台）、710300T 血透机 4 台（14.8 万元/台），评审得分 90.5。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-f5018ebee49c986f817b8e57bc68d241/",
+   "added": "2026-10-18"
+  },
+  {
+   "date": "2026-10-16",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "北京地坛医院比选采购血液透析滤过机 1 台，预算 20 万元",
+   "summary": "比选采购，交货期为收到成交通知书后 60 天内，文件发售 10 月 16～23 日，响应文件截止 10 月 27 日 09:30。",
+   "src": "首都医科大学附属北京地坛医院",
+   "url": "https://www.bjdth.com.cn/Html/News/Articles/1001852.html",
+   "added": "2026-10-18"
+  },
+  {
+   "date": "2026-10-16",
+   "cat": "行业动态",
+   "region": "中国大陆",
+   "title": "山外山公告：子公司重庆天外天生物技术医疗器械注册证延续完成",
+   "summary": "山外山（688410）10 月 16 日在上交所披露，其全资子公司重庆天外天生物技术有限公司已完成医疗器械注册证延续，公告属自愿披露，具体产品未在摘要中说明。",
+   "src": "6ix / 上交所公告",
+   "url": "https://6ix.com/news/688410sws-hemodialysis-care-co-ltdannouncement-on-voluntary-disclosure-of-the-completion-of-medical-device-registration-renewal-by-wholly-owned-subsidiary",
+   "added": "2026-10-18"
   }
  ]
 }
