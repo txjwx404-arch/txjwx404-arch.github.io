@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18",
+ "updated": "2026-10-19",
  "items": [
   {
    "date": "2026-10-08",
@@ -1000,6 +1000,16 @@
    "src": "6ix / 上交所公告",
    "url": "https://6ix.com/news/688410sws-hemodialysis-care-co-ltdannouncement-on-voluntary-disclosure-of-the-completion-of-medical-device-registration-renewal-by-wholly-owned-subsidiary",
    "added": "2026-10-18"
+  },
+  {
+   "date": "2026-10-09",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "维持性血透患者：临床检查、生物电阻抗与肺超声评估容量状态存在不一致",
+   "summary": "研究在无心衰的维持性血透患者中比较三种容量评估方法，发现结果常不一致，提示单一手段判断干体重可能不够可靠。",
+   "src": "Frontiers in Nephrology",
+   "url": "https://www.frontiersin.org/journals/nephrology/articles/10.3389/fneph.2026.2000700/full",
+   "added": "2026-10-19"
   }
  ]
 }
