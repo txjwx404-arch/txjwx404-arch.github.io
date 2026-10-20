@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19",
+ "updated": "2026-10-20",
  "items": [
   {
    "date": "2026-10-08",
@@ -1010,6 +1010,36 @@
    "src": "Frontiers in Nephrology",
    "url": "https://www.frontiersin.org/journals/nephrology/articles/10.3389/fneph.2026.2000700/full",
    "added": "2026-10-19"
+  },
+  {
+   "date": "2026-10-19",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "费森尤斯在ASN肾脏周公布5008X高容量HDF数据",
+   "summary": "费森尤斯称，美国超过1万次5008X CAREsystem的高容量血液透析滤过治疗中，74%达到23升以上的对流剂量目标。另有GLP-1激动剂与维持性血透死亡率的靶试验模拟研究将于10月22日壁报展示。",
+   "src": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/fresenius-medical-care-presents-new-evidence-and-innovations-advancing-kidney-care-at-asn-kidney-week-2026-302912336.html",
+   "added": "2026-10-20"
+  },
+  {
+   "date": "2026-10-19",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "美国格兰德福克斯诊所及关联透析公司申请破产保护",
+   "summary": "北达科他州格兰德福克斯7家关联医疗及商业实体于10月16日分别提交第11章破产申请，涉及透析业务。",
+   "src": "Valley News Live",
+   "url": "https://www.valleynewslive.com/2026/10/19/grand-forks-clinic-affiliated-dialysis-companies-file-bankruptcy/",
+   "added": "2026-10-20"
+  },
+  {
+   "date": "2026-10-18",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "前瞻：静脉用upacicalcet治疗血透继发甲旁亢III期结果将于ASN公布",
+   "summary": "PATH-1/PATH-2两项III期安慰剂对照试验结果将于10月23日以晚期突破口头报告发布，该药在透析过程中给药可保证服药依从。",
+   "src": "MedBulletins",
+   "url": "https://boletinesmedicos.com/en/nephrology/2026-10-18-viene.html",
+   "added": "2026-10-20"
   }
  ]
 }
