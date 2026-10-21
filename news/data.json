@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "items": [
   {
    "date": "2026-10-08",
@@ -1040,6 +1040,66 @@
    "src": "MedBulletins",
    "url": "https://boletinesmedicos.com/en/nephrology/2026-10-18-viene.html",
    "added": "2026-10-20"
+  },
+  {
+   "date": "2026-10-20",
+   "cat": "政策与招采",
+   "region": "全球",
+   "title": "美国HHS发布国家肾脏护理计划：放宽透析中心设立门槛、增加竞争",
+   "summary": "HHS 10月20日公布肾脏护理国家计划，主张早期筛查、鼓励创新，并削减开设透析中心的要求以增加市场竞争，可能冲击 DaVita、费森尤斯等龙头。",
+   "src": "Axios",
+   "url": "https://www.axios.com/2026/10/20/kidney-care-plan-kennedy",
+   "added": "2026-10-21"
+  },
+  {
+   "date": "2026-10-20",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "ICRAKI试验提前终止：ICU起始间歇血透较连续治疗死亡更多",
+   "summary": "据 NephSpace 周报，ICU 急性肾损伤试验 ICRAKI 因起始间歇性血透组死亡增多而提前终止，差距大小不确定，但方向提示风险。",
+   "src": "NephSpace",
+   "url": "https://nephspace.com/weekly-oct-20/",
+   "added": "2026-10-21"
+  },
+  {
+   "date": "2026-10-20",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "溆浦县第四人民医院血透室设备中标282.8万元：费森尤斯4008A×18、5008S×2",
+   "summary": "湖南核康医疗中标，含费森尤斯 4008A（单价约10.6万元）18台、5008S 2台及启诚 ME4-2000 水处理1套（约43.8万元）。",
+   "src": "湖南怀化公共资源交易中心",
+   "url": "https://ggzy.huaihua.gov.cn/ggzyjyzx/c116113/202610/ce086dfd1a4a405bb7e1a94b1d6eb235.shtml",
+   "added": "2026-10-21"
+  },
+  {
+   "date": "2026-10-19",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "厦门血液透析系统统招分签中标357万元：德朗 DORA-6000S1 血滤机",
+   "summary": "厦门市医用设备集中采购专班二次招标结果，德朗 DORA-6000S1 单价8.5万元，多包合计数十台。",
+   "src": "十环招标网",
+   "url": "https://bid.10huan.com/2026/zb/1019/zb1792391461348208.html",
+   "added": "2026-10-21"
+  },
+  {
+   "date": "2026-10-19",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "故城县辛庄中心卫生院重新招标：透析机5台+配套20台机位水处理设备",
+   "summary": "预算80.5万元，含透析机5台、血滤机1台、满足20台透析机的制水水机1台，开标11月10日。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-7578795e3838bc6e571fe04b4aadb84c/",
+   "added": "2026-10-21"
+  },
+  {
+   "date": "2026-10-20",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "英国Northwick Park医院授予Vantive CWP800反渗透水处理系统安装合同",
+   "summary": "Imperial College Healthcare NHS 信托将 CWP800 RO 水处理系统的供货、安装调试合同授予 Vantive，金额28.9万英镑。",
+   "src": "Bidstats",
+   "url": "https://bidstats.uk/tenders/2026/W43/880803926",
+   "added": "2026-10-21"
   }
  ]
 }
