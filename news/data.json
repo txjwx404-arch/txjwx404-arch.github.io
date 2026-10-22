@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21",
+ "updated": "2026-10-22",
  "items": [
   {
    "date": "2026-10-08",
@@ -1100,6 +1100,36 @@
    "src": "Bidstats",
    "url": "https://bidstats.uk/tenders/2026/W43/880803926",
    "added": "2026-10-21"
+  },
+  {
+   "date": "2026-10-21",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "费森尤斯multiFiltratePRO在美上市：连续肾脏替代治疗获FDA许可",
+   "summary": "费森尤斯宣布其CRRT系统multiFiltratePRO及配套溶液获FDA许可，在美国面向急性肾损伤的ICU患者上市。",
+   "src": "Fresenius Medical Care",
+   "url": "https://freseniusmedicalcare.com/en/media/newsroom/fresenius-medical-care-brings-kidney-care-innovation-to-critical/",
+   "added": "2026-10-22"
+  },
+  {
+   "date": "2026-10-21",
+   "cat": "召回与安全警示",
+   "region": "全球",
+   "title": "韩国昌原一血透室14人感染丙肝，当局展开流行病学调查",
+   "summary": "患者13人和职工1人确诊丙肝，已对环境和感染者样本做基因分析，并要求全道透析机构严守手卫生、设备消毒与配药分离。",
+   "src": "亚洲经济/SBS",
+   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008807790",
+   "added": "2026-10-22"
+  },
+  {
+   "date": "2026-10-21",
+   "cat": "行业动态",
+   "region": "日本",
+   "title": "和歌山县“透析安心邮件”1917名登记者信息可能泄露",
+   "summary": "因县所用服务企业遭非法访问，登记者姓名与电话可能外泄，知事道歉并提醒警惕冒充县政府的诈骗。",
+   "src": "读卖新闻",
+   "url": "https://www.yomiuri.co.jp/local/kansai/news/20261021-GYO1T00050/",
+   "added": "2026-10-22"
   }
  ]
 }
