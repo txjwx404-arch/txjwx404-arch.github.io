@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "items": [
   {
    "date": "2026-10-08",
@@ -169,16 +169,6 @@
    "summary": "台湾约 8.2 万名血透患者，每年约产生 22.7 万吨 CO₂ 当量；腹膜透析每人每年约少 16%。对透析中心节水节电、耗材管理有参考价值。",
    "src": "元气网 / 联合报",
    "url": "https://health.udn.com/health/story/5975/9748102",
-   "added": "2026-10-11"
-  },
-  {
-   "date": "2026-08-20",
-   "cat": "研究进展",
-   "region": "台湾",
-   "title": "亚东医院引进动静脉瘘外支撑装置 VasQ",
-   "summary": "针对血管条件差的患者，在动静脉吻合处外加镍钛合金支撑，帮助瘘管成熟，个案术后约 3 周即可使用。台湾透析人口已超过 9.7 万人。",
-   "src": "三立新闻 / 壹苹新闻",
-   "url": "https://www.setn.com/news/1892572",
    "added": "2026-10-11"
   },
   {
@@ -1130,6 +1120,76 @@
    "src": "读卖新闻",
    "url": "https://www.yomiuri.co.jp/local/kansai/news/20261021-GYO1T00050/",
    "added": "2026-10-22"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "美国HHS发布《国家肾脏护理计划》：推动居家透析与提升竞争",
+   "summary": "HHS推出Kidney Care National Plan，重点包括预防肾衰竭、扩大居家透析、改革透析服务体系和移植体系；Becker's指出计划针对两大透析巨头约74%的市场集中度。",
+   "src": "Fierce Healthcare",
+   "url": "https://www.fiercehealthcare.com/regulatory/hhs-launches-national-kidney-plan-transform-nations-kidney-care",
+   "added": "2026-10-23"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "ASN肾脏周：钾结合剂SZC可减轻血透患者饮食限钾负担",
+   "summary": "一项多中心随机试验显示，血透患者在营养指导基础上加用环硅酸锆钠（SZC），有助缓解日常限钾的负担，结果将在ASN Kidney Week 2026公布。",
+   "src": "MedicalXpress",
+   "url": "https://medicalxpress.com/news/2026-10-potassium-binder-ease-burden-dietary.html",
+   "added": "2026-10-23"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "行业动态",
+   "region": "中国大陆",
+   "title": "山外山透析液过滤器获NMPA三类注册证",
+   "summary": "重庆山外山的透析液过滤器SWS-EF210获首次注册，配套血透装置使用，可滤除透析液中的细菌、内毒素和微粒，使用寿命900小时/160次，有效期至2031年10月。",
+   "src": "中财网",
+   "url": "https://cfi.net.cn/p20261022001472.html",
+   "added": "2026-10-23"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "上海浦东新区血透用制水设备公开招标：最高限价165万元",
+   "summary": "浦东新区卫生财务资产与工程安全事务中心招标1套血透制水设备，预算200万元，11月5日开标，要求30天内交付安装调试。",
+   "src": "中国政府采购网",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202610/t20261023_27547357.htm",
+   "added": "2026-10-23"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "盐都燕舞血液透析中心采购水处理机：产水≥1800L/h，约37万元",
+   "summary": "项目需1台可供30台透析机用水的水处理设备，投资约37万元，推荐品牌含康仑、启诚、中洋，服务期30天。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-84baecd48f5d0e0b880e0dfe6ef9613f/",
+   "added": "2026-10-23"
+  },
+  {
+   "date": "2026-10-21",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "上饶沙溪中心医院血透室设备征集需求：预算248万元",
+   "summary": "拟采购血透机10台、血滤机1台、2吨双级反渗水处理装置及储水罐，水质须符合YY 0572，整机保修不少于3年。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-5a21b9c55196dcdb61893a6d0e05ce7a/",
+   "added": "2026-10-23"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "广东县域医共体设备更新第二批：血液透析用水处理设备列入招标计划",
+   "summary": "广东省卫健委发布采购计划，将血液透析用水处理设备纳入县域医共体设备更新（第二批），采用公开招标，预算未公开。",
+   "src": "环众标讯",
+   "url": "https://bidxun.com/detail/39938704",
+   "added": "2026-10-23"
   }
  ]
 }
