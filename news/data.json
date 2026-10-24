@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24",
+ "updated": "2026-10-25",
  "items": [
   {
    "date": "2026-10-08",
@@ -1230,6 +1230,66 @@
    "src": "翰森制药",
    "url": "https://www.hspharm.com/news/news-detail-513521.htm",
    "added": "2026-10-24"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "upacicalcet三期PATH-1/2：血透继发甲旁亢静脉钙敏剂达主要终点",
+   "summary": "Pathalys在ASN肾脏周公布两项三期结果，透析后给药27周，疗效优于安慰剂，并同步发表于JASN；低钙血症发生率较低（0.8%～2%）。",
+   "src": "Pathalys / PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/pathalys-pharma-presents-positive-data-from-pivotal-phase-3-studies-of-upacicalcet-in-featured-oral-presentation-at-asn-kidney-week-2026-302918517.html",
+   "added": "2026-10-25"
+  },
+  {
+   "date": "2026-10-24",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "RENEW-HD：便携式血透设备研究数据公布",
+   "summary": "单臂开放研究中，每2小时治疗平均spKt/V为0.74，周标准化Kt/V约2.19，体液与电解质指标总体稳定，将进入约500次的自主使用阶段以支持居家认证。",
+   "src": "HCPLive",
+   "url": "https://www.hcplive.com/view/renew-hd-portable-hemodialysis-data-with-karin-gerritsen-md-phd",
+   "added": "2026-10-25"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "钾结合剂SZC可减轻血透患者饮食限钾负担",
+   "summary": "183例随机试验显示，在营养咨询基础上加用环硅酸锆钠，8周后与限钾饮食相关的生活质量改善更明显。",
+   "src": "News-Medical / ASN",
+   "url": "https://www.news-medical.net/news/20261022/Potassium-binder-helps-dialysis-patients-manage-dietary-restrictions.aspx",
+   "added": "2026-10-25"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "英国SIMPLIFIED试验：大剂量维生素D对透析患者无总体获益",
+   "summary": "剑桥牵头的大型透析试验总体未见益处，仅在非白人患者和男性中有值得关注的信号，研究者呼吁继续研究。",
+   "src": "剑桥大学医院 CUH",
+   "url": "https://www.cuh.nhs.uk/news/calls-dialysis-research-following-results-landmark-uk-trial/",
+   "added": "2026-10-25"
+  },
+  {
+   "date": "2026-10-24",
+   "cat": "研究进展",
+   "region": "日本",
+   "title": "ICRAKI试验（NEJM）：重症AKI首次透析，间歇法未能证明不劣于持续法",
+   "summary": "554例ICU患者随机试验，MAKE90未证明不劣效，死亡HR 1.30，试验提前终止；结论不适用于慢性透析。",
+   "src": "Lab Science（日文）",
+   "url": "https://lab.main.jp/science/posts/icraki-acute-kidney-injury-initial-dialysis-modality/",
+   "added": "2026-10-25"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "行业动态",
+   "region": "日本",
+   "title": "福岛县广野町「ふたば肾・泌尿器科诊所」11月2日开业，设30张透析床",
+   "summary": "由医疗法人杏顺会运营，设人工透析内科、泌尿器科，周一至周五开诊。",
+   "src": "福岛民报",
+   "url": "https://www.minpo.jp/articles/-/257916",
+   "added": "2026-10-25"
   }
  ]
 }
