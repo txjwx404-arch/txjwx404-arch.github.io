@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23",
+ "updated": "2026-10-24",
  "items": [
   {
    "date": "2026-10-08",
@@ -1190,6 +1190,46 @@
    "src": "环众标讯",
    "url": "https://bidxun.com/detail/39938704",
    "added": "2026-10-23"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "Humacyte人工血管ATEV三期结果：女性透析通路优于动静脉内瘘",
+   "summary": "V012三期中期分析（前80例）显示，女性植入ATEV者首年平均无导管天数220天，对照内瘘为129天，达到优效终点；功能性通路建立中位1.7个月对5.3个月。",
+   "src": "GlobeNewswire",
+   "url": "https://www.globenewswire.com/news-release/2026/10/23/3387207/0/en/humacyte-at-asn-kidney-week-phase-3-trial-built-for-women-shows-atev-advantage-over-fistula-getting-patients-off-catheters-months-sooner.html",
+   "added": "2026-10-24"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "费森尤斯任命Shervin Korangy为新任CEO",
+   "summary": "费森尤斯医疗宣布Shervin Korangy出任CEO，称将聚焦创新、扩大服务可及性并推动长期增长。",
+   "src": "Home Dialysis Central",
+   "url": "https://homedialysis.org/news-and-research/news/industry-updates",
+   "added": "2026-10-24"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "费森尤斯multiFiltratePRO在美推出：自动化枸橼酸抗凝CRRT系统",
+   "summary": "该系统获FDA批准并配套两种枸橼酸/氯化钙溶液，面向ICU急性肾损伤患者，集成泵并按Ci-Ca方案自动调速。",
+   "src": "BioSpace",
+   "url": "https://www.biospace.com/press-releases/fresenius-medical-care-brings-kidney-care-innovation-to-critical-care-patients-with-u-s-launch-of-multifiltratepro",
+   "added": "2026-10-24"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "研究进展",
+   "region": "中国大陆",
+   "title": "翰森制药戈西卡肽用于血透继发性甲旁亢：三期数据发布于ASN",
+   "summary": "戈西卡肽三期及长期安全性研究显示疗效明确，胃肠道不良事件发生率较低，在ASN肾脏周以壁报形式公布。",
+   "src": "翰森制药",
+   "url": "https://www.hspharm.com/news/news-detail-513521.htm",
+   "added": "2026-10-24"
   }
  ]
 }
