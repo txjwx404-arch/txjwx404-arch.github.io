@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "items": [
   {
    "date": "2026-10-08",
@@ -78,16 +78,6 @@
    "summary": "套件内 0.9% 氯化钠安瓿（Huons 生产）存在无菌保证问题，取出安瓿后其余组件可继续使用。召回号 Z-2984/2985-2026。",
    "src": "MedTech Current",
    "url": "https://www.medtechcurrent.com/device-recalls/becton-dickinson-dialysis-convenience-kits-saline-fda-class-i-recall/",
-   "added": "2026-10-11",
-   "region": "全球"
-  },
-  {
-   "date": "2026-08-26",
-   "cat": "维修案例",
-   "title": "2008T BlueStar 报流量、无水、温度报警：厂家更换部件（Class II 更正）",
-   "summary": "美国 1,140 台受影响（型号 191126、191130），治疗中可能触发流量/无水/温度报警被迫换机。属现场更正而非撤机，由厂家更换零件。召回号 Z-3017-2026。",
-   "src": "Medical Daily / FDA",
-   "url": "https://www.medicaldaily.com/fresenius-2008t-bluestar-dialysis-machine-recall-alarms-477900",
    "added": "2026-10-11",
    "region": "全球"
   },
@@ -1290,6 +1280,176 @@
    "src": "福岛民报",
    "url": "https://www.minpo.jp/articles/-/257916",
    "added": "2026-10-25"
+  },
+  {
+   "date": "2026-10-24",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "瑞安市人民医院血透水处理系统中标109.8万元：金宝 CWP 100 WRO 106 H",
+   "summary": "瑞安市人民医院血透水处理系统（1套）二次招标结果公布，中标价109.8万元，品牌型号为金宝 CWP 100 WRO 106 H。",
+   "src": "中国政府采购网",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202610/t20261024_27556963.htm",
+   "added": "2026-10-26"
+  },
+  {
+   "date": "2026-10-24",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "淳安县第二人民医院公开招标血透水处理设备：预算35万元，11月13日开标",
+   "summary": "浙江淳安县第二人民医院采购1套血透水处理设备，预算与最高限价均为35万元，要求提供医疗器械注册或备案证明，11月13日14:30开标。",
+   "src": "中国政府采购网",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202610/t20261024_27556734.htm",
+   "added": "2026-10-26"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "通用医疗西安医院谈判采购双级反渗透水处理系统：最高限价35万元",
+   "summary": "通用医疗西安医院采购1套双级反渗透水处理系统，最高限价35万元，采购文件发售至10月27日。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-1e495dc4c710fd04e802e32bf4754ed9/",
+   "added": "2026-10-26"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "中铁十二局中心医院谈判采购透析用水处理设备及集中供液系统：限价85.2万元",
+   "summary": "该院拟采购血液透析机用水处理设备1套和血液透析集中供液系统1套，最高限价85.2万元，合同后30天内交货。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-3f6dfdb9257073210a34ece0c91593b7/",
+   "added": "2026-10-26"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "甘南县医共体透析设备中标475万元：威高日机装 DBB-EXA 血透机30台",
+   "summary": "甘南县人民医院医共体共享中心透析设备二次招标结果：中标475万元，含威高日机装 DBB-EXA ESS E 血透机30台（单价14.3万元）和 DBB-EXA S 血滤机2台（单价23万元）。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-110c67af0df1a36a810af7384496d6cb/",
+   "added": "2026-10-26"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "粤北人民医院血液透析机二次成交89.64万元",
+   "summary": "粤北人民医院血液透析机项目二次采购公布成交结果，成交金额89.64万元，供应商为广州九州通医疗器械有限公司。",
+   "src": "广东远东招标代理",
+   "url": "http://www.gdydzb.com/Bulletins/Detail?id=32602",
+   "added": "2026-10-26"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "瑞昌市中医医院单泵血透机、双泵血滤机三次成交：山外山26.5万元",
+   "summary": "瑞昌市中医医院单泵血透机与双泵血滤机项目经三次采购成交，供应商为重庆山外山，成交价26.5万元。",
+   "src": "中国政府采购网",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202610/t20261023_27555705.htm",
+   "added": "2026-10-26"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "铜陵市义安区人民医院血液透析滤过机中标22.38万元：贝朗1台",
+   "summary": "铜陵市义安区人民医院采购血液透析滤过机1台，品牌为贝朗，中标价22.38万元，供应商为安徽天星医疗科技。",
+   "src": "铜陵市公共交易中心",
+   "url": "https://ggzyjyzx.tl.gov.cn/jyxx/003006/003006002/20261023/b0300d7c-266d-4f16-9f66-afc9973ccd4d.html",
+   "added": "2026-10-26"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "维修案例",
+   "region": "中国大陆",
+   "title": "普安县人民医院血透机、血滤机全保服务采购完成定标",
+   "summary": "普安县人民医院对血液透析机和血液透析滤过机的全保（全面保修）维保服务经院内挂网采购，已于10月22日定标，供应商信息未公开。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-bf6251a34a31eefc6a39a4890557d4cf/",
+   "added": "2026-10-26"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "挪威卑尔根医院群招标更换透析用RO水处理装置，估值140万挪威克朗",
+   "summary": "挪威 Sykehusinnkjøp 为 Helse Bergen 公开招标更换透析科反渗透（RO）装置，估值约140万挪威克朗，投标截止11月23日。",
+   "src": "Anbudsregisteret（TED）",
+   "url": "https://anbudsregisteret.no/anbud/730096-2026-norway-laboratory-optical-and-precision-equipments-excl-glasses-ro",
+   "added": "2026-10-26"
+  },
+  {
+   "date": "2026-10-22",
+   "cat": "政策与招采",
+   "region": "台湾",
+   "title": "台北市立联合医院中兴院区招标连续性血液净化仪，预算140万新台币",
+   "summary": "台北市立联合医院中兴院区肾脏内科公开招标连续性血液净化仪，预算140万元新台币，10月27日截止投标、28日开标，12月24日前交货验收。",
+   "src": "台湾政府电子采购网（acebidx）",
+   "url": "https://acebidx.com/zh-TW/docs/tender/id/aab83b96-5451-4e5a-8d6b-8807fa238f3d",
+   "added": "2026-10-26"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "政策与招采",
+   "region": "台湾",
+   "title": "乐生医院公开取得报价：洗腎室专用清洁剂，预算60万新台币",
+   "summary": "卫福部乐生医院采购洗腎室专用清洁剂，预算约60万元新台币，履约期2年，11月4日截止投标。",
+   "src": "台湾政府电子采购网（acebidx）",
+   "url": "https://acebidx.com/zh-TW/docs/tender/id/92168d27-cd91-4c5a-9947-1fb2acf684ef",
+   "added": "2026-10-26"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "行业动态",
+   "region": "台湾",
+   "title": "蔷琵台风停班：国泰、北医等医院洗腎照常；健保署开放例外就医",
+   "summary": "台风蔷琵来袭当天，风传媒整理显示国泰医院、北医附医洗腎照常。健保署另表示，受灾民众健保卡遗失或损毁可例外就医、重开慢笺。",
+   "src": "风传媒 / 卫福部",
+   "url": "https://www.storm.mg/lifestyle/11175262",
+   "added": "2026-10-26"
+  },
+  {
+   "date": "2026-10-23",
+   "cat": "行业动态",
+   "region": "日本",
+   "title": "台风30号逼近熊本：多家透析诊所调整10月26日透析日程",
+   "summary": "熊本县宇城市等地诊所因台风30号接近，把10月26日的透析改到25日进行，也有诊所暂定照常并提醒视情况变更。事后该台风已减弱为温带低气压。",
+   "src": "うきクリニック",
+   "url": "http://www.uki-clinic.com/%e5%8f%b0%e9%a2%a830%e5%8f%b7%e3%81%ab%e3%82%88%e3%82%8b%e9%80%8f%e6%9e%90%e8%a8%ba%e7%99%82%e6%97%a5%e5%a4%89%e6%9b%b4%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
+   "added": "2026-10-26"
+  },
+  {
+   "date": "2026-10-25",
+   "cat": "行业动态",
+   "region": "日本",
+   "title": "Yahoo特稿：熊本地震后断水致透析告急，探访受灾医院的现实",
+   "summary": "Yahoo!ニュース原创特稿回顾7月28日熊本地震后，基础设施中断使透析等治疗受阻，并讨论医院赤字背景下的灾害应对。此处仅据导语与标题概括。",
+   "src": "Yahoo!ニュース",
+   "url": "https://news.yahoo.co.jp/pickup/6600072",
+   "added": "2026-10-26"
+  },
+  {
+   "date": "2026-10-24",
+   "cat": "研究进展",
+   "region": "日本",
+   "title": "富山新闻：透析中的肾脏康复运动可提高患者生存率",
+   "summary": "北陆富山新闻「医疗新世纪」专栏报道透析期间以运动为中心的肾脏康复，并介绍其对生存率的验证（全文需订阅，此处据标题与导语概括）。",
+   "src": "富山新闻",
+   "url": "https://www.hokkoku.co.jp/articles/tym/2269134",
+   "added": "2026-10-26"
+  },
+  {
+   "date": "2026-10-24",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "Ardelyx真实世界数据：透析患者启用tenapanor后血磷下降",
+   "summary": "在1400多名透析高磷血症成人中，无论是否联用磷结合剂，启用tenapanor 6个月后血磷均下降，调整后平均降幅0.80–1.55 mg/dL；180日时仍在用药者约60–70%。",
+   "src": "Investing.com / Ardelyx",
+   "url": "https://jp.investing.com/news/company-news/article-93CH-1724110",
+   "added": "2026-10-26"
   }
  ]
 }
