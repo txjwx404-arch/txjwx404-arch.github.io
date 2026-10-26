@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-10-27",
  "items": [
   {
    "date": "2026-10-08",
@@ -1450,6 +1450,86 @@
    "src": "Investing.com / Ardelyx",
    "url": "https://jp.investing.com/news/company-news/article-93CH-1724110",
    "added": "2026-10-26"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "政策与招采",
+   "region": "全球",
+   "title": "HHS发布美国《肾脏护理国家计划》，拟增强透析市场竞争",
+   "summary": "计划指出两大公司占约74%的透析市场，将考虑降低新进入者门槛、扩大居家透析以促进创新。两大透析服务商已发表回应。",
+   "src": "HCI Innovation Group",
+   "url": "https://www.hcinnovationgroup.com/population-health-management/chronic-illness/news/55414406/dialysis-providers-respond-to-hhs-kidney-care-national-plan",
+   "added": "2026-10-27"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "X9穿刺辅助系统获FDA突破性器械认定，完成第二项临床研究",
+   "summary": "该研究性设备辅助动静脉内瘘血透穿刺，ACCESS-2研究纳入10名患者、完成多次透析治疗。",
+   "src": "BioSpace",
+   "url": "https://www.biospace.com/press-releases/x9-receives-fda-breakthrough-device-designation-for-investigational-dialysis-cannulation-system-and-completes-second-clinical-study",
+   "added": "2026-10-27"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "Kidney Week：每周三次透析中给药的vadadustat治疗贫血有效",
+   "summary": "与标准促红素类药物相比，可降低透析患者死亡或住院的复合终点风险。",
+   "src": "Renal and Urology News",
+   "url": "https://www.renalandurologynews.com/reports/vadadustat-hemodialysis-anemia-effective-treatment-risk-thrice-weekly/",
+   "added": "2026-10-27"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "JASN发表PATH-1/2：透析后注射upacicalcet可降低继发甲旁亢患者iPTH",
+   "summary": "两项III期试验共768名血透患者，27周后约四成达标，安慰剂组不足两成。",
+   "src": "Lonevi",
+   "url": "https://lonevi.com/articles/path-trials-upacicalcet-secondary-hyperparathyroidism-haemodialysis-2026",
+   "added": "2026-10-27"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "海南省第二人民医院血液透析用水处理设备采购项目发布合同公告",
+   "summary": "项目编号YCT2026-146，为血透水处理设备采购的成交结果公示。",
+   "src": "海南医院招标网",
+   "url": "http://www.e120.org.cn/fz_22.html",
+   "added": "2026-10-27"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "安福县医共体资源共享中心招标血透机、血滤机、水处理设备，预算363.6万元",
+   "summary": "江西吉安安福县公开招标，含血透机、血滤机与水处理设备打包采购。",
+   "src": "中国政府采购网",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202610/t20261026_27562468.htm",
+   "added": "2026-10-27"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "固镇县刘集中心卫生院血液净化及水处理设备合同公告：9台血透机共139.8万元",
+   "summary": "单台血透机约11.2万元，30日内供货安装调试。",
+   "src": "马蜂盯标",
+   "url": "https://www.dingbiao.com/zhaobiao/aa400f268191ed69158a8dc6642e3147.html",
+   "added": "2026-10-27"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "邹平市人民医院血液透析机采购公开招标，预算75万元",
+   "summary": "山东滨州邹平市人民医院发布血液透析机公开招标。",
+   "src": "中国政府采购网",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202610/t20261026_27565262.htm",
+   "added": "2026-10-27"
   }
  ]
 }
