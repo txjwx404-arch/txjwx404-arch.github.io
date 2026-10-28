@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "items": [
   {
    "date": "2026-10-08",
@@ -1530,6 +1530,86 @@
    "src": "中国政府采购网",
    "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202610/t20261026_27565262.htm",
    "added": "2026-10-27"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "召回与安全警示",
+   "region": "全球",
+   "title": "FDA早期警示：贝朗Dialog+配套Streamline血路管多个批号漏做溶剂涂覆步骤",
+   "summary": "贝朗10月20日通知客户，Dialog+透析机用Streamline血路管（型号SL-2010M2096）三个批号组装时漏了溶剂涂覆，透析器接头可能脱落或渗漏，有失血、凝血和进气风险。截至10月10日无严重伤亡报告，FDA尚未做正式分级，建议隔离相关批号。",
+   "src": "FDA",
+   "url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-b-braun-removes-streamline-bloodline-set-dialog",
+   "added": "2026-10-28"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "召回与安全警示",
+   "region": "全球",
+   "title": "MassDevice报道贝朗血路管召回：漏涂溶剂或致接头脱落",
+   "summary": "媒体跟进FDA早期警示，问题批号共三个，可能在透析中造成接头脱落或渗漏，贝朗已建议医疗机构自查库存。",
+   "src": "MassDevice",
+   "url": "https://www.massdevice.com/b-braun-recalls-dialysis-bloodlines-over-missed-manufacturing-step/",
+   "added": "2026-10-28"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "犍为县中医医院血透室水处理系统整体搬迁并更换反渗透膜，预算4万元",
+   "summary": "项目为院内询价，涉及开能康德威CNKDW-2400和KDW-D1200两台水处理设备的搬迁与RO膜更换，整体报价，低价成交。",
+   "src": "yiliaozhaobiao.com",
+   "url": "https://www.yiliaozhaobiao.com/news-3fd03fe15403c553b171ff2e5e940273/",
+   "added": "2026-10-28"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "六安市人民医院血透室水处理设备配件采购（二次），预算20万元",
+   "summary": "采购内容主要是FME-RO膜AquaA 8040和离子交换树脂等耗材，采用竞争性谈判，属二次公告。",
+   "src": "乙方宝",
+   "url": "https://m.yfbzb.com/inviteBid/detail/20261027_642090934.html",
+   "added": "2026-10-28"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "淮阴区刘老庄中心卫生院血透室水处理系统耗材更换询价，约6万元",
+   "summary": "该卫生院对血透室水处理系统耗材更换项目询价采购，总投资约6万元。",
+   "src": "乙方宝",
+   "url": "https://m.yfbzb.com/inviteBid/detail/20261026_641920766.html",
+   "added": "2026-10-28"
+  },
+  {
+   "date": "2026-10-26",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "广东县域医共体设备更新（第二批）发布血液透析用水处理设备招标",
+   "summary": "公告属广东省县域医共体医疗设备更新项目，采购血液透析用水处理设备，正文需登录查看细节。",
+   "src": "中国医院招标网",
+   "url": "http://www.e120.org.cn.yunliyun.com/g-hospital-641319280--80164910.html",
+   "added": "2026-10-28"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "DaVita研究：约一半漏诊透析源于当天健康问题，主动联系可使54%改约",
+   "summary": "Kidney Week上DaVita数据显示，漏掉透析多因当天出现健康问题；诊所跟进联系后，54%患者重新预约。",
+   "src": "Healio",
+   "url": "https://www.healio.com/news/nephrology/20261027/dialysis-clinic-outreach-can-increase-rescheduling-missed-treatments",
+   "added": "2026-10-28"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "美国司法部：德州SNG透析中心支付约200万美元，了结疫情补助金欺诈指控",
+   "summary": "SNG旗下六家透析中心被指向疫情期间的医疗服务提供者救济基金提交虚假申请，同意支付约200万美元和解。",
+   "src": "DOJ via Forth",
+   "url": "https://www.forth.news/lists/doj/CgTWqHg1ChkNkxPZKMSs8",
+   "added": "2026-10-28"
   }
  ]
 }
