@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "items": [
   {
    "date": "2026-10-08",
@@ -1770,6 +1770,26 @@
    "src": "铜陵市公共资源交易中心",
    "url": "http://ggzyjyzx.tl.gov.cn/jyxx/003002/003002001/20261028/83006d60-96fb-4b73-9373-f5fb3edce02a.html",
    "added": "2026-10-29"
+  },
+  {
+   "date": "2026-10-27",
+   "cat": "召回与安全警示",
+   "region": "全球",
+   "title": "FDA早期预警：贝朗Dialog+配套Streamline血路管3批次连接器粘接不良",
+   "summary": "贝朗因装配时漏掉溶剂涂布步骤，型号SL-2010M2096的3个批次（A2600099、A2600128、A2600136）透析器接头可能脱落或漏血、进气。贝朗10月20日已建议停用并退回，截至10月10日未报告严重伤害。",
+   "src": "MPO",
+   "url": "https://www.mpo-mag.com/breaking-news/assembly-error-prompts-b-braun-bloodline-set-recall/",
+   "added": "2026-10-30"
+  },
+  {
+   "date": "2026-10-28",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "Kidney Week：女性用无细胞组织工程血管做透析通路，无导管天数优于内瘘",
+   "summary": "Humacyte的3期中期数据显示，起始透析用导管的女性中，ATEV组12个月内约220天无导管，内瘘组约129天，且感染更少。",
+   "src": "Renal and Urology News",
+   "url": "https://www.renalandurologynews.com/reports/acellular-tissue-dialysis-vessel-women-fare-better-treatment-risk",
+   "added": "2026-10-30"
   }
  ]
 }
