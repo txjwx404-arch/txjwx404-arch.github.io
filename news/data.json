@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30",
+ "updated": "2026-10-31",
  "items": [
   {
    "date": "2026-10-08",
@@ -1790,6 +1790,86 @@
    "src": "Renal and Urology News",
    "url": "https://www.renalandurologynews.com/reports/acellular-tissue-dialysis-vessel-women-fare-better-treatment-risk",
    "added": "2026-10-30"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "政策与招采",
+   "region": "全球",
+   "title": "CMS终稿：2027年美国透析医保支付上调2.7%，基础费率297.52美元/次",
+   "summary": "CMS发布终稿，2027年透析机构基础费率升至297.52美元，较今年增加15.81美元，预计向约7600家机构支付约70亿美元。磷结合剂并入打包支付，低量机构调整门槛由4000次提高到8000次。",
+   "src": "Healthcare Finance News",
+   "url": "https://www.healthcarefinancenews.com/news/cms-more-doubles-dialysis-payment-increase-2027",
+   "added": "2026-10-31"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "NEJM ICRAKI试验：重症AKI间歇性血透90天死亡率高于CRRT，试验因安全信号提前终止",
+   "summary": "554例重症急性肾损伤患者随机分组，间歇血透未达到对CRRT的非劣效，90天主要不良肾脏事件发生率78.1%对71.6%。结果可能影响ICU治疗方式选择。",
+   "src": "vellito / NEJM",
+   "url": "https://vellito.com/nephrology/392164/intermittent-hemodialysis-falls-short-of-continuous-therapy-in-critically-ill-aki-trial",
+   "added": "2026-10-31"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "Kidney Week：SIMPLIFIED试验显示大剂量维生素D未改善透析患者生存",
+   "summary": "英国55家透析中心3886例患者随机接受每两周6万IU胆钙化醇或常规治疗，总体人群主要与次要终点均无显著差异，仅亚组（男性、非白人）死亡风险较低。",
+   "src": "Healio",
+   "url": "https://www.healio.com/news/nephrology/20261030/highdose-vitamin-d-does-not-improve-survival-on-dialysis",
+   "added": "2026-10-31"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "英国CQC将费森尤斯运营的Scarborough透析中心评为“不足”并列入特别措施",
+   "summary": "CQC在4月检查后，对该独立血透单位的安全性、有效性和领导力评为不足，其余两项为需改进，已进入特别措施监管。",
+   "src": "CQC",
+   "url": "https://www.cqc.org.uk/press-release/cqc-rates-scarborough-nhs-dialysis-unit-inadequate",
+   "added": "2026-10-31"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "东南大学附属中大医院透析用水处理公开招标：预算150万元",
+   "summary": "项目在江苏南京，招标文件10月29日至11月5日发售，11月19日开标。",
+   "src": "中国政府采购网",
+   "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261029_27581396.htm",
+   "added": "2026-10-31"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "德兴市中医院血透室等纯水系统三年全保维保询价采购",
+   "summary": "维保含威力生WSL-ROII/3血透制水系统，内容涵盖更换滤芯、活性炭、石英砂、软化树脂、反渗膜，以及整机检修与管路消毒，公告期至11月3日。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-7173728c54ae0956d5505d0553f5610b/",
+   "added": "2026-10-31"
+  },
+  {
+   "date": "2026-10-29",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "成都市第二人民医院血液透析用水等检测服务比选：预算4.12万元/年",
+   "summary": "检测服务期三年，血液透析用水每点位限价2500元，项目含铝、总氯、铜、铅等多项指标。",
+   "src": "检测招标网",
+   "url": "https://www.jiancezhaobiao.com/news-dfc21ae9048c48b3328fe8c95960b13e/",
+   "added": "2026-10-31"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "巴西EBSERH招标：Humap/UFMS肾替代治疗用水（反渗透）处理服务",
+   "summary": "公告覆盖便携与非便携反渗透系统运维、取样检测、出具报告及水质技术支持，用于血透用水。",
+   "src": "Buscar Licitação",
+   "url": "https://buscarlicitacao.com.br/licitacao/ms/campo-grande/15126437000305-1-004126/2026/edital-no-61-2026",
+   "added": "2026-10-31"
   }
  ]
 }
