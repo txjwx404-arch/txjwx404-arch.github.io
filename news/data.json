@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31",
+ "updated": "2026-11-01",
  "items": [
   {
    "date": "2026-10-08",
@@ -1870,6 +1870,66 @@
    "src": "Buscar Licitação",
    "url": "https://buscarlicitacao.com.br/licitacao/ms/campo-grande/15126437000305-1-004126/2026/edital-no-61-2026",
    "added": "2026-10-31"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "政策与招采",
+   "region": "全球",
+   "title": "CMS 终审规则：上调 2027 年透析基础费率",
+   "summary": "美国 CMS 公布 2027 年 ESRD 支付终审规则，提高透析基础费率，扩大低服务量机构补贴，并调整儿童与居家透析支付及质量项目。",
+   "src": "VitalLaw",
+   "url": "https://www.vitallaw.com/news/end-stage-renal-disease-final-rules-cms-raises-2027-dialysis-base-rate-reshapes-esrd-payment-adjustments/hld01c840aeb2e2f54129955235d84c5e608d",
+   "added": "2026-11-01"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "ICRAKI试验：重症AKI间歇透析90天死亡率高于CRRT",
+   "summary": "NEJM 发表的ICRAKI试验发现，重症急性肾损伤患者采用间歇性血液透析的90天死亡率高于持续肾脏替代治疗。",
+   "src": "TradeAspectHub",
+   "url": "https://www.tradeaspecthub.com/news/Hemodialysis_Consumables/pes-hemodialyzers-high-efficiency-dialysis-filters/NEJM_ICRAKI_Trial_Finds_Higher_Mortality_With_Intermittent_Dialysis_Than_CRRT.html",
+   "added": "2026-11-01"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "水处理设备",
+   "region": "日本",
+   "title": "堺市立综合医疗中心招标透析用水制备装置年度点检",
+   "summary": "大阪堺市立综合医疗中心公开招标日机装 MZ-1 透析用水制备装置2台的点检，含RO模块、RO泵、UV灯等部件更换，履约至2027年3月31日。",
+   "src": "NJSS",
+   "url": "https://www2.njss.info/offers/view/34207890",
+   "added": "2026-11-01"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "研究进展",
+   "region": "日本",
+   "title": "司维拉姆对比碳酸钙：血透患者pCS变化无显著差异",
+   "summary": "124例高磷血症血透患者24周随机试验中，两药主要终点p-甲酚硫酸变化无显著差异，但司维拉姆组CAVI上升幅度更小。",
+   "src": "CareNet",
+   "url": "https://academia.carenet.com/share/news/1859d58b-9f9f-46f9-a75b-e7b124f95839",
+   "added": "2026-11-01"
+  },
+  {
+   "date": "2026-10-31",
+   "cat": "研究进展",
+   "region": "日本",
+   "title": "横滨荣共济医院报告Kocuria心包炎后成功脱离血透病例",
+   "summary": "重症中暑致AKI需血透的患者并发大量心包积液，经心包穿刺引流和抗菌治疗后脱离透析，提示应重视静脉淤血评估。",
+   "src": "横滨市立大学",
+   "url": "http://www.yokohama-medicine.org/news/",
+   "added": "2026-11-01"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "英国CQC将Scarborough NHS透析中心评为“不合格”",
+   "summary": "CQC 因治疗延误、下机延迟等问题且管理层未处理，将该透析中心评为不合格并实施特别措施。",
+   "src": "Briefly",
+   "url": "https://www.wansom.ai/briefly/news/scarborough-nhs-dialysis-unit-cqc-inadequate-rating_cc98914c-1b68-4ed4-bdd0-6990f7179566",
+   "added": "2026-11-01"
   }
  ]
 }
