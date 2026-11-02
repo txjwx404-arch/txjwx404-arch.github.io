@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "items": [
   {
    "date": "2026-10-08",
@@ -60,16 +60,6 @@
    "url": "https://www.pharnexcloud.com/data/zcfg_aa0749d12839b93705348f5910cc8f13.html",
    "added": "2026-10-11",
    "region": "中国大陆"
-  },
-  {
-   "date": "2026-09-02",
-   "cat": "召回与安全警示",
-   "title": "FDA 召回：5008X HD/HDF CLiC 血路管（Class II）",
-   "summary": "动脉端 Alpha Clip 与主管/泵管连接处漏血风险升高，可致失血。料号 03-5300-3C，召回号 Z-3086-2026，受影响批次应立即隔离停用。",
-   "src": "FDA",
-   "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=221854",
-   "added": "2026-10-11",
-   "region": "全球"
   },
   {
    "date": "2026-09-24",
@@ -1930,6 +1920,126 @@
    "src": "Briefly",
    "url": "https://www.wansom.ai/briefly/news/scarborough-nhs-dialysis-unit-cqc-inadequate-rating_cc98914c-1b68-4ed4-bdd0-6990f7179566",
    "added": "2026-11-01"
+  },
+  {
+   "date": "2026-10-31",
+   "cat": "行业动态",
+   "region": "台湾",
+   "title": "台湾卫福部推医疗永续：居家腹膜透析减少往返，透析耗材回收将研议试办",
+   "summary": "卫福部称居家腹膜透析可把病人每月往返医院次数从13次降到1次；并与环境部建立交流平台，研议透析耗材等医疗用品的回收再利用及试办，需兼顾感染控制。",
+   "src": "三立新闻网",
+   "url": "https://www.setn.com/news/1931445",
+   "added": "2026-11-02"
+  },
+  {
+   "date": "2026-10-31",
+   "cat": "行业动态",
+   "region": "台湾",
+   "title": "台北荣总台东分院规划AI洗肾辅助系统：手机拍照识别透析机数据",
+   "summary": "该院计划让护理人员用手机拍下透析机屏幕，由系统识别数据并整理病程记录，经护理人员确认后使用，以减少抄写和重复输入。",
+   "src": "今日在地",
+   "url": "https://localtoday.tw/taitung/news/a_mvwbrctd_sdsqpviw",
+   "added": "2026-11-02"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "水处理设备",
+   "region": "台湾",
+   "title": "台湾国防部军医局招标：Gambro 反渗透纯水机116–117年度保养维护",
+   "summary": "国防部军医局公告 Gambro 品牌血液透析反渗透纯水机2027–2028年维保案，预算约341.7万新台币，11月4日截止投标。",
+   "src": "AI標案雷達（tenderrader）",
+   "url": "https://tenderrader.com/t/3.5.11/ND16013P005",
+   "added": "2026-11-02"
+  },
+  {
+   "date": "2026-11-01",
+   "cat": "研究进展",
+   "region": "日本",
+   "title": "日本研究：透析中运动可降低死亡风险约34%",
+   "summary": "报道称东京女子医大等的调查显示，透析期间进行肾脏康复运动与较好的生存率相关，死亡风险下降34%，部分患者行走能力改善（北海道新闻，付费文章，仅见标题）。",
+   "src": "北海道新闻",
+   "url": "https://www.hokkaido-np.co.jp/article/1400805/",
+   "added": "2026-11-02"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "研究进展",
+   "region": "日本",
+   "title": "Q-Cohort研究：日本透析患者NRI-JH营养风险指数越高，骨折风险越高",
+   "summary": "3038例维持性血透患者、中位随访4年，发生140例骨折；NRI-JH较高组骨折风险约为最低组的2倍（HR 1.95、2.05），提示可作骨折风险分层的营养指标。",
+   "src": "CareNet Academia",
+   "url": "https://academia.carenet.com/share/news/b21913b7-1a22-4e78-8d67-51c429f037a1",
+   "added": "2026-11-02"
+  },
+  {
+   "date": "2026-11-01",
+   "cat": "行业动态",
+   "region": "日本",
+   "title": "日本透析医学会：第71届学术集会教育讲座e-learning开放至2027年1月",
+   "summary": "JSDT 11月1日通知会员，学术集会期间的教育讲座可在线免费观看至2027年1月31日，满足条件可申请专科医师更新学分。",
+   "src": "日本透析医学会",
+   "url": "https://www.jsdt.or.jp/info/4905.html",
+   "added": "2026-11-02"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "石家庄平安医院集团招标透析水处理系统与集中供液系统",
+   "summary": "河北平安健康集团10月30日公告招标透析水处理系统和集中供液系统，11月7日报名截止。",
+   "src": "河北平安健康集团",
+   "url": "http://www.pingan.org.cn/index.php/view.html?nid=1776",
+   "added": "2026-11-02"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "南宁市第二人民医院血透机、血滤机、集中供液及透析水处理系统采购预公示",
+   "summary": "广西科文招标公告预公示：采购血液透析滤过机、血透机、集中供液系统及透析用水处理系统，意见反馈截至11月2日18时。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-05624dd59fa747447328d791d465fa8b/",
+   "added": "2026-11-02"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "驻马店某部队采购透析用水处理机，预算49万元",
+   "summary": "需求公示：拟以竞争性谈判采购1台透析用水处理机，预算49万元，公示期10月31日至11月6日。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-a3310d14391b9c5bdcb131332ca6d6ff/",
+   "added": "2026-11-02"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "福安市医院血透室水处理设备中标：启诚ME4-2000，27万元",
+   "summary": "福安市医院血透室水处理设备项目成交，品牌型号启诚 ME4-2000，1台，成交价27万元。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-d672cd08b3939b0c01e7d19035b314a7/",
+   "added": "2026-11-02"
+  },
+  {
+   "date": "2026-10-30",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "丹麦中日德兰大区招标透析用水与浓缩液混合设备",
+   "summary": "Region Midtjylland 公告采购透析用水及浓缩液混合设备与浓缩液，投标截止12月9日。",
+   "src": "GlobalTenders",
+   "url": "https://www.globaltenders.com/tender-detail/purchase-of-dialysis-water-and-concentrate-m-6cYkBUCkd6pTVx9F",
+   "added": "2026-11-02"
+  },
+  {
+   "date": "2026-10-28",
+   "cat": "政策与招采",
+   "region": "全球",
+   "title": "美国CMS发布2027年ESRD支付终稿：基础费率297.52美元",
+   "summary": "CMS 10月28日发布终稿，2027年起透析基础费率升至297.52美元/次，预计设施总支付增约2.7%；居家透析培训附加费由95.60升至138美元。",
+   "src": "JBizNews / Federal Register",
+   "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22194/medicare-program-cy-2027-changes-to-the-end-stage-renal-disease-esrd-prospective-payment-system",
+   "added": "2026-11-02"
   }
  ]
 }
