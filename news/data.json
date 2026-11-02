@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "items": [
   {
    "date": "2026-10-08",
@@ -2040,6 +2040,96 @@
    "src": "JBizNews / Federal Register",
    "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22194/medicare-program-cy-2027-changes-to-the-end-stage-renal-disease-esrd-prospective-payment-system",
    "added": "2026-11-02"
+  },
+  {
+   "date": "2026-11-02",
+   "cat": "政策与招采",
+   "region": "全球",
+   "title": "美国CMS终案：2027年透析支付基准升至297.52美元",
+   "summary": "CMS于10月28日发布2027年ESRD支付终案，预计设施总支付增2.7%，基础费率由281.71美元升至297.52美元，并加大对居家透析培训的支持、调整质量指标。",
+   "src": "Telehealth.org",
+   "url": "https://telehealth.org/news/cms-finalizes-2027-medicare-dialysis-payment-increases-expands-home-dialysis-support/",
+   "added": "2026-11-03"
+  },
+  {
+   "date": "2026-11-01",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "阿尔巴尼亚血透服务特许经营到期，转由国家机构接管",
+   "summary": "阿尔巴尼亚卫生部宣布，血液透析服务自11月1日起由国家卫生服务运营机构OSHISH接管，11月2日全面运行，称患者治疗不受影响。",
+   "src": "ATA",
+   "url": "https://en.ata.gov.al/2026/11/01/minister-haemodialysis-service-under-state-management-patient-treatment-to-continue-without-disruption/",
+   "added": "2026-11-03"
+  },
+  {
+   "date": "2026-11-02",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "Vadadustat每周三次给药在透析贫血患者中优于EPO",
+   "summary": "一项纳入1973例透析患者的试验显示，每周三次vadadustat的血红蛋白更稳定，住院率比ESA低10%，严重不良事件更少；试验因中期分析达标于6月提前终止。",
+   "src": "Doximity OpMed",
+   "url": "https://opmed.doximity.com/articles/vadadustat-thrice-weekly-improves-clinical-outcomes-vs-epo-in-dialysis-patients-with-renal-anemia",
+   "added": "2026-11-03"
+  },
+  {
+   "date": "2026-11-02",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "黑龙江某监狱医保科透析水处理设备成交：中洋ZYRO-XT02，29.3万元",
+   "summary": "该项目（二次招标）由华润黑龙江医药以29.3万元成交，品牌中洋，型号ZYRO-XT02，1台。",
+   "src": "中招联合招标采购平台",
+   "url": "https://www.365trade.com.cn/jhwzb/891259.jhtml",
+   "added": "2026-11-03"
+  },
+  {
+   "date": "2026-11-02",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "重庆县域医共体采购血液透析用水处理设备3套",
+   "summary": "重庆县域医共体设备更新项目公开招标3套透析用水处理设备，要求具备预处理系统，11月23日截标。",
+   "src": "重庆政府采购网/采购信息",
+   "url": "https://yzb.caigou2003.com/detail/2117207898110296065",
+   "added": "2026-11-03"
+  },
+  {
+   "date": "2026-11-02",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "湖南常德透析机及水处理维保成交：水处理维保预算58.8万元",
+   "summary": "常德某医院血透（滤过）机及水处理维保竞争性磋商结果公布，水处理维保包预算58.8万元，第一名报价58.5万元。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-852269b4e259d14e2fd709f4e67ce539/",
+   "added": "2026-11-03"
+  },
+  {
+   "date": "2026-11-02",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "广州番禺区妇幼保健院血液透析滤过机合同：7台、单价19万元",
+   "summary": "合同总额133万元，采购血液透析滤过机7台，公开招标，11月2日签约。",
+   "src": "医疗招标网",
+   "url": "https://www.yiliaozhaobiao.com/news-1707c47fb206c2fc1441dde7b5cc62d4/",
+   "added": "2026-11-03"
+  },
+  {
+   "date": "2026-11-02",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "攀枝花市中心医院招标血液透析滤过机，预算130万元",
+   "summary": "公开招标，11月24日开标，预算130万元。",
+   "src": "中国政府采购网",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261102_27604512.htm",
+   "added": "2026-11-03"
+  },
+  {
+   "date": "2026-11-02",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "菲律宾伊罗戈医疗中心招标透析设备租赁及双级反渗透水系统安装",
+   "summary": "项目含透析设备租赁、耗材供应及双级RO水系统安装，11月27日截止。",
+   "src": "Tender Impulse",
+   "url": "https://tenderimpulse.com/government-tenders/philippines/lease-of-hemodialysis-equipment-with-provision-of-consumables-and-installation-o-16098263",
+   "added": "2026-11-03"
   }
  ]
 }
