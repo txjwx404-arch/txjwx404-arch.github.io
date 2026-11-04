@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "items": [
   {
    "date": "2026-10-08",
@@ -2130,6 +2130,86 @@
    "src": "Tender Impulse",
    "url": "https://tenderimpulse.com/government-tenders/philippines/lease-of-hemodialysis-equipment-with-provision-of-consumables-and-installation-o-16098263",
    "added": "2026-11-03"
+  },
+  {
+   "date": "2026-11-03",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "Rockwell Medical 以1.25亿美元收购Vantive血透业务",
+   "summary": "Rockwell将收购Vantive的血透浓缩液、血透机、水处理系统及耗材和技术服务业务，含意大利Medolla生产基地，预计2027年中完成；Vantive转向居家透析与重症。",
+   "src": "Vantive",
+   "url": "https://www.vantive.com/news/press-releases/vantive-announces-agreement-divest-majority-hemodialysis-assets-and-associated",
+   "added": "2026-11-04"
+  },
+  {
+   "date": "2026-11-03",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "费森尤斯Q3财报：美国治疗量连降三季，下调利润预期",
+   "summary": "美国同市场治疗量下降1.1%；公司因中国战略调整计提1.08亿欧元一次性成本，包括停产一款透析系统并退出腹膜透析。",
+   "src": "路透/Euronext",
+   "url": "https://live.euronext.com/en/financial-news/fresenius-medical-cuts-2026-profit-outlook-us-treatment-decline-deepens",
+   "added": "2026-11-04"
+  },
+  {
+   "date": "2026-11-02",
+   "cat": "召回与安全警示",
+   "region": "全球",
+   "title": "B. Braun Dialog+ 配套Streamline血路管被要求下架",
+   "summary": "因装配时漏做溶剂涂覆，透析器接头粘合不足，可能脱落或漏血、进气。涉及型号SL-2010M2096，批号A2600099、A2600128、A2600136。",
+   "src": "FDA早期警示",
+   "url": "https://www.effectivemedicine.org/2026/11/02/early-alert-b-braun-medical-inc-removes-streamline-bloodline-set-for-dialog/",
+   "added": "2026-11-04"
+  },
+  {
+   "date": "2026-11-02",
+   "cat": "政策与招采",
+   "region": "日本",
+   "title": "厚劳省拟在2027年度介护报酬改定中推动养老设施接收透析患者",
+   "summary": "11月2日审议会提出修改特养“特别通院送迎加算”，把送迎、健康观察、与透析医疗机构协作等一并评价。",
+   "src": "Joint介护新闻",
+   "url": "https://www.joint-kaigo.com/articles/50062/",
+   "added": "2026-11-04"
+  },
+  {
+   "date": "2026-11-03",
+   "cat": "研究进展",
+   "region": "日本",
+   "title": "东京女子医大：透析中肾脏康复运动可提高生存率",
+   "summary": "研究团队在美国期刊发表，称透析期间以运动为主的肾脏康复项目与生存率提升相关。",
+   "src": "北日本新闻",
+   "url": "https://webun.jp/articles/-/1121885",
+   "added": "2026-11-04"
+  },
+  {
+   "date": "2026-11-03",
+   "cat": "研究进展",
+   "region": "日本",
+   "title": "日本PD联合HD治疗现状与启停标准调查",
+   "summary": "分析JSDT登记中1963例联合治疗患者，多数每周一次HD/HDF；转为联合治疗主因是液体过多和透析不充分。",
+   "src": "生物通",
+   "url": "https://www.ebiotrade.com/newsf/2026-11/20261102200156820.htm",
+   "added": "2026-11-04"
+  },
+  {
+   "date": "2026-11-02",
+   "cat": "行业动态",
+   "region": "日本",
+   "title": "京都洛和会透析诊所东寺站前开业，30床全部支持OHDF",
+   "summary": "11月1日开业，设30张透析床，所有装置支持在线血液透析滤过，并提供接送。",
+   "src": "洛和会",
+   "url": "https://www.rakuwa.or.jp/news/release/post_50/",
+   "added": "2026-11-04"
+  },
+  {
+   "date": "2026-11-02",
+   "cat": "行业动态",
+   "region": "日本",
+   "title": "福岛广野町新透析诊所开业，30床",
+   "summary": "双叶肾·泌尿科诊所11月2日开业，为核事故后双叶郡的透析医疗改善提供支持。",
+   "src": "福岛民友",
+   "url": "https://www.minyu-net.com/news/detail/2026110309153256804",
+   "added": "2026-11-04"
   }
  ]
 }
