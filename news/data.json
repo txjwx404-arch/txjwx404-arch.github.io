@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "items": [
   {
    "date": "2026-10-08",
@@ -2210,6 +2210,76 @@
    "src": "福岛民友",
    "url": "https://www.minyu-net.com/news/detail/2026110309153256804",
    "added": "2026-11-04"
+  },
+  {
+   "date": "2026-11-03",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "Vantive 水处理系统业务并入 Rockwell 交易",
+   "summary": "此次出售涵盖 Vantive 的透析用水处理系统及技术服务，意大利 Medolla 工厂也将转给 Rockwell，水处理设备的售后服务商将来可能变更。",
+   "src": "FairsOnline",
+   "url": "https://fairsonline.org/vantive-sells-hemodialysis-assets-rockwell-medical",
+   "added": "2026-11-05"
+  },
+  {
+   "date": "2026-11-04",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "AKI 试验提前终止：间歇血透组死亡率更高",
+   "summary": "比较间歇性血透与连续肾替代治疗作为 AKI 初始治疗的试验在入组554例后提前终止，90天死亡率间歇组63.1%、连续组53.5%。",
+   "src": "The Limbic",
+   "url": "https://thelimbic.com/nephrology/iki-dialysis-study-halted-early-over-excess-deaths-signal/",
+   "added": "2026-11-05"
+  },
+  {
+   "date": "2026-11-03",
+   "cat": "政策与招采",
+   "region": "日本",
+   "title": "厚劳省拟在2027年度介护报酬改订中促进接收透析患者",
+   "summary": "社保审介护给付费分科会提出修订特养的特别通院送迎加算，把医疗机构联络、日常健康管理等一并评估，以鼓励养老机构接收透析患者。",
+   "src": "tsuusho.com",
+   "url": "https://www.tsuusho.com/news/article/%E3%80%90%E7%AC%AC273%E5%9B%9E%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E5%AF%A9%E8%AD%B0%E4%BC%9A%E4%BB%8B%E8%AD%B7%E7%B5%A6%E4%BB%98%E8%B2%BB%E5%88%86%E7%A7%91%E4%BC%9A%E3%80%91%E9%80%8F%E6%9E%90%E6%82%A3%E8%80%85%E3%81%AE%E5%8F%97%E3%81%91%E5%85%A5%E3%82%8C%E6%94%AF%E6%8F%B4%E3%82%92%E7%B7%8F%E5%90%88%E8%A9%95%E4%BE%A1%E3%81%B8%EF%BC%81%E8%80%81%E5%81%A5%E3%83%BB%E4%BB%8B%E8%AD%B7%E5%8C%BB%E7%99%82%E9%99%A2%E3%82%82%E8%A6%8B%E7%9B%B4%E3%81%97%E6%A1%88",
+   "added": "2026-11-05"
+  },
+  {
+   "date": "2026-11-05",
+   "cat": "研究进展",
+   "region": "日本",
+   "title": "东京女子医大：透析中运动的肾脏康复与生存率提高相关",
+   "summary": "东京女子医大等团队在美国期刊发表研究，透析期间以运动为主的肾脏康复与患者生存率提高相关，是日本首个此类研究。",
+   "src": "山阴中央新报",
+   "url": "https://www.sanin-chuo.co.jp/articles/-/1110115",
+   "added": "2026-11-05"
+  },
+  {
+   "date": "2026-11-03",
+   "cat": "行业动态",
+   "region": "日本",
+   "title": "福岛广野町新开30床透析诊所",
+   "summary": "杏顺会在福岛县广野町开设设有30张透析床的诊所，期待改善当地医疗、促进居民回迁。",
+   "src": "ORICON",
+   "url": "https://www.oricon.co.jp/article/3425949/",
+   "added": "2026-11-05"
+  },
+  {
+   "date": "2026-11-03",
+   "cat": "行业动态",
+   "region": "台湾",
+   "title": "台湾医师解析居家腹膜透析优点与感染警讯",
+   "summary": "多位台湾肾脏科医师介绍居家腹膜透析可减少往返医院，并提醒透析液混浊、腹痛可能是感染征兆，需及时就医。",
+   "src": "TVBS",
+   "url": "https://news.tvbs.com.tw/health/4045211",
+   "added": "2026-11-05"
+  },
+  {
+   "date": "2026-11-04",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "加纳 Effia Nkwanta 医院两台透析机故障，仅剩一台运转",
+   "summary": "塔科拉迪 Effia Nkwanta 区域医院两台透析机损坏，患者治疗延误，凸显设备维护与备机不足的问题。",
+   "src": "3News",
+   "url": "https://3news.com/news/dialysis-crisis-at-effia-nkwanta-one-machine-left-as-patients-face-treatment-delays",
+   "added": "2026-11-05"
   }
  ]
 }
