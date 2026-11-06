@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05",
+ "updated": "2026-11-06",
  "items": [
   {
    "date": "2026-10-08",
@@ -2280,6 +2280,56 @@
    "src": "3News",
    "url": "https://3news.com/news/dialysis-crisis-at-effia-nkwanta-one-machine-left-as-patients-face-treatment-delays",
    "added": "2026-11-05"
+  },
+  {
+   "date": "2026-11-04",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "Vantive 出售的资产含透析水处理系统，转入 Rockwell",
+   "summary": "此次交易涵盖 Vantive 的血透水处理系统及相关耗材与技术服务，水处理产品线将随之易主，买方称将强化可靠性与客户支持。",
+   "src": "Private Equity International",
+   "url": "https://www.privateequityinternational.com/carlyle-backed-vantive-agrees-hemodialysis-business-sale-to-rockwell-medical/",
+   "added": "2026-11-06"
+  },
+  {
+   "date": "2026-11-05",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "家庭透析与中心血透 3 年结局相近",
+   "summary": "目标试验模拟队列（2110 例）显示家庭透析与中心血透在生活质量、症状负担和住院风险上相似，前两年死亡率也相近。",
+   "src": "Medscape",
+   "url": "https://www.medscape.com/viewarticle/home-and-centre-dialysis-show-comparable-outcomes-2026a10015rj?src=rss",
+   "added": "2026-11-06"
+  },
+  {
+   "date": "2026-11-02",
+   "cat": "政策与招采",
+   "region": "日本",
+   "title": "厚劳省拟调整特养透析患者送迎加算（2027 年度介护报酬改定）",
+   "summary": "社保审介护给付费分科会提出调整特养中对需透析通院者的特别通院送迎加算，多数委员赞同。",
+   "src": "日经Medical",
+   "url": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/int/202611/595168.html",
+   "added": "2026-11-06"
+  },
+  {
+   "date": "2026-11-04",
+   "cat": "行业动态",
+   "region": "日本",
+   "title": "文京根津诊所启动居家腹膜透析区域协作模式",
+   "summary": "该诊所联合东大医院专家与社区医护，从 CKD 预防到居家 PD 提供一体化支持，11 月 20 日举办启动研讨会。",
+   "src": "Dellows News",
+   "url": "https://news.dellows.jp/1034071/",
+   "added": "2026-11-06"
+  },
+  {
+   "date": "2026-11-05",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "Lancet：老年肾衰患者保守管理不逊于准备透析",
+   "summary": "英国 445 名老年肾衰患者的随机试验显示，在生存与生活质量综合评估上，结构化非透析保守管理与准备透析无明显差异。",
+   "src": "Mirage News",
+   "url": "https://www.miragenews.com/could-there-be-alternative-to-dialysis-1772195",
+   "added": "2026-11-06"
   }
  ]
 }
