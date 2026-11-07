@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "items": [
   {
    "date": "2026-10-08",
@@ -112,16 +112,6 @@
    "added": "2026-10-11"
   },
   {
-   "date": "2026-09-07",
-   "cat": "研究进展",
-   "region": "日本",
-   "title": "JSDT 2023 年度透析数据报告：患者 343,508 人，HDF 占 59.1%",
-   "summary": "日本透析医学会登记系统调查 4,529 家设施。2023 年末透析患者 343,508 人，增速放缓；HDF 患者 203,113 人占 59.1%；三大死因为感染、心衰和恶性肿瘤；居家 HD 仅 799 人。",
-   "src": "Renal Replacement Therapy / 生物通",
-   "url": "https://www.ebiotrade.com/newsf/2026-9/20260906195716975.htm",
-   "added": "2026-10-11"
-  },
-  {
    "date": "2026-09-18",
    "cat": "政策与招采",
    "region": "台湾",
@@ -189,16 +179,6 @@
    "summary": "采购 RO 反渗膜 5 根，预算 4.75 万元。",
    "src": "医疗招标网",
    "url": "https://www.yiliaozhaobiao.com/news-c647d25a6ae6714b1fd5e6e4ce255d05/",
-   "added": "2026-10-11"
-  },
-  {
-   "date": "2026-09-07",
-   "cat": "水处理设备",
-   "region": "全球",
-   "title": "研究：用 FMEA 评估透析用水质量风险，最高风险是预处理水流下降",
-   "summary": "《Therapeutic Apheresis and Dialysis》论文梳理 39 个故障模式，按方法流程、设备材料、环境三类分析；预处理回路流量下降被列为唯一高优先级风险，提示日常巡检要盯住预处理压力与流量。",
-   "src": "Wiley",
-   "url": "https://obgyn.onlinelibrary.wiley.com/doi/10.1002/1744-9987.70200",
    "added": "2026-10-11"
   },
   {
@@ -2330,6 +2310,76 @@
    "src": "Mirage News",
    "url": "https://www.miragenews.com/could-there-be-alternative-to-dialysis-1772195",
    "added": "2026-11-06"
+  },
+  {
+   "date": "2026-11-05",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "Vantive 将血透业务出售给 Rockwell Medical",
+   "summary": "Vantive 11月3日宣布，将大部分血液透析资产与业务（浓缩液、透析机、水处理系统及技术服务，含意大利 Medolla 工厂）出售给 Rockwell Medical，预计2027年中完成交割，需监管批准。",
+   "src": "Medical Design & Development",
+   "url": "https://www.medicaldesigndevelopment.com/topics/equipment/news/22977975/vantive-sells-hemodialysis-business-to-rockwell-medical",
+   "added": "2026-11-07"
+  },
+  {
+   "date": "2026-11-05",
+   "cat": "政策与招采",
+   "region": "台湾",
+   "title": "健保署修正腹膜透析推动与照护品质计划，12月1日生效",
+   "summary": "台湾健保署11月5日公告修正「鼓励院所加强推动腹膜透析与提升照护品质计划」，自115年12月1日起生效。",
+   "src": "台湾健保署",
+   "url": "https://www.nhi.gov.tw/ch/cp-20697-92324-3258-1.html",
+   "added": "2026-11-07"
+  },
+  {
+   "date": "2026-11-05",
+   "cat": "行业动态",
+   "region": "日本",
+   "title": "杏生会启动「在家透析」地域医疗联携模式",
+   "summary": "东京文京根津诊所联合东大病院专家，从CKD预防到居家腹膜透析提供一体化支持，11月20日举办联携研讨会（主办：Vantive）。",
+   "src": "Zaikei",
+   "url": "https://www.zaikei.co.jp/releases/3699048/",
+   "added": "2026-11-07"
+  },
+  {
+   "date": "2026-11-06",
+   "cat": "研究进展",
+   "region": "台湾",
+   "title": "台湾血透中心研究：床旁检测诊断低钾优于AI心电图",
+   "summary": "前瞻研究显示，维持性血透患者中，床旁检测识别实验室确认低钾的能力明显优于单导联AI心电图钾回归；二分类心电模型灵敏度77.9%。",
+   "src": "ReachMD",
+   "url": "https://reachmd.com/news/poc-testing-outperforms-ai-ecg-for-hypokalemia-in-hemodialysis/2488921/",
+   "added": "2026-11-07"
+  },
+  {
+   "date": "2026-11-05",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "Akebia VOCAL试验：vadadustat每周三次给药不劣于ESA",
+   "summary": "在353名血透贫血患者中，vadadustat每周三次给药达到血红蛋白非劣效主要终点。",
+   "src": "Akebia",
+   "url": "https://akebia.gcs-web.com/news-releases/news-release-details/akebia-therapeutics-reports-positive-topline-data-vocal-trial",
+   "added": "2026-11-07"
+  },
+  {
+   "date": "2026-11-05",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "Lancet试验：对衰弱老年肾衰患者，保守治疗生存与透析相近",
+   "summary": "英国布里斯托大学领衔的随机试验显示，积极的药物保守管理在衰弱老年晚期肾衰患者中生存结局与透析相似。",
+   "src": "MedicalXpress",
+   "url": "https://medicalxpress.com/news/2026-11-kidney-trial-default-dialysis-older.html",
+   "added": "2026-11-07"
+  },
+  {
+   "date": "2026-11-06",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "韩国MFDS紧急引进两款新生儿/儿童腹膜透析器械",
+   "summary": "韩国食药处11月6日将新生儿与儿童用腹膜透析导管及导管连接系统指定为紧急引进医疗器械，紧急引进器械累计达43种。",
+   "src": "First-Class Business Newspaper",
+   "url": "https://en.fnnews.com/news/202611060836147023",
+   "added": "2026-11-07"
   }
  ]
 }
