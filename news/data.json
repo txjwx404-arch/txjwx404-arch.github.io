@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08",
+ "updated": "2026-11-09",
  "items": [
   {
    "date": "2026-10-08",
@@ -2450,6 +2450,76 @@
    "src": "中国政府采购网",
    "url": "http://htgs.ccgp.gov.cn/GS8/contractpublish/detail/4379f15f-ea2b-46f9-96b0-b78e0ff6b989?contractSign=0",
    "added": "2026-11-08"
+  },
+  {
+   "date": "2026-11-03",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "Rockwell Medical拟12.5亿美元收购Vantive院内血透业务",
+   "summary": "Rockwell Medical与Vantive签署协议，收购其在35个司法辖区的院内血液透析业务，含透析浓缩液、水处理系统、监护仪和血路管等，金额1.25亿美元。",
+   "src": "Exit Mode",
+   "url": "https://exit-mode.com/deals/rockwell-medical-inc-acquires-vantive-limited-20261103",
+   "added": "2026-11-09"
+  },
+  {
+   "date": "2026-11-07",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "西班牙图德拉医院血透室水处理厂整改完成，11月9日恢复透析",
+   "summary": "Reina Sofía医院血透单元因水处理厂整改暂停，最新水质检测确认达标后，将于11月9日恢复正常透析。",
+   "src": "Cadena SER",
+   "url": "https://cadenaser.com/navarra/2026/11/07/la-unidad-de-hemodialisis-del-hospital-reina-sofia-de-tudela-reanudara-su-actividad-el-lunes-9-radio-pamplona/",
+   "added": "2026-11-09"
+  },
+  {
+   "date": "2026-11-07",
+   "cat": "政策与招采",
+   "region": "台湾",
+   "title": "台北医院招标腹膜透析机租赁案，预算约146.9万新台币",
+   "summary": "卫福部台北医院公告全自动腹膜透析机租赁采购，11月17日截止，预算约TWD 1,468,800。",
+   "src": "TendersOnTime",
+   "url": "https://www.tendersontime.com/tenders-details/kidney-dialysis-room-fully-automatic-peritoneal-dialysis-machine-rental-case-911a7cf/",
+   "added": "2026-11-09"
+  },
+  {
+   "date": "2026-11-07",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "常州二院纯水机反渗透膜更换项目成交：杜邦陶氏8040膜，29.3万元",
+   "summary": "常州市第二人民医院阳湖院区纯水机反渗透膜更换项目以竞争性磋商成交，规格为杜邦陶氏8040膜，金额29.3万元。",
+   "src": "中策大数据",
+   "url": "https://www.china0001.com.cn/biddingdetail/index/85d3a9e1c87c414ea04f3b54d0b74470.html",
+   "added": "2026-11-09"
+  },
+  {
+   "date": "2026-11-07",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "建瓯东游中心卫生院血透中心建设招标，含水处理机",
+   "summary": "福建建瓯市县域医共体项目为东游中心卫生院血透中心建设采购水处理机等医疗设备。",
+   "src": "dowater",
+   "url": "https://www.dowater.com/zhongbiao/2026-11-07/13733471.asp",
+   "added": "2026-11-09"
+  },
+  {
+   "date": "2026-11-07",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "漳州市血透机和血滤机统招分签项目二次招标",
+   "summary": "漳州市医用设备集中采购小组发布血透机和血滤机统招分签采购（二次）公开招标公告。",
+   "src": "中国医院招标网",
+   "url": "http://www.e120.org.cn/g-hospital-0--80549273.html",
+   "added": "2026-11-09"
+  },
+  {
+   "date": "2026-11-08",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "IN.PACT AV Access：药物涂层球囊对透析瘘管通畅率获益持久",
+   "summary": "含美、日、新西兰29个中心共330例的随机试验更新36个月结果，紫杉醇药涂球囊相比普通球囊扩张在血透动静脉瘘中保持通畅优势。",
+   "src": "Scienmag",
+   "url": "https://scienmag.com/drug-coated-balloons-show-durable-benefit-in-dialysis-access-trial/",
+   "added": "2026-11-09"
   }
  ]
 }
