@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "items": [
   {
    "date": "2026-10-08",
@@ -2520,6 +2520,46 @@
    "src": "Scienmag",
    "url": "https://scienmag.com/drug-coated-balloons-show-durable-benefit-in-dialysis-access-trial/",
    "added": "2026-11-09"
+  },
+  {
+   "date": "2026-11-09",
+   "cat": "召回与安全警示",
+   "region": "全球",
+   "title": "B. Braun Dialog+ 血路管（Streamline）三批次召回",
+   "summary": "因装配时漏涂溶剂，透析器接口可能脱落或渗漏，存在失血风险；召回限美国市场三个批次，FDA已发布早期警示。",
+   "src": "DeviceMed",
+   "url": "https://www.devicemed.de/montagefehler-kann-dialysatoranschluss-loesen-a-25d45f555a517c2537c03817c05f8b49/",
+   "added": "2026-11-10"
+  },
+  {
+   "date": "2026-11-09",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "Rockwell Medical 拟收购 Vantive 血透业务",
+   "summary": "Rockwell拟以初始1.25亿美元收购Vantive血液透析业务，最高1.7亿美元，目标年收入4亿至4.5亿美元。",
+   "src": "Pulse 2.0",
+   "url": "https://pulse2.com/rockwell-medical-vantive-hemodialysis-business-acquisition-for-up-to-170-million-targets-450-million-in-annual-revenue/",
+   "added": "2026-11-10"
+  },
+  {
+   "date": "2026-11-09",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "便携式 NeoKidney 血透系统1/2期试验初步显示安全有效",
+   "summary": "RENEW-HD试验支持短时高频血透的可行性；第三阶段年底开始，将评估无协助使用。",
+   "src": "Renal and Urology News",
+   "url": "https://www.renalandurologynews.com/reports/portable-neokidney-hemodialysis-systems-shows-initial-efficacy-safety/",
+   "added": "2026-11-10"
+  },
+  {
+   "date": "2026-11-09",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "巴西索罗卡巴医院血透患者三例死亡，调查水污染或透析器复用",
+   "summary": "家属称患者因透析机用水污染出现菌血症症状，卫生监管部门和检察院介入调查。",
+   "src": "G1",
+   "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/09/chs-registra-terceira-morte-apos-hemodialise-e-familia-relata-contaminacao-causa-e-investigada.ghtml",
+   "added": "2026-11-10"
   }
  ]
 }
