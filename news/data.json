@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "items": [
   {
    "date": "2026-10-08",
@@ -2560,6 +2560,66 @@
    "src": "G1",
    "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/09/chs-registra-terceira-morte-apos-hemodialise-e-familia-relata-contaminacao-causa-e-investigada.ghtml",
    "added": "2026-11-10"
+  },
+  {
+   "date": "2026-11-10",
+   "cat": "政策与招采",
+   "region": "全球",
+   "title": "美国华盛顿州起诉DaVita与费森尤斯：透析中心医疗主任竞业限制协议违法",
+   "summary": "华盛顿州总检察长指控两家最大营利性透析机构强制中心医疗主任签署竞业限制协议，削弱竞争、减少患者选择，已在瑟斯顿县高等法院提起诉讼。",
+   "src": "华盛顿州总检察长办公室",
+   "url": "https://www.atg.wa.gov/news/news-releases/washington-sues-state-s-two-biggest-dialysis-companies-over-illegal-noncompete",
+   "added": "2026-11-11"
+  },
+  {
+   "date": "2026-11-10",
+   "cat": "研究进展",
+   "region": "日本",
+   "title": "Lancet：英国首个RCT显示高龄虚弱肾衰患者做透析准备并无QALY优势",
+   "summary": "Prepare for Kidney Care试验比较保守肾脏治疗与透析准备，平均随访4.5年，两组质量调整生命年差异无统计学意义（p=0.16）；日本m3.com与透析医生博客同步解读。",
+   "src": "m3.com",
+   "url": "https://www.m3.com/clinical/open/news/1367317",
+   "added": "2026-11-11"
+  },
+  {
+   "date": "2026-11-09",
+   "cat": "政策与招采",
+   "region": "台湾",
+   "title": "台北市立联合医院中兴院区招标连续性血液净化仪，预算140万新台币",
+   "summary": "案号115CF47，公开招标最低标，11月13日截标、16日开标，押标金7万元。",
+   "src": "ACE台湾招标采购网",
+   "url": "https://acebidx.com/zh-TW/docs/tender/id/6789a2ce-b78d-4329-8629-dde213137795",
+   "added": "2026-11-11"
+  },
+  {
+   "date": "2026-11-09",
+   "cat": "政策与招采",
+   "region": "台湾",
+   "title": "卫福部台东医院公告洗肾机采购招标",
+   "summary": "台东医院于11月9日公告洗肾（血透）机采购案，案号11512。",
+   "src": "ACE台湾招标采购网",
+   "url": "https://acebidx.com/zh-TW/docs/tender/id/34348eeb-53e2-40ab-8178-c110ae4922fb",
+   "added": "2026-11-11"
+  },
+  {
+   "date": "2026-11-09",
+   "cat": "行业动态",
+   "region": "日本",
+   "title": "熊本初创与熊本大学联合开发抑制盐分吸收技术，用于面向透析患者的拉面",
+   "summary": "トイメディカル与熊本大学开发的食品盐分吸收抑制技术已应用于市售拉面，熊本豚骨拉面连锁限时供应，三宝食品推出全国发售的方便面。",
+   "src": "日本经济新闻",
+   "url": "https://www.nikkei.com/article/DGXZQOJC0542S0V01C26A1000000/",
+   "added": "2026-11-11"
+  },
+  {
+   "date": "2026-11-10",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "孟加拉国政府将Sandor合同延长6个月，维持达卡与吉大港透析中心运行",
+   "summary": "在向政府自营透析体系过渡期间，需要更多时间确定透析机类型并安装新设备，约500名贫困患者继续由两家中心服务。",
+   "src": "The Business Standard",
+   "url": "https://www.tbsnews.net/bangladesh/health/govt-extends-sandor-contract-6-months-keep-dialysis-running-dhaka-ctg-minister",
+   "added": "2026-11-11"
   }
  ]
 }
