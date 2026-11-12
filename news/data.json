@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "items": [
   {
    "date": "2026-10-08",
@@ -2650,6 +2650,56 @@
    "src": "De Waan van de Dag",
    "url": "https://dewaanvandedag.nl/nieuws/curacaose-dialysekliniek-heeft-nog-voorraad-voor-tien-dagen",
    "added": "2026-11-12"
+  },
+  {
+   "date": "2026-11-12",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "美国华盛顿州起诉DaVita与费森尤斯：透析中心医疗主任竞业限制协议",
+   "summary": "华盛顿州总检察长称两家公司要求透析中心医疗主任签署非法竞业协议，减少患者治疗选择，已在瑟斯顿县高等法院提起诉讼。",
+   "src": "Spokesman-Review",
+   "url": "https://www.spokesman.com/stories/2026/nov/12/wa-sues-davita-fresenius-over-noncompete-agreement/",
+   "added": "2026-11-13"
+  },
+  {
+   "date": "2026-11-12",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "Rockwell Medical发布Q3业绩，重申收购Vantive全球血透业务",
+   "summary": "Rockwell Q3净销售额1910万美元，血透浓缩液带动增长；公司重申收购Vantive全球血透业务（含意大利工厂），并撤回全年指引。",
+   "src": "GuruFocus",
+   "url": "https://www.gurufocus.com/news/9195209/rockwell-medical-rmti-reports-q3-2026-sales-growth-amid-acquisition-plans",
+   "added": "2026-11-13"
+  },
+  {
+   "date": "2026-11-11",
+   "cat": "政策与招采",
+   "region": "全球",
+   "title": "印度禁止一次性医疗器械重复使用，喀拉拉邦担忧透析成本上升",
+   "summary": "印度卫生总局全国禁止重复使用一次性器械，医生警告透析与血管成形费用将上涨，地方医保计划可能难以为继。",
+   "src": "New Indian Express",
+   "url": "https://www.newindianexpress.com/states/kerala/2026/Nov/11/devices-reuse-ban-to-make-dialysis-angioplasty-costlier-in-keralam",
+   "added": "2026-11-13"
+  },
+  {
+   "date": "2026-11-11",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "SWIFT试验：症状监测未改善血透患者12个月生活质量",
+   "summary": "ASN Kidney Week公布的3期SWIFT试验显示，常规症状评估与反馈对EQ-5D-5L和疲劳评分无显著改善，但症状沟通增多。",
+   "src": "DocWire News",
+   "url": "https://www.docwirenews.com/post/swift-trial-finds-no-quality-of-life-benefit-from-symptom-monitoring",
+   "added": "2026-11-13"
+  },
+  {
+   "date": "2026-11-11",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "Humacyte将在VEITH大会展示血透血管通路ATEV 3期数据",
+   "summary": "人工血管ATEV将在11月17-21日VEITH研讨会有5场报告，含女性血透患者中期结果；公司计划11月提交血透通路补充BLA。",
+   "src": "GlobeNewswire",
+   "url": "https://www.globenewswire.com/news-release/2026/11/11/3400652/0/en/five-presentations-one-leading-innovation-humacyte-s-acellular-tissue-engineered-vessel-takes-center-stage-at-veith-2026.html",
+   "added": "2026-11-13"
   }
  ]
 }
