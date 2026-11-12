@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "items": [
   {
    "date": "2026-10-08",
@@ -132,16 +132,6 @@
    "added": "2026-10-11"
   },
   {
-   "date": "2026-09-11",
-   "cat": "研究进展",
-   "region": "台湾",
-   "title": "林口长庚完成透析碳盘查：每次 4 小时血透约 17.77 kg CO₂e",
-   "summary": "台湾约 8.2 万名血透患者，每年约产生 22.7 万吨 CO₂ 当量；腹膜透析每人每年约少 16%。对透析中心节水节电、耗材管理有参考价值。",
-   "src": "元气网 / 联合报",
-   "url": "https://health.udn.com/health/story/5975/9748102",
-   "added": "2026-10-11"
-  },
-  {
    "date": "2026-09-30",
    "cat": "水处理设备",
    "region": "中国大陆",
@@ -189,16 +179,6 @@
    "summary": "CSA Z23500-2:26 取代 2020 版，等同采用 ISO 23500-2 第二版（2024），对透析水处理设备的设计与性能提出更新要求。",
    "src": "CSA / Skybear",
    "url": "https://www.skybearstandards.com/documents/csa-z23500-226-preparation-and-quality-management-of-fluids-for-haemodialysis-and-related-therapies-part-2-water-treatment-equipment-for-haemodialysis-applications-and-related-therapies/",
-   "added": "2026-10-11"
-  },
-  {
-   "date": "2026-09-09",
-   "cat": "水处理设备",
-   "region": "全球",
-   "title": "美国退伍军人医院授标 Evoqua 便携式透析 RO 机，合同 10.7 万美元",
-   "summary": "要求单机 ≤100 磅、满足 ISO 13959 水质、兼容贝朗透析机并支持免化学品热水消毒。",
-   "src": "SAM.gov",
-   "url": "https://sam.gov/opp/a352c6e10ab24f1d9b8aa0fdd8d2ad21/view",
    "added": "2026-10-11"
   },
   {
@@ -2620,6 +2600,56 @@
    "src": "The Business Standard",
    "url": "https://www.tbsnews.net/bangladesh/health/govt-extends-sandor-contract-6-months-keep-dialysis-running-dhaka-ctg-minister",
    "added": "2026-11-11"
+  },
+  {
+   "date": "2026-11-10",
+   "cat": "召回与安全警示",
+   "region": "全球",
+   "title": "FDA早期预警：Arrow导丝涂层脱落风险，涉及血透中心静脉导管套件",
+   "summary": "Arrow International自11月5日起回收含Spring Wire Guide导丝的器械，亲水涂层可能脱落进入血液造成栓塞，涉及中心静脉导管及血液透析相关套件。FDA于11月10日发布早期预警，暂无严重伤亡报告。",
+   "src": "TradeAspectHub",
+   "url": "https://www.tradeaspecthub.com/news/Medical_Polymers_Catheters/Central_Venous_Catheters/FDA_Issues_Early_Alert_as_Arrow_Removes_Guidewire_Products_Over_Coating_Risk.html",
+   "added": "2026-11-12"
+  },
+  {
+   "date": "2026-11-11",
+   "cat": "研究进展",
+   "region": "台湾",
+   "title": "成大医院研究：透析合并心衰患者用GLP-1药物，心血管风险低约28%",
+   "summary": "成大团队用TriNetX分析2776名糖尿病、末期肾病合并心衰患者，发现GLP-1受体促效剂组心梗、缺血性中风、心衰恶化等综合风险较另一类降糖药低约28%，发表于Nature Communications；属观察性研究，仍需临床试验确认。",
+   "src": "自由健康网",
+   "url": "https://health.ltn.com.tw/article/breakingnews/5637080",
+   "added": "2026-11-12"
+  },
+  {
+   "date": "2026-11-10",
+   "cat": "水处理设备",
+   "region": "台湾",
+   "title": "成大医院水过滤系统招标公告（案号W11562）",
+   "summary": "国立成功大学医学院附设医院资材室公告“水过滤系统”采购招标，案号W11562，可作为医院水处理设备采购动向参考。",
+   "src": "ACE台湾招标采购网",
+   "url": "https://acebidx.com/zh-TW/docs/tender/id/e79d5087-27ca-4a6b-9712-1116cfbf32a0",
+   "added": "2026-11-12"
+  },
+  {
+   "date": "2026-11-10",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "Nextkidney完成超2000万欧元C轮融资，推进便携式血透设备Neokidney上市",
+   "summary": "荷兰Nextkidney融资逾2000万欧元，用于完成便携式血透设备Neokidney开发并筹备上市，已完成约500例治疗；另在众筹平台募集300万欧元。",
+   "src": "Dealroom",
+   "url": "https://dealroom.co/news/171175-nextkidney-raises-20m-to-ready-its-portable-dialysis-device-for-market/",
+   "added": "2026-11-12"
+  },
+  {
+   "date": "2026-11-10",
+   "cat": "召回与安全警示",
+   "region": "全球",
+   "title": "荷属库拉索透析诊所告急：厂家停产，特殊透析滤器仅够十天",
+   "summary": "Sentro di Dialyse Brion称厂家因无菌生产线检查不合格停产，1100个滤器暂不放行，74名患者受影响，最早11月17日有新货。",
+   "src": "De Waan van de Dag",
+   "url": "https://dewaanvandedag.nl/nieuws/curacaose-dialysekliniek-heeft-nog-voorraad-voor-tien-dagen",
+   "added": "2026-11-12"
   }
  ]
 }
