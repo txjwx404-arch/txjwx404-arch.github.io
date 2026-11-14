@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "items": [
   {
    "date": "2026-10-08",
@@ -2700,6 +2700,46 @@
    "src": "GlobeNewswire",
    "url": "https://www.globenewswire.com/news-release/2026/11/11/3400652/0/en/five-presentations-one-leading-innovation-humacyte-s-acellular-tissue-engineered-vessel-takes-center-stage-at-veith-2026.html",
    "added": "2026-11-13"
+  },
+  {
+   "date": "2026-11-13",
+   "cat": "政策与招采",
+   "region": "全球",
+   "title": "土耳其发布新版透析中心条例",
+   "summary": "条例11月13日生效：新建中心起步配置15～25台设备，单中心上限由60台升至80台，并优先推广适合患者的居家及腹膜透析。",
+   "src": "12punto",
+   "url": "https://en.12punto.com.tr/current-affairs/regulation-on-dialysis-centers-published-in-the-official-gazette-158929",
+   "added": "2026-11-14"
+  },
+  {
+   "date": "2026-11-13",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "意大利Castellamonte透析中心反渗透系统再发故障",
+   "summary": "11月13日该中心一间透析室的反渗透水处理系统故障，5名患者被转至其他医院，两个月内已是第二次类似故障。",
+   "src": "La Stampa",
+   "url": "https://www.lastampa.it/torino/2026/11/13/news/castellamonte_dialisi_guasto_impianto_pazienti_trasferiti_ivrea_cirie-15797494/",
+   "added": "2026-11-14"
+  },
+  {
+   "date": "2026-11-12",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "邵武市立医院招标采购血透滤过机及血液透析机",
+   "summary": "该项目来自政府采购网，投标截止2026年12月1日。",
+   "src": "Tender Impulse",
+   "url": "https://tenderimpulse.com/government-tenders/china/public-tender-announcement-for-the-procurement-of-hemodialysis-filtration-machin-16384496",
+   "added": "2026-11-14"
+  },
+  {
+   "date": "2026-11-13",
+   "cat": "政策与招采",
+   "region": "全球",
+   "title": "CMS拟修订透析机构物理环境要求",
+   "summary": "美国CMS拟调整透析机构物理环境（生命安全规范等）要求，并就无喷淋的多层建筑透析机构数量征求意见，意见截止2027年1月11日。",
+   "src": "Home Dialysis Central",
+   "url": "https://homedialysis.org/news-and-research/news/industry-updates/articles/1348-cms-proposes-changes-to-dialysis-and-transplant-requirements",
+   "added": "2026-11-14"
   }
  ]
 }
