@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "items": [
   {
    "date": "2026-10-08",
@@ -139,16 +139,6 @@
    "summary": "最高限价 7.4 万元，内容含石英砂、椰壳活性炭、软化树脂更换，旧料清运、系统冲洗、化学消毒、整机调试和水质检测，出水须符合 YY 0572-2015。可作为预处理滤材更换的工作范围参考。",
    "src": "检测招标网",
    "url": "https://www.jiancezhaobiao.com/news-8829995d9e42a139d003dace8d9bf850/",
-   "added": "2026-10-11"
-  },
-  {
-   "date": "2026-09-15",
-   "cat": "水处理设备",
-   "region": "中国大陆",
-   "title": "港中大（深圳）医院血透设备采购中标，水处理选贝朗 RO Dia II 2100",
-   "summary": "项目同时采购双泵/单泵血透机、中央供液系统等，反渗透水处理机中标型号为贝朗 RO Dia II 2100，1 台。",
-   "src": "医疗招标网",
-   "url": "https://www.yiliaozhaobiao.com/news-41642c84f952bba1578a583a06fb964b/",
    "added": "2026-10-11"
   },
   {
@@ -2740,6 +2730,96 @@
    "src": "Home Dialysis Central",
    "url": "https://homedialysis.org/news-and-research/news/industry-updates/articles/1348-cms-proposes-changes-to-dialysis-and-transplant-requirements",
    "added": "2026-11-14"
+  },
+  {
+   "date": "2026-11-14",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "重庆县域医共体采购血液透析用水处理设备，预算77万元",
+   "summary": "重庆大学附属肿瘤医院牵头的县域医共体设备更新项目公开招标血透水处理设备，预算77万元，11月23日开标。",
+   "src": "中国政府采购网",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261114_27683732.htm",
+   "added": "2026-11-15"
+  },
+  {
+   "date": "2026-11-13",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "焦作市人民医院血透制水设备招标，预算100万元",
+   "summary": "采购血液透析用制水设备1套，不接受进口产品，12月4日投标截止。",
+   "src": "河南省公共资源交易中心",
+   "url": "http://hnsggzyjy.henan.gov.cn/jyxx/002002/002002001/20261113/90f6409a-75e5-4786-90d5-c350c6c6be61.html",
+   "added": "2026-11-15"
+  },
+  {
+   "date": "2026-11-13",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "开化县人民医院血液透析水处理系统公开招标",
+   "summary": "浙江开化县医共体强基工程发布血透水处理系统采购公告。",
+   "src": "建设招标网",
+   "url": "https://bidding.jszhaobiao.cn/notice-detail-334148233.html",
+   "added": "2026-11-15"
+  },
+  {
+   "date": "2026-11-13",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "天门市一院血透设备中标：山外山SWS-6000A与威高日机装DBB-EXA",
+   "summary": "三个包中标价分别为66万、73万、88.6万元（集中供液）；国产机单泵约9.5～10万元/台，双泵约18万元/台。",
+   "src": "乙方宝",
+   "url": "https://www.yfbzb.com/winbid/detail/20261113_647546252.html",
+   "added": "2026-11-15"
+  },
+  {
+   "date": "2026-11-13",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "土耳其发布新《透析中心条例》，放宽居家透析并提高设备上限",
+   "summary": "新规11月13日生效：新建中心起始15～25台，单中心上限由60台增至80台，优先考虑居家和腹膜透析。",
+   "src": "Montegre",
+   "url": "https://montegre.com/en/news/new-dialysis-regulation-takes-effect-expands-home-treatment-and-capacity-limits",
+   "added": "2026-11-15"
+  },
+  {
+   "date": "2026-11-13",
+   "cat": "行业动态",
+   "region": "日本",
+   "title": "日本拟在2027年护理报酬改定中评价接收透析患者",
+   "summary": "厚劳省分科会提出，特养、老健等接收透析患者将获评价；2024年日本慢性透析患者337,414人，65岁以上占约67%。",
+   "src": "介護のすすめ",
+   "url": "https://kaigonosusume.jp/toseki-shisetsu-kaigo-hoshu-kaitei-2027/",
+   "added": "2026-11-15"
+  },
+  {
+   "date": "2026-11-13",
+   "cat": "行业动态",
+   "region": "日本",
+   "title": "日本初创公司展示免供排水的下一代居家血透装置",
+   "summary": "Physiogas Technologies开发基于透析液再生技术的免给排水居家血透机，11月30日在东京展出概念。",
+   "src": "ASCII STARTUP",
+   "url": "https://ascii.jp/elem/000/004/449/4449714/",
+   "added": "2026-11-15"
+  },
+  {
+   "date": "2026-11-13",
+   "cat": "研究进展",
+   "region": "台湾",
+   "title": "嘉义医院通报：洗腎患者血钾9.3险致心脏骤停，紧急透析救回",
+   "summary": "67岁血透患者连日大量进食葡萄后血钾升至9.3 mEq/L，经紧急透析转危为安；医师提醒低钠盐、坚果等也是高钾隐患。",
+   "src": "自由健康网",
+   "url": "https://health.ltn.com.tw/article/breakingnews/5639761",
+   "added": "2026-11-15"
+  },
+  {
+   "date": "2026-11-13",
+   "cat": "研究进展",
+   "region": "台湾",
+   "title": "成大研究：GLP-1类药物可能降低透析合并心衰患者心血管风险约28%",
+   "summary": "分析全球2776名糖尿病、终末期肾病合并心衰患者，发表于Nature Communications，仍待临床试验确认。",
+   "src": "京海传媒",
+   "url": "https://www.jinghaimedia.com/archives/69655",
+   "added": "2026-11-15"
   }
  ]
 }
