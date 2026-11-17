@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "items": [
   {
    "date": "2026-10-08",
@@ -710,16 +710,6 @@
    "src": "Healio",
    "url": "https://www.healio.com/news/nephrology/20261016/vascular-access-infection-rates-greater-with-home-vs-incenter-hemodialysis",
    "added": "2026-10-17"
-  },
-  {
-   "date": "2026-09-16",
-   "cat": "召回与安全警示",
-   "region": "全球",
-   "title": "Nipro 液体碳酸氢盐/枸橼酸透析浓缩液因内毒素偏高被 FDA 列为 Class II 召回",
-   "summary": "Nipro Renal Solutions USA 的 Medicalyte 液体碳酸氢盐浓缩液（Bc-100、Bc+201 等）及 Citric Complete 液体枸橼酸浓缩液共 4 个品项，因内毒素水平偏高启动召回，FDA 分级为 Class II。使用这些浓缩液的透析中心应核对批号并联系厂家。",
-   "src": "FDA / The Clinical Times",
-   "url": "https://www.accessdata.fda.gov/scripts/ires/index.cfm?Event=99573",
-   "added": "2026-10-18"
   },
   {
    "date": "2026-09-30",
@@ -2860,6 +2850,206 @@
    "src": "Home Dialysis Central",
    "url": "https://homedialysis.org/news-and-research/news",
    "added": "2026-11-16"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "召回与安全警示",
+   "region": "全球",
+   "title": "BfArM 公布 ICU Medical TEGO 无针血透连接器紧急现场安全通知",
+   "summary": "德国联邦药监局（BfArM）11月16日挂出 ICU Medical 针对 TEGO 无针血液透析连接器的紧急现场安全通知（编号 01211/26）。目前公开页面未列明具体缺陷、批次和处置要求，需查阅厂家通知原文。",
+   "src": "BfArM / VigiEye",
+   "url": "https://vigi-eye.com/news/item/u/73347b3fa7e7a9d0",
+   "added": "2026-11-17"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "召回与安全警示",
+   "region": "全球",
+   "title": "韩国公告召回费森尤斯 5008-R 用 AV-Set Online plus 血路管1批",
+   "summary": "韩国 MFDS 11月16日公告，费森尤斯韩国公司召回 AV-Set Online plus 5008-R 血液回路（批号 H4YC151），原因是异物混入，危害等级2级。召回期为11月6日至12月5日，要求停用并配合回收。",
+   "src": "韩国 MFDS / HitNews",
+   "url": "https://www.hitnews.co.kr/bbs/view.html?idxno=1317",
+   "added": "2026-11-17"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "行业动态",
+   "region": "日本",
+   "title": "Nipro 推出日本首个 CBP 专用补充液/透析液，11月16日开售",
+   "summary": "Nipro 的「シービーパック持续性血液净化液」于11月12日列入药价基准，是日本首个专为连续性血液净化（CBP）设计的药品，配方兼顾钾、磷补充，可减少临床上另行追加钾、磷制剂的操作和差错风险。",
+   "src": "药事日报",
+   "url": "https://www.yakuji.co.jp/entry141743.html",
+   "added": "2026-11-17"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "研究进展",
+   "region": "台湾",
+   "title": "台北慈济团队：塑化剂 DEHP 会推高尿毒素硫酸吲哚酚，透析患者数据同步佐证",
+   "summary": "台北慈济医院血液透析中心与台大团队研究显示，DEHP 使尿毒素 IS 在肝脏生成增多、肾脏排出减少；对395名稳定透析患者的分析中，DEHP 高者 IS 也偏高。医师提醒避免塑料容器盛装热、油食物，医疗管路也是潜在暴露来源之一。",
+   "src": "健康医疗网",
+   "url": "https://www.healthnews.com.tw/article/70092",
+   "added": "2026-11-17"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "行业动态",
+   "region": "台湾",
+   "title": "台南透析患者处理鲜鱼被刺伤，创伤弧菌感染致败血性休克并截肢",
+   "summary": "台南安南医院通报，一名血透患者处理鲜鱼被刺伤，不到24小时出现红肿、紫黑色水疱并陷入败血性休克，经筋膜切开和多次手术后截肢保命。医师提醒洗腎及慢性病患者处理海鲜须戴厚手套，伤口异常急速恶化应立即急诊。",
+   "src": "自由时报/Yahoo 新闻",
+   "url": "https://tw.news.yahoo.com/%E6%B4%97%E8%85%8E%E5%8F%8A%E6%85%A2%E6%80%A7%E7%97%85%E6%82%A3-%E6%85%8E%E9%98%B2%E5%89%B5%E5%82%B7%E5%BC%A7%E8%8F%8C%E6%84%9F%E6%9F%93-132726124.html",
+   "added": "2026-11-17"
+  },
+  {
+   "date": "2026-11-13",
+   "cat": "水处理设备",
+   "region": "台湾",
+   "title": "卫福部丰原医院招标第一洗肾室 RO 纯水系统两年维护保养合约",
+   "summary": "卫福部丰原医院11月13日公告，为第一洗肾室 RO 纯水系统办理为期两年的维护保养招标，属公开取得报价单或企划书方式。预算和截止日需到政府电子采购网查询。",
+   "src": "AI标案雷达（政府电子采购网）",
+   "url": "https://tenderrader.com/t/A.21.100.35/FYH1156203",
+   "added": "2026-11-17"
+  },
+  {
+   "date": "2026-11-13",
+   "cat": "政策与招采",
+   "region": "台湾",
+   "title": "国军台中总医院招标115-117年度洗肾委外服务车，预算962万新台币",
+   "summary": "国防部军医局所属国军台中总医院公开招标洗肾委外服务车案，履约至117年11月底，预算9,624,000元，最低标；11月18日截止投标、19日开标。",
+   "src": "ACE 台湾招标采购网",
+   "url": "https://acebidx.com/zh-TW/docs/tender/id/f40165c2-f4fe-49ce-9a6e-659485a6da3b",
+   "added": "2026-11-17"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "福州晋安区总医院血透室设备中标：东丽 TQS-88 血滤机3台+康仑水处理设备",
+   "summary": "福州市晋安区总医院血透室设备项目结果公告：福建九州通以103万元中标，含东丽 TQS-88 血液滤过机3台（单价20.8万元）和康仑 DKL-NH4-R1 水处理设备1台（40.6万元）。",
+   "src": "智联招标网（政府采购结果公告）",
+   "url": "https://fj.zhiliaobiaoxun.com/article/119563313",
+   "added": "2026-11-17"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "海南卫健委医用设备集采合同：血液透析用水处理设备 CJ-ROII-4500 两套共140.8万元",
+   "summary": "海南省卫健委2026年医用设备集中采购（十五）合同公告，血液透析用水处理设备（型号 CJ-ROII-4500）两套，单价70.4万元，合计140.8万元，履约地为万宁市、文昌市。",
+   "src": "马蜂盯标",
+   "url": "https://www.dingbiao.com/zhaobiao/eb299dff290ae1fca473f1995b291a98.html",
+   "added": "2026-11-17"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "西安市红会医院招标血液透析水处理设备维保项目（三次磋商）",
+   "summary": "西安市红会医院血液净化中心的血液透析水处理设备维保项目已进入第三次磋商，11月16日至18日报名，说明前两轮未成交。",
+   "src": "西安市红会医院",
+   "url": "https://www.xahhyy.com/yiyuan_neiye/show-59661.html",
+   "added": "2026-11-17"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "玉林市第一人民医院血透机中标：宝莱特 D800S 共20台，单价9.85万元",
+   "summary": "玉林市第一人民医院血液透析机和手术显微镜项目中标公告：血透机标项选用宝莱特 D800S，数量20台，单价98,500元；手术显微镜标项因合格中小企业不足三家而废标。",
+   "src": "天工网招标网",
+   "url": "https://bid.tgnet.com/Bidding/497325409381791483987n1.html",
+   "added": "2026-11-17"
+  },
+  {
+   "date": "2026-11-15",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "重庆市第九人民医院血液净化设备2台中标：山外山 SWS-5000，53.85万元",
+   "summary": "重庆市第九人民医院发布血液净化设备2台中标结果，品牌山外山，型号 SWS-5000，金额538,500元。",
+   "src": "Global Tenders",
+   "url": "https://www.globaltenders.com/tender-detail/announcement-of-the-winning-bid-transaction-fCJPQAQwGGzqxKtu",
+   "added": "2026-11-17"
+  },
+  {
+   "date": "2026-11-14",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "马山县人民医院血液透析机2026-2027年度维保服务成交，10.9万元",
+   "summary": "马山县人民医院血液透析机维保服务项目公布结果，广西木桦柏椿医疗技术有限公司以109,250元成交，服务期为2026—2027年度。",
+   "src": "乙方宝",
+   "url": "https://www.yfbzb.com/winbid/detail/20261115_647832521.html",
+   "added": "2026-11-17"
+  },
+  {
+   "date": "2026-11-17",
+   "cat": "行业动态",
+   "region": "中国大陆",
+   "title": "中华医学会肾脏病学分会第29届年会今日在上海召开，JMS 超纯透析系统亮相",
+   "summary": "中华医学会肾脏病学分会第二十九届学术年会（CCSN）11月17日在上海举行，议题含血液净化新技术。吟涛医疗将展示 JMS 新一代智能超纯透析系统（厂家稿件）。",
+   "src": "新华网/中国日报合作稿",
+   "url": "https://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/snl9a7/stories/WS6afac1cae4b0e14252fcb66a.html",
+   "added": "2026-11-17"
+  },
+  {
+   "date": "2026-11-15",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "墨西哥瓜达拉哈拉 IMSS 医疗中心因供水管线抢修，血透患者周末停做",
+   "summary": "IMSS 西部国家医疗中心11月14日21时至15日8时抢修水管，期间血透患者无法治疗，供水15日早8时恢复，停做的场次已改期。9月该市另一家 IMSS 诊所也因缺乏洁净水发生过类似事件。",
+   "src": "UDG TV",
+   "url": "https://udgtv.com/noticias/falta-de-agua-dejo-sin-hemodialisis-a-pacientes-renales/337931",
+   "added": "2026-11-17"
+  },
+  {
+   "date": "2026-11-13",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "印度北方邦医学教育部在 GeM 招标血液透析中央 RO 水处理装置",
+   "summary": "印度北方邦医学教育部11月13日在 GeM 平台发布血液透析中央 RO 净水装置招标（编号 GEM/2026/B/8268448），12月3日截止。",
+   "src": "Tender Impulse",
+   "url": "https://tenderimpulse.com/government-tenders/india/centralized-ro-water-purification-plant-for-haemodialysis-v2-16414346",
+   "added": "2026-11-17"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "菲律宾招标血透设备租赁，含安装双级反渗透水处理系统",
+   "summary": "菲律宾一家医院门诊综合楼发布招标：租赁血液透析设备并配套耗材，同时安装双级反渗透水系统，11月27日截止。",
+   "src": "Bidding Source",
+   "url": "https://www.biddingsource.com/tenders/10598729",
+   "added": "2026-11-17"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "政策与招采",
+   "region": "全球",
+   "title": "加那利群岛拨款1270万欧元，招标 CHUIMI 医院四年居家透析供应服务",
+   "summary": "加那利群岛政府批准约1,270万欧元，用于大加那利岛 CHUIMI 医院居家透析（腹透与血透）的48个月供应服务，采用公开招标。",
+   "src": "La Voz Canaria",
+   "url": "https://lavozcanaria.com/en/gran-canaria/general/health-allocates-126-million-to-home-dialysis-for-chuimi-patients",
+   "added": "2026-11-17"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "政策与招采",
+   "region": "全球",
+   "title": "斯洛伐克 VšZP 成为该国首家报销居家血透的保险公司",
+   "summary": "斯洛伐克最大公立保险机构 VšZP 宣布率先报销居家血液透析，患者可在家治疗而不必往返透析中心。",
+   "src": "SITA",
+   "url": "https://sita.sk/vzdravotnictve/vszp-ako-prva-na-slovensku-uhradza-domacu-hemodialyzu-komfort-pacientov-sa-vyrazne-zvysi-video/",
+   "added": "2026-11-17"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "JAMA IM：从透析中心死亡率指标中去除种族校正，社会风险差异基本消失",
+   "summary": "对6895家透析机构的横断面研究显示，去掉种族因素后，不同社会风险机构的标准化死亡比差异几乎消失，约1/5高风险机构排名改善，对透析质量评价体系有参考意义。",
+   "src": "JAMA Internal Medicine",
+   "url": "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2856316",
+   "added": "2026-11-17"
   }
  ]
 }
