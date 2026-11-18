@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "items": [
   {
    "date": "2026-10-08",
@@ -109,16 +109,6 @@
    "summary": "2026 年 6 月起，缓和医疗病房不再基本限于癌症患者，末期肾衰竭（含选择停止或不开始透析者）也可入住，医院开始提前做缓和医疗规划。日本透析患者约 34 万人。",
    "src": "MBS 新闻",
    "url": "https://topics.smt.docomo.ne.jp/article/mbs_news/nation/mbs_news-2994593",
-   "added": "2026-10-11"
-  },
-  {
-   "date": "2026-09-18",
-   "cat": "政策与招采",
-   "region": "台湾",
-   "title": "台湾健保署：洗肾新发人数自 2022 年起逐年下降",
-   "summary": "CKD 从初期进展到末期的时间由 2016 年 1.8 年延长到 2025 年 2.9 年。健保至 2025 年已投入 2.58 亿元于 ICU 连续性血液透析（CRRT），医师呼吁提高 CRRT 给付，减少急性肾损伤转为长期透析。",
-   "src": "联合报",
-   "url": "https://udn.com/news/story/7266/9763719",
    "added": "2026-10-11"
   },
   {
@@ -3050,6 +3040,196 @@
    "src": "JAMA Internal Medicine",
    "url": "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2856316",
    "added": "2026-11-17"
+  },
+  {
+   "date": "2026-11-17",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "DaVita宣布扩展血透（Expanded HD）覆盖全美所有中心",
+   "summary": "DaVita称中分子清除更广的扩展血透已在全美所有中心上线，推广两周内约95%符合条件的患者被开具该疗法。该方案使用中截留量（MCO）透析器，可沿用现有透析机和流程，公司同时在评估高容量血液透析滤过（HDF）。",
+   "src": "DaVita Newsroom",
+   "url": "https://newsroom.davita.com/2026-11-17-davita-expands-availability-of-advanced-dialysis-therapy-to-every-u-s-center/",
+   "added": "2026-11-18"
+  },
+  {
+   "date": "2026-11-17",
+   "cat": "政策与招采",
+   "region": "全球",
+   "title": "加泰罗尼亚近5亿欧元门诊血透大标授标建议：Diaverum拿7个标段、费森尤斯6个",
+   "summary": "CatSalut门诊血液透析大合同（含续期约4.98亿欧元，预算4.15亿，18个标段）评标委员会提出授标建议：Diaverum中7个标段（约1.84亿欧元），费森尤斯中6个（约1.43亿），其余归Sistemas Renals、贝朗和Avericum。该招标自2025年1月起因多次异议一度停滞。",
+   "src": "Expansión",
+   "url": "https://www.expansion.com/catalunya/2026/11/17/diaverum-fresenius-imponen-macrocontrato-catalan-dialisis-ambulatoria.html",
+   "added": "2026-11-18"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "BMC Nephrology：238例维持性血透患者中，主动脉瓣狭窄与心血管事件风险升高相关",
+   "summary": "单中心回顾性研究显示87.4%的血透患者存在瓣膜病，总体上瓣膜病并未独立预测死亡或心血管事件，但主动脉瓣狭窄与MACE风险升高相关（校正HR约1.92），二尖瓣反流可能与全因死亡相关。作者建议对终末期肾病患者做细化的瓣膜评估。",
+   "src": "BMC Nephrology (Springer Nature)",
+   "url": "https://link.springer.com/article/10.1186/s12882-026-05507-7",
+   "added": "2026-11-18"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "Humacyte：人工血管ATEV长期随访显示动脉粥样硬化易感性低",
+   "summary": "公司公布52例患者、5项临床试验的ATEV（无细胞组织工程血管）植入标本分析，部分植入超过5年，脂质沉积极少且未见易损斑块。ATEV用于血透血管通路，该数据被称为首个组织工程血管的长期动脉粥样硬化评估。",
+   "src": "GlobeNewswire / Humacyte",
+   "url": "https://www.globenewswire.com/news-release/2026/11/16/3403476/0/en/humacyte-presents-long-term-clinical-data-demonstrating-low-atherosclerosis-susceptibility-in-acellular-tissue-engineered-vessel.html",
+   "added": "2026-11-18"
+  },
+  {
+   "date": "2026-11-17",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "香港港怡医院通报：连续性肾脏替代治疗中护士误调浓缩电解质剂量",
+   "summary": "香港卫生署公布的警示事件统计显示，一名患者在私家医院接受CRRT期间被输入错误剂量的浓缩电解质。医院称发现后立即纠正，患者情况稳定，已调查并上报，涉事护士已离职。",
+   "src": "RTHK",
+   "url": "https://news.rthk.hk/rthk/ch/component/k2/1878155-20261117.htm",
+   "added": "2026-11-18"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "研究进展",
+   "region": "日本",
+   "title": "日本肾脏学会发布《慢性肾脏病饮食疗法标准2026年版》",
+   "summary": "日本肾脏学会公开修订版CKD饮食疗法基准，面向保存期CKD患者，强调能量和各营养素不宜一刀切，需结合个体情况评估后干预。厚生劳动省肾疾病政策研究事业网站同步提示，供日常诊疗使用。",
+   "src": "CKD研究事业（厚劳科研）",
+   "url": "https://ckd-research.jp/topics/ckd_diet-therapy2026/",
+   "added": "2026-11-18"
+  },
+  {
+   "date": "2026-11-17",
+   "cat": "行业动态",
+   "region": "日本",
+   "title": "日本放送特别节目邀请日大阿部雅纪教授讲解透析与护肾，11月23日播出",
+   "summary": "Nippon放送与「透析病院ドットコム」合作的特别节目已于11月7日录制，日本大学肾脏高血压内分泌内科阿部雅纪教授与搭档艺人一起做8项健康自查，并讲解生活习惯与透析治疗知识，节目11月23日播出。",
+   "src": "Nippon放送 NEWS ONLINE",
+   "url": "https://news.infoseek.co.jp/article/nipponhoso_556536/",
+   "added": "2026-11-18"
+  },
+  {
+   "date": "2026-11-17",
+   "cat": "研究进展",
+   "region": "台湾",
+   "title": "台湾血管通路健康协会研讨会：透析导管功能不良与导管相关血流感染的护理要点",
+   "summary": "研讨会提醒，长期透析导管常见功能不良与感染，流速下降应先查管夹、管路与姿势，不可强行冲洗；导管相关血流感染出口外观可能正常，透析中寒颤伴血压下降要警觉败血症并先留血培养。",
+   "src": "NOW健康 / Yahoo奇摩新闻",
+   "url": "https://tw.news.yahoo.com/%E8%A1%80%E6%B6%B2%E9%80%8F%E6%9E%90%E9%80%9A%E8%B7%AF%E8%AD%B7%E7%90%86%E7%A0%94%E8%A8%8E%E6%9C%83-%E8%81%9A%E7%84%A6%E8%85%8E%E5%8F%8B%E9%80%8F%E6%9E%90%E8%88%87%E8%AD%B7%E7%90%86%E4%BA%BA%E5%93%A1%E7%85%A7%E8%AD%B7-050000232.html",
+   "added": "2026-11-18"
+  },
+  {
+   "date": "2026-11-17",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "天津市天津医院血透机中标：宝莱特D800S共6台，合计70.8万元",
+   "summary": "天津医院血液透析机采购项目公示中标：乐宜（天津）公司以70.8万元中标，品牌宝莱特D800S，6台，单价11.8万元；共4家供应商报价，评审报价最低60万元但综合得分第3。",
+   "src": "天工网",
+   "url": "https://bid.tgnet.com/Bidding/177919743207934607802n1.html",
+   "added": "2026-11-18"
+  },
+  {
+   "date": "2026-11-17",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "湖南师大附属湘东医院单泵血透机中标：日机装DBB-EXA 7台，63.84万元",
+   "summary": "该院2026年部门预算单泵血液透析机项目预算98万元，湖南晨峰科技以63.84万元中标，品牌日机装，型号DBB-EXA ESS SE，7台，单价9.12万元。",
+   "src": "湖南师范大学附属湘东医院",
+   "url": "https://xdyy.hunnu.edu.cn/info/1017/6373.htm",
+   "added": "2026-11-18"
+  },
+  {
+   "date": "2026-11-17",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "十堰某医院血透机中标：山外山SWS-6000A，93万元",
+   "summary": "十堰市一家医院血液透析机项目公示中标，品牌山外山、型号SWS-6000A等，中标金额93万元，综合评分84.74分。",
+   "src": "天工网",
+   "url": "https://bid.tgnet.com/Bidding/81692579460559510182n1.html",
+   "added": "2026-11-18"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "深圳某医院血液透析滤过机中标：贝朗2台，35.98万元",
+   "summary": "采购结果公告显示，血液透析滤过机2台由贝朗品牌中标，单价17.99万元，合计35.98万元；3家投标，最低报价18万元但得分靠后。公示期11月16日至19日。",
+   "src": "千里马招标网",
+   "url": "https://www.qianlima.com/bid-647927331.html",
+   "added": "2026-11-18"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "西乌珠穆沁旗人民医院透析室改造设备中标252.8万元：山外山14台透析机+捷创伟业水处理",
+   "summary": "透析室改造配套设备中标252.8万元：山外山SWS-6000A透析机14台（单价12.6万）、SWS-6000血滤机1台、捷创伟业JCH-8C-2水处理机1台（23万）以及血液透析管理系统1套（22万）。",
+   "src": "天工网",
+   "url": "https://bid.tgnet.com/Bidding/317120355386140878867n1.html",
+   "added": "2026-11-18"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "东莞市滨海湾中心医院血透水处理设备等采购（二次）成交44.87万元",
+   "summary": "该项目预算55万元，二次招标后11月16日公布结果，深圳一家公司以44.866万元成交。此前9月、10月曾出现流标/终止记录。",
+   "src": "水滴标讯",
+   "url": "https://biaoxun.shuidi.cn/detail/4d8404204e2194bbcd9833b0ce2069fc",
+   "added": "2026-11-18"
+  },
+  {
+   "date": "2026-11-12",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "桂林临桂区五通镇中心卫生院血透室设备招标：预算190万，含双级反渗透水处理系统",
+   "summary": "项目采购血液透析机8台、血液透析滤过机2台和双级反渗透血透专用水处理系统1套，预算190万元，投标截止12月3日。",
+   "src": "桂采查",
+   "url": "https://www.gxztb.com/tenders/2b88bdc10c5ba05b6f4b27de0d3c01d2/",
+   "added": "2026-11-18"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "广元市中心医院招标血透中心水机滤料更换及配套服务，预算5万元",
+   "summary": "医院血透中心水处理机滤料更换及配套服务公开询价，预算上限5万元，报价截止11月20日15:00。",
+   "src": "广元市中心医院",
+   "url": "https://www.gyszxyy.cn/newsshow.html?cls1=10&cls2=47&id=68646",
+   "added": "2026-11-18"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "意大利某大学医院招标血透反渗透水处理与分配系统全险维保，预算27.5万欧元",
+   "summary": "招标内容为肾内科与透析科血液透析用水（渗透）处理及分配系统的预防性与纠正性维护（全风险管理），预估成本27.5万欧元，截止12月17日。",
+   "src": "AfricaGateway",
+   "url": "https://www.africagateway.info/tenders_details/preventive-corrective-maintenance-full-risk-management-540255734",
+   "added": "2026-11-18"
+  },
+  {
+   "date": "2026-11-16",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "山西大宁县医疗集团招标血液透析机及血滤机，预算53.92万元",
+   "summary": "大宁县医疗集团采购透析室血液透析机及血滤机项目公开招标，预算及最高限价均为53.92万元，12月7日开标。",
+   "src": "中国政府采购网",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261116_27690079.htm",
+   "added": "2026-11-18"
+  },
+  {
+   "date": "2026-11-17",
+   "cat": "政策与招采",
+   "region": "全球",
+   "title": "意大利卡拉布里亚：区政府承认雷焦卡拉布里亚大都会区透析网络失衡",
+   "summary": "11月16日区级技术会议认可该区透析网络存在地域不平衡，当地病友组织FINTRED要求ASL立即给出对策；ASL一直认为98个透析床位足够，只需重新分配。",
+   "src": "Corriere della Calabria",
+   "url": "https://www.corrieredellacalabria.it/2026/11/17/dialisi-a-reggio-la-regione-riconosce-lo-squilibrio-fintred-lasp-dia-risposte-subito/",
+   "added": "2026-11-18"
   }
  ]
 }
