@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "items": [
   {
    "date": "2026-10-08",
@@ -3230,6 +3230,96 @@
    "src": "Corriere della Calabria",
    "url": "https://www.corrieredellacalabria.it/2026/11/17/dialisi-a-reggio-la-regione-riconosce-lo-squilibrio-fintred-lasp-dia-risposte-subito/",
    "added": "2026-11-18"
+  },
+  {
+   "date": "2026-11-11",
+   "cat": "召回与安全警示",
+   "region": "全球",
+   "title": "费森尤斯 DELFLEX 腹透液因袋体渗漏风险召回（FDA II类）",
+   "summary": "费森尤斯召回约14,405件DELFLEX 1.5%葡萄糖腹透液，原因是批次主袋印字区可能出现细小穿孔渗漏，无菌性无法保证，全美分销。",
+   "src": "SeeRecalls/FDA",
+   "url": "https://seerecalls.com/recall/delflex-peritoneal-dialysis-solution-with-1-5-dextrose-and-4-more-sterility-and-potency-59965",
+   "added": "2026-11-19"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "布里斯托大学试验：高龄肾衰患者透析不应作为默认方案",
+   "summary": "英国近500例（多数80岁以上）患者的试验显示，保守管理可作为透析之外的合理选择，提示老年肾衰应个体化决策。",
+   "src": "BBC",
+   "url": "https://www.bbc.com/news/articles/cwdd14gp6ql0o",
+   "added": "2026-11-19"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "墨西哥哈利斯科IMSS医院停水致血透排期调整",
+   "summary": "哈利斯科西部医疗中心因供水中断暂停血透，IMSS重新安排治疗，凸显透析用水供应的脆弱性。",
+   "src": "Reporte Jalisco",
+   "url": "https://reportejalisco.com/imss-reprograma-hemodiálisis-tras-interrupcion-de-agua-en-hospital-de-jalisco",
+   "added": "2026-11-19"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "开化县人民医院血透水处理系统采购发布更正公告",
+   "summary": "预处理配置更正：活性炭罐由2套改为1套、软化罐由2套改为1套。",
+   "src": "乙方宝",
+   "url": "https://www.yfbzb.com/inviteBid/detail/20261118_649006162.html",
+   "added": "2026-11-19"
+  },
+  {
+   "date": "2026-11-19",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "铜陵郊区人民医院血透机、滤过机及水处理系统公开招标",
+   "summary": "铜陵市郊区区域医疗服务能力提升项目发布血液透析机、滤过机、水处理系统等设备采购招标公告。",
+   "src": "安徽省招标投标信息网",
+   "url": "https://www.ahtba.org.cn/site/trade/affiche/detail/c8349198-e31f-11f1-b7f6-00163e1f3e9b",
+   "added": "2026-11-19"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "芜湖市中医医院血透中心供水系统改造竞争性谈判",
+   "summary": "芜湖市中医医院发布血透中心供水系统改造竞争性谈判公告。",
+   "src": "安徽省招标投标信息网",
+   "url": "https://jkv2.ahtba.org.cn/site/trade/affiche/detail/e3310148-e2fb-11f1-b7f6-00163e1f3e9b",
+   "added": "2026-11-19"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "徐州市中心医院透析中心设备招标，预算475万元",
+   "summary": "预算475万元、最高限价400万元，12月9日开标。",
+   "src": "中国政府采购网",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261118_27708539.htm",
+   "added": "2026-11-19"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "上海浦东血透用制水设备中标，总金额90.5万元",
+   "summary": "浦东新区卫生财务资产与工程安全事务中心血透用制水设备项目公布结果，总中标金额90.5万元。",
+   "src": "十环招标网",
+   "url": "https://bid.10huan.com/2026/zb/1118/zb1794983416361571.html",
+   "added": "2026-11-19"
+  },
+  {
+   "date": "2026-11-17",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "华西第二附属高新医院血透中心设备采购，预算355万元",
+   "summary": "分两个采购包，预算3,550,800元，12月9日开标。",
+   "src": "乙方宝",
+   "url": "https://m.yfbzb.com/inviteBid/detail/20261117_648580094.html",
+   "added": "2026-11-19"
   }
  ]
 }
