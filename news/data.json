@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "items": [
   {
    "date": "2026-10-08",
@@ -3320,6 +3320,56 @@
    "src": "乙方宝",
    "url": "https://m.yfbzb.com/inviteBid/detail/20261117_648580094.html",
    "added": "2026-11-19"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "召回与安全警示",
+   "region": "全球",
+   "title": "FDA对Outset Tablo血透系统电源线发出早期警示",
+   "summary": "电源线与机器插口连接处有过热报告，可能烫伤或致断电中断治疗。厂家11月10日已通知客户，要求每次使用前检查电源线；暂无严重伤亡报告。",
+   "src": "FDA",
+   "url": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-outset-medical-updates-use-instructions-tablo-console-and-tablocart-prefiltration-drawer",
+   "added": "2026-11-20"
+  },
+  {
+   "date": "2026-11-19",
+   "cat": "行业动态",
+   "region": "日本",
+   "title": "扶桑药品工业投资约138亿日元在冈山建透析剂新工厂",
+   "summary": "新厂房将新增粉末型透析剂生产线，预计2028年12月投产，用于西日本布局并提升灾害时的稳定供应。",
+   "src": "日本经济新闻",
+   "url": "https://www.nikkei.com/article/DGXZQOCC182X10Y6A111C2000000/",
+   "added": "2026-11-20"
+  },
+  {
+   "date": "2026-11-19",
+   "cat": "研究进展",
+   "region": "日本",
+   "title": "东京女子医大等研究：肾脏康复运动可提高透析患者生存率",
+   "summary": "研究验证了肾脏康复运动对透析患者生存的作用，结果提示可改善生存率。",
+   "src": "下野新闻",
+   "url": "https://www.shimotsuke.co.jp/articles/-/1462463",
+   "added": "2026-11-20"
+  },
+  {
+   "date": "2026-11-19",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "Humacyte向FDA提交人工血管用于血透通路的补充申请",
+   "summary": "ATEV拟新增血透动静脉通路适应证，针对瘘管成熟失败风险较高的患者，基于三项III期研究。",
+   "src": "Humacyte",
+   "url": "https://humacyte.gcs-web.com/news-releases/news-release-details/humacyte-submits-supplemental-biologics-license-application-fda/",
+   "added": "2026-11-20"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "政策与招采",
+   "region": "全球",
+   "title": "马德里大区批准约1.86亿欧元血透服务框架协议",
+   "summary": "其中血透服务超1.63亿欧元、期限两年，预计每年约21.84万次治疗。",
+   "src": "马德里大区政府",
+   "url": "https://www.comunidad.madrid/noticias/2026/11/18/comunidad-madrid-destina-186-millones-euros-hemodialisis-dispositivos-tratamiento-dolor-cronico",
+   "added": "2026-11-20"
   }
  ]
 }
