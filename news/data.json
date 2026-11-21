@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "items": [
   {
    "date": "2026-10-08",
@@ -3370,6 +3370,76 @@
    "src": "马德里大区政府",
    "url": "https://www.comunidad.madrid/noticias/2026/11/18/comunidad-madrid-destina-186-millones-euros-hemodialisis-dispositivos-tratamiento-dolor-cronico",
    "added": "2026-11-20"
+  },
+  {
+   "date": "2026-11-19",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "Humacyte向FDA递交人工血管ATEV用于血透通路的sBLA",
+   "summary": "Humacyte提交补充生物制品许可申请，希望将无细胞组织工程血管用于动静脉瘘成熟失败风险较高的血透患者，并申请优先审评，依据为三项III期研究。",
+   "src": "Humacyte",
+   "url": "https://investors.humacyte.com/news-releases/news-release-details/humacyte-submits-supplemental-biologics-license-application-fda",
+   "added": "2026-11-21"
+  },
+  {
+   "date": "2026-11-18",
+   "cat": "行业动态",
+   "region": "中国大陆",
+   "title": "山外山子公司获血液透析器（SWS系列）首次注册证",
+   "summary": "重庆天外天获批三类血液透析器，共26个型号，采用自研聚醚砜中空纤维膜。透析器已纳入23省联盟集采，新进入者面临已压低的价格体系。",
+   "src": "网易/医疗器械经销商联盟",
+   "url": "https://c.m.163.com/news/a/LC3EBIGO0514CG7L.html?from=subscribe",
+   "added": "2026-11-21"
+  },
+  {
+   "date": "2026-11-20",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "盘锦市中心医院血液透析水处理设备招标，预算385万元",
+   "summary": "项目编号JH26-211100-12153，预算385万元，12月15日开标，招标文件免费获取。",
+   "src": "安华招标",
+   "url": "https://www.ahzb.net/info/china/134003339.html",
+   "added": "2026-11-21"
+  },
+  {
+   "date": "2026-11-19",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "铜陵市郊区人民医院血透机、滤过机、水处理系统招标，预算257.9万元",
+   "summary": "采购含血液透析机、滤过机及水处理系统，12月9日开标。",
+   "src": "中国政府采购网",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261119_27715210.htm",
+   "added": "2026-11-21"
+  },
+  {
+   "date": "2026-11-20",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "东南大学附属中大医院透析用水处理项目中标126万元",
+   "summary": "南京君康医疗科技有限公司中标，金额126万元。",
+   "src": "中国政府采购网",
+   "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202611/t20261120_27726379.htm",
+   "added": "2026-11-21"
+  },
+  {
+   "date": "2026-11-20",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "潜江市中心医院新院区采购透析水处理系统，要求含热消毒",
+   "summary": "预算102.7万元，采购水处理系统和集中供液系统各1套，要求水处理系统注册证内容包含热消毒装置。",
+   "src": "乙方宝",
+   "url": "https://m.yfbzb.com/inviteBid/detail/20261120_649794148.html",
+   "added": "2026-11-21"
+  },
+  {
+   "date": "2026-11-19",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "揭阳梅云社区卫生服务中心血透机及滤过机中标54.4万元",
+   "summary": "采购单泵血透机与双泵血液透析滤过机各1台，揭阳市恒源达科技设备有限公司中标。",
+   "src": "中国政府采购招标网",
+   "url": "http://chinabidding.org.cn/B2bInfoDetails_bid_44595.html",
+   "added": "2026-11-21"
   }
  ]
 }
