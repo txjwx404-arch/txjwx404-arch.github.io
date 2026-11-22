@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "items": [
   {
    "date": "2026-10-08",
@@ -3440,6 +3440,66 @@
    "src": "中国政府采购招标网",
    "url": "http://chinabidding.org.cn/B2bInfoDetails_bid_44595.html",
    "added": "2026-11-21"
+  },
+  {
+   "date": "2026-11-20",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "NEJM：AKI重症患者初始间歇性血透未达非劣效，死亡率更高",
+   "summary": "一项多中心随机试验显示，需肾替代治疗的重症AKI患者以间歇性血透起始，90天主要肾脏不良结局不劣于CRRT的假设未成立，且死亡率增高。",
+   "src": "Medical Dialogues",
+   "url": "https://medicaldialogues.in/nephrology/news/intermittent-hemodialysis-fails-noninferiority-test-in-acute-kidney-injury-nejm-183187",
+   "added": "2026-11-22"
+  },
+  {
+   "date": "2026-11-19",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "Humacyte向FDA提交透析通路用人工血管sBLA",
+   "summary": "Humacyte基于三项III期研究，申请把无细胞组织工程血管（ATEV）用于血透动静脉通路，作为第二个获批适应症。",
+   "src": "BioBuzz/GlobeNewswire",
+   "url": "https://biobuzz.io/news/humacyte-submits-supplemental-biologics-license-application-to-fda-for-the-acellular-tissue/",
+   "added": "2026-11-22"
+  },
+  {
+   "date": "2026-11-20",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "DaVita在美国全部2671家中心推广扩展性血液透析",
+   "summary": "扩展性血透可清除更多中分子毒素，使用现有透析机和流程；推广两周内95%符合条件的患者已获处方。",
+   "src": "OPEN MINDS",
+   "url": "https://openminds.com/market-intelligence/bulletins/davita-expands-availability-of-advanced-dialysis-therapy-to-every-u-s-center/",
+   "added": "2026-11-22"
+  },
+  {
+   "date": "2026-11-20",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "魁北克医院招标更换血透水处理系统",
+   "summary": "Santé Québec Lanaudière为Pierre Le Gardeur医院采购一套血透水处理系统替换旧机，预估合同额80万，12月22日截止，需10%履约保函。",
+   "src": "Govly",
+   "url": "https://app.govly.com/public/opportunities/17400411",
+   "added": "2026-11-22"
+  },
+  {
+   "date": "2026-11-21",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "天津第五中心医院血透水处理合同：CNKDW-3600两套共210万",
+   "summary": "天津太平百时康中标，单价105万元，含5年免费质保，60日内交付并安装调试。",
+   "src": "智疗标讯",
+   "url": "https://tj.zhiliaobiaoxun.com/article/120249782",
+   "added": "2026-11-22"
+  },
+  {
+   "date": "2026-11-20",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "淳安县第二人民医院血透水处理设备34.6万中标",
+   "summary": "杭州天创TCH-ROII/3型血液透析用制水设备1台，杭州得文贸易中标。",
+   "src": "报告网",
+   "url": "https://www.baogao.com/zhaobiao/a344dece-8a19-4678-bee2-069e515b5008.html",
+   "added": "2026-11-22"
   }
  ]
 }
