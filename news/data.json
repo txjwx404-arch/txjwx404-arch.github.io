@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "items": [
   {
    "date": "2026-10-08",
@@ -3550,6 +3550,66 @@
    "src": "1news.co.nz",
    "url": "https://www.1news.co.nz/2026/11/21/health-nz-ordered-to-release-internal-dialysis-risk-assessments/",
    "added": "2026-11-23"
+  },
+  {
+   "date": "2026-11-23",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "Rockwell Medical拟12.5亿美元收购Vantive血透业务",
+   "summary": "Rockwell Medical宣布收购Vantive大部分中心血透业务，含透析机、浓缩液、水处理系统及意大利Medolla工厂，覆盖35个司法辖区。",
+   "src": "Lexology",
+   "url": "https://www.lexology.com/library/detail.aspx?g=cf45158d-3cb6-4c0c-b47a-a0d9d0a75be8",
+   "added": "2026-11-24"
+  },
+  {
+   "date": "2026-11-23",
+   "cat": "研究进展",
+   "region": "日本",
+   "title": "猪肾移植患者脱离透析满一年，日本计划2028年开展临床试验",
+   "summary": "eGenesis与麻省总医院宣布一名患者移植基因改造猪肾后脱离透析满一年，创最长纪录；日本拟于2028年在北大病院等启动试验。",
+   "src": "产经新闻",
+   "url": "https://www.sankei.com/article/20261124-23TWH3NGRBKP3PYDFQX4FLOCP4/",
+   "added": "2026-11-24"
+  },
+  {
+   "date": "2026-11-22",
+   "cat": "政策与招采",
+   "region": "日本",
+   "title": "2026年度诊疗报酬改定：腹膜透析设管理料2（1500点）",
+   "summary": "厚生劳动省改定新设在宅自己腹膜灌流指导管理料2，用于专门医院应其他医疗机构要求提供指导，每疗程限2次。",
+   "src": "メディカレ",
+   "url": "https://medi-cale.com/news/peritoneal-dialysis-hospital-support-2026/",
+   "added": "2026-11-24"
+  },
+  {
+   "date": "2026-11-23",
+   "cat": "行业动态",
+   "region": "日本",
+   "title": "透析技术认定士第48回讲习11月30日截止申请",
+   "summary": "医疗机器中心受理第48回透析技术认定士讲习申请，需常勤透析业务经验并经机构电子签名证明，讲习2027年2月举行。",
+   "src": "メディカレ",
+   "url": "https://medi-cale.com/news/dialysis-technologist-48th-course-2026/",
+   "added": "2026-11-24"
+  },
+  {
+   "date": "2026-11-23",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "去除透析质量指标中的种族因素会改变设施死亡率评价",
+   "summary": "HealthDay报道：从透析质量测量中去除种族因素后，黑人患者比例较高的设施，其死亡率表现变化最大。",
+   "src": "HealthDay",
+   "url": "https://www.healthday.com/healthpro-news/kidney-health/removing-race-from-dialysis-quality-measures-changes-mortality-performance",
+   "added": "2026-11-24"
+  },
+  {
+   "date": "2026-11-23",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "墨西哥IMSS与科技部联合研发血透设备，预计半年内送审",
+   "summary": "墨西哥总统称IMSS与Secihti研发的血透设备已进入第二阶段测试，期望六个月内获Cofepris批准，减少外包透析服务。",
+   "src": "La Jornada",
+   "url": "https://www.jornada.com.mx/noticia/2026/11/23/ciencia-y-tecnologia/imss-y-la-secretaria-de-ciencia-desarrollan-proyecto-de-equipos-para-hemodialisis-y-dialisis",
+   "added": "2026-11-24"
   }
  ]
 }
