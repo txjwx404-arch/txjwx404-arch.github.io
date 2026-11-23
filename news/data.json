@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "items": [
   {
    "date": "2026-10-08",
@@ -3500,6 +3500,56 @@
    "src": "报告网",
    "url": "https://www.baogao.com/zhaobiao/a344dece-8a19-4678-bee2-069e515b5008.html",
    "added": "2026-11-22"
+  },
+  {
+   "date": "2026-11-17",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "DaVita 在全美所有中心推出扩展血液透析",
+   "summary": "DaVita 于11月17日宣布，全美各中心均可提供使用中分子截留（MCO）透析器的扩展血透，可与现有透析机配合使用；其对疲劳、瘙痒等结局的改善仍在研究中。",
+   "src": "medicaltradejournal.com",
+   "url": "https://medicaltradejournal.com/davita-expanded-hemodialysis-all-us-centers/",
+   "added": "2026-11-23"
+  },
+  {
+   "date": "2026-11-21",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "巴拿马社保局说明血透用肝素标签争议",
+   "summary": "巴拿马社保局称血透室使用的肝素为含苯甲醇防腐剂的5000 IU/mL机构规格，治疗不变且安全，并引入4%枸橼酸钠预充注射器用于导管封管。",
+   "src": "css.gob.pa",
+   "url": "https://www.css.gob.pa/2026/11/21/servicio-de-hemodialisis-continua-con-normalidad-y-seguridad-en-la-css/",
+   "added": "2026-11-23"
+  },
+  {
+   "date": "2026-11-22",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "墨西哥哈利斯科：供水管线维修致IMSS血透延期",
+   "summary": "IMSS 西部医疗中心因供水管线维修（11月14日夜至15日晨约11小时）推迟部分血透，后已重新排期，未披露受影响患者数。",
+   "src": "enriquemunoznews.com",
+   "url": "https://enriquemunoznews.com/hemodialisis-en-jalisco-imss-aplazo-sesiones-falta-agua/",
+   "added": "2026-11-23"
+  },
+  {
+   "date": "2026-11-22",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "意大利试验可穿戴设备“聆听”内瘘声音预警并发症",
+   "summary": "Mario Negri研究所等开发的Avf-Monitor原型在贝加莫医院对6名血透患者开展首阶段临床试验，通过内瘘声音早期识别并发症。",
+   "src": "bergamonews.it",
+   "url": "https://www.bergamonews.it/2026/11/22/dialisi-un-dispositivo-indossabile-ascolta-la-fistola-e-riconosce-le-complicanze-al-papa-giovanni-la-sperimentazione/939089/",
+   "added": "2026-11-23"
+  },
+  {
+   "date": "2026-11-21",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "新西兰卫生部被责令公开透析容量风险评估",
+   "summary": "文件显示2026年Counties Manukau、Bay of Plenty、Waikato等地透析容量风险仍为极高，并存在肾科医生和透析护士短缺。",
+   "src": "1news.co.nz",
+   "url": "https://www.1news.co.nz/2026/11/21/health-nz-ordered-to-release-internal-dialysis-risk-assessments/",
+   "added": "2026-11-23"
   }
  ]
 }
