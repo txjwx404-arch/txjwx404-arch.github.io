@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "items": [
   {
    "date": "2026-10-08",
@@ -3640,6 +3640,86 @@
    "src": "La Crónica de Hoy",
    "url": "https://www.cronica.com.mx/metropoli/2026/11/24/inauguran-en-toluca-centro-de-hemodialisis-gratuito-con-capacidad-para-12-mil-sesiones-anuales/",
    "added": "2026-11-25"
+  },
+  {
+   "date": "2026-11-24",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "玉林市第三人民医院采购透析水处理、集中供液系统及血透滤过机",
+   "summary": "预算114.8万元，竞争性谈判；要求产水符合YY0572-2015，菌落≤1CFU、内毒素≤0.02EU，供≥60床使用，含血液透析滤过机2台，11月30日截止。",
+   "src": "广西政府采购/桂采查",
+   "url": "https://www.gxztb.com/tenders/7565a95c7807a8b75760a8ac923e0626/",
+   "added": "2026-11-26"
+  },
+  {
+   "date": "2026-11-24",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "某院血透制水机维修：更换6支反渗透膜及砂炭树脂，预算2.7万元",
+   "summary": "设备型号WG-ROⅡ-600A，需更换原厂全新反渗透膜、石英砂、活性炭、软化树脂，直接面向市场采购，12月1日报名截止。",
+   "src": "千里马招标网",
+   "url": "https://www.qianlima.com/bid-650682488.html",
+   "added": "2026-11-26"
+  },
+  {
+   "date": "2026-11-24",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "巨鹿县医院血液透析水处理设备采购公开招标",
+   "summary": "河北邢台巨鹿县医院公开招标血透水处理设备，要求30日历天内供货安装调试。",
+   "src": "乙方宝",
+   "url": "https://www.yfbzb.com/inviteBid/detail/20261124_650589142.html",
+   "added": "2026-11-26"
+  },
+  {
+   "date": "2026-11-25",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "芬兰萨翁林纳医院招标透析水处理机",
+   "summary": "新招标于11月25日发布，12月14日截止。",
+   "src": "Tender Impulse",
+   "url": "https://tenderimpulse.com/government-tenders/finland/dialysis-water-machine-for-savonlinna-hospital-new-tender-16803362",
+   "added": "2026-11-26"
+  },
+  {
+   "date": "2026-11-24",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "Vantive拟将国际血透业务出售给Rockwell，CEO称转向居家透析",
+   "summary": "出售范围含血透机、浓缩液、水处理系统和意大利大型制造基地，Vantive将聚焦居家透析与重症业务。",
+   "src": "MassDevice",
+   "url": "https://www.massdevice.com/vantive-ceo-chris-toth-seeks-advantage-with-at-home-dialysis/",
+   "added": "2026-11-26"
+  },
+  {
+   "date": "2026-11-24",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "Nipro ELISIO-HX中截止点透析器获FDA 510(k)并立即在美上市",
+   "summary": "Nipro宣布超高通量膜ELISIO-HX获批，主打清除较大中分子同时保留白蛋白。",
+   "src": "SectorWire",
+   "url": "https://www.sectorwirehq.com/news/Hemodialysis_Systems/Hemodiafiltration_Mach/NIPRO_Receives_FDA_510_k_Clearance_for_ELISIO_HX_Dialyzer_in_US.html",
+   "added": "2026-11-26"
+  },
+  {
+   "date": "2026-11-25",
+   "cat": "研究进展",
+   "region": "日本",
+   "title": "Upacicalcet三期试验：透析后静脉给药降低透析患者iPTH",
+   "summary": "两项平行三期试验显示，透析后给予静脉拟钙剂upacicalcet可降低继发性甲旁亢患者iPTH，且未增加胃肠道不良反应。",
+   "src": "Renal and Urology News",
+   "url": "https://www.renalandurologynews.com/reports/hyperparathyroidism-hemodialysis-phase-3-trials-upacicalcet-efficacy/",
+   "added": "2026-11-26"
+  },
+  {
+   "date": "2026-11-25",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "OASIS试验：高龄透析起始用导管并不更差",
+   "summary": "165名70岁以上预期寿命短的患者中，内瘘/人工血管介入次数更多，而感染和早期死亡与导管相近。",
+   "src": "Renal and Urology News",
+   "url": "https://www.renalandurologynews.com/reports/central-venous-catheter-hemodialysis-less-burdensome-treatment-risk/",
+   "added": "2026-11-26"
   }
  ]
 }
