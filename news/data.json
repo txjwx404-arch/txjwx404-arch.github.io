@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "items": [
   {
    "date": "2026-10-08",
@@ -60,16 +60,6 @@
    "url": "https://www.pharnexcloud.com/data/zcfg_aa0749d12839b93705348f5910cc8f13.html",
    "added": "2026-10-11",
    "region": "中国大陆"
-  },
-  {
-   "date": "2026-09-24",
-   "cat": "召回与安全警示",
-   "title": "BD 透析导管套件更正被定为 Class I",
-   "summary": "套件内 0.9% 氯化钠安瓿（Huons 生产）存在无菌保证问题，取出安瓿后其余组件可继续使用。召回号 Z-2984/2985-2026。",
-   "src": "MedTech Current",
-   "url": "https://www.medtechcurrent.com/device-recalls/becton-dickinson-dialysis-convenience-kits-saline-fda-class-i-recall/",
-   "added": "2026-10-11",
-   "region": "全球"
   },
   {
    "date": "2026-10-01",
@@ -3610,6 +3600,46 @@
    "src": "La Jornada",
    "url": "https://www.jornada.com.mx/noticia/2026/11/23/ciencia-y-tecnologia/imss-y-la-secretaria-de-ciencia-desarrollan-proyecto-de-equipos-para-hemodialisis-y-dialisis",
    "added": "2026-11-24"
+  },
+  {
+   "date": "2026-11-24",
+   "cat": "研究进展",
+   "region": "日本",
+   "title": "山口大学：PET测得的心肌血流储备可预测透析患者死亡风险",
+   "summary": "山口大学团队发现，透析患者心肌血流储备（MFR）越低，随访约4年的死亡风险约高4倍；外周动脉与大动脉硬化两类血管异常各自独立降低冠脉储备。",
+   "src": "山口大学",
+   "url": "https://www.yamaguchi-u.ac.jp/weekly/54190/index.html",
+   "added": "2026-11-25"
+  },
+  {
+   "date": "2026-11-24",
+   "cat": "研究进展",
+   "region": "全球",
+   "title": "ASN：钾结合剂SZC改善高钾血症血透患者生活质量",
+   "summary": "Y-QOL研究纳入196名患者，8周使用环硅酸锆钠加营养指导，生活质量优于单纯饮食指导，有助缓解果蔬限制负担。",
+   "src": "Renal and Urology News",
+   "url": "https://www.renalandurologynews.com/reports/hyperkalemia-hemodialysis-potassium-binder-improves-quality-life-treatment-risk/",
+   "added": "2026-11-25"
+  },
+  {
+   "date": "2026-11-24",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "巴拿马社保局为血透导管封管引入4%枸橼酸钠预充注射器",
+   "summary": "CSS称已向全国血透单位供应该产品，同时就肝素标签“不适用于封管/冲管”的公众质疑作出说明，称治疗照常进行。",
+   "src": "Infobae",
+   "url": "https://www.infobae.com/panama/2026/11/24/panama-aplica-estandares-de-seguridad-para-tratamiento-a-pacientes-de-hemodialisis/",
+   "added": "2026-11-25"
+  },
+  {
+   "date": "2026-11-24",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "墨西哥托卢卡启用IMSS-Bienestar免费血透中心",
+   "summary": "新中心设25个座位，年可提供逾1.2万次免费血透，为该州首个IMSS-Bienestar自营血透单位。",
+   "src": "La Crónica de Hoy",
+   "url": "https://www.cronica.com.mx/metropoli/2026/11/24/inauguran-en-toluca-centro-de-hemodialisis-gratuito-con-capacidad-para-12-mil-sesiones-anuales/",
+   "added": "2026-11-25"
   }
  ]
 }
