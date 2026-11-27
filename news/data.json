@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "items": [
   {
    "date": "2026-10-08",
@@ -3720,6 +3720,66 @@
    "src": "Renal and Urology News",
    "url": "https://www.renalandurologynews.com/reports/central-venous-catheter-hemodialysis-less-burdensome-treatment-risk/",
    "added": "2026-11-26"
+  },
+  {
+   "date": "2026-11-19",
+   "cat": "召回与安全警示",
+   "region": "全球",
+   "title": "FDA早期警示：Outset Medical更新Tablo控制台及带预过滤抽屉TabloCart的使用说明",
+   "summary": "FDA将Outset Medical Tablo血透系统的使用说明更新列为早期警示，目前仍在收集信息，使用该系统的单位应关注厂家通知。",
+   "src": "FDA",
+   "url": "https://www.fda.gov/medical-devices/medical-device-safety/medical-device-recalls-and-early-alerts",
+   "added": "2026-11-27"
+  },
+  {
+   "date": "2026-11-25",
+   "cat": "研究进展",
+   "region": "日本",
+   "title": "兵库医科大：高龄血透患者肌少症及疑似肌少症使死亡风险约升高2倍",
+   "summary": "研究采用2025年修订的AWGS2025标准，发现肌少症或疑似者死亡风险约为非肌少症者的2倍。",
+   "src": "兵库医科大学",
+   "url": "https://www.hyo-med.ac.jp/corporation/publicity/news-releases/4080/",
+   "added": "2026-11-27"
+  },
+  {
+   "date": "2026-11-26",
+   "cat": "研究进展",
+   "region": "日本",
+   "title": "SecondHeart与福岛县立医大合作，远程筛查透析患者下肢动脉病变",
+   "summary": "在福岛滨通7家透析机构开展多中心研究，目标90例，由专科医生远程判读足部照片和血流波形，期间至2027年6月。",
+   "src": "时事通信/PR TIMES",
+   "url": "https://www.jiji.com/jc/article?g=prt&k=000000030.000135007",
+   "added": "2026-11-27"
+  },
+  {
+   "date": "2026-11-26",
+   "cat": "行业动态",
+   "region": "日本",
+   "title": "日本透析医学会公布第72届学术集会征集论文及令和9年度透析从业人员研修",
+   "summary": "JSDT官网更新：第72届学术集会公开征集论文至2027年1月5日，令和9年度研修报名至2027年5月6日。",
+   "src": "G醫t（JSDT更新监测）",
+   "url": "https://giiit.goudge.org/",
+   "added": "2026-11-27"
+  },
+  {
+   "date": "2026-11-26",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "巴西Anvisa就透析器重复使用规则征求意见，业界讨论安全性",
+   "summary": "现行规定允许透析器经自动化处理最多重复使用20次；公开征求意见涉及一次性与可重复使用器械的分类。",
+   "src": "O Globo",
+   "url": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/11/26/reuso-na-hemodialise-levanta-debate-sobre-seguranca-1.ghtml",
+   "added": "2026-11-27"
+  },
+  {
+   "date": "2026-11-25",
+   "cat": "行业动态",
+   "region": "全球",
+   "title": "墨西哥普埃布拉肾病患者因血透耗材短缺封路，卫生部门承诺保障治疗",
+   "summary": "患者与家属封堵高速公路后，州卫生厅承诺保证早晚班血透并增加专业人员。",
+   "src": "e-consulta",
+   "url": "https://www.e-consulta.com/salud/garantizaran-hemodialisis-y-personal-en-puebla-tras-protesta",
+   "added": "2026-11-27"
   }
  ]
 }
