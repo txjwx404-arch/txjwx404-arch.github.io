@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "items": [
   {
    "date": "2026-10-08",
@@ -48,16 +48,6 @@
    "summary": "招标文件 10月9日—14日获取，2026年10月29日 09:30 开标。",
    "src": "医疗招标网",
    "url": "https://www.yiliaozhaobiao.com/news-6619c24d51e4fab6258965643cd4abd5/",
-   "added": "2026-10-11",
-   "region": "中国大陆"
-  },
-  {
-   "date": "2026-09-28",
-   "cat": "政策与招采",
-   "title": "湖南出台慢性肾衰门诊透析慢特病待遇办法（湘医保发〔2026〕38号）",
-   "summary": "腹透限额 5000 元/月、结肠透析 2000 元/月、药物治疗 600 元/月，待遇有效期三年。",
-   "src": "摩熵医药",
-   "url": "https://www.pharnexcloud.com/data/zcfg_aa0749d12839b93705348f5910cc8f13.html",
    "added": "2026-10-11",
    "region": "中国大陆"
   },
@@ -119,16 +109,6 @@
    "summary": "最高限价 7.4 万元，内容含石英砂、椰壳活性炭、软化树脂更换，旧料清运、系统冲洗、化学消毒、整机调试和水质检测，出水须符合 YY 0572-2015。可作为预处理滤材更换的工作范围参考。",
    "src": "检测招标网",
    "url": "https://www.jiancezhaobiao.com/news-8829995d9e42a139d003dace8d9bf850/",
-   "added": "2026-10-11"
-  },
-  {
-   "date": "2026-09-28",
-   "cat": "水处理设备",
-   "region": "中国大陆",
-   "title": "榆中县血透室水处理系统合同：14.68 万元，二级产水 ≥500 L/h",
-   "summary": "参数要求符合 YY 0793.1 和 YY 0572-2015，细菌 ≤1 CFU/mL、内毒素 ≤0.25 EU/mL，脱盐率 >99%，原水回收率 >65%，带废水智能回收。",
-   "src": "标标达",
-   "url": "https://bbda.com/bidDetail/7f33d0761484ea66590fa12dfddf2225715737a726cc5a8c40f60c1fb9f7262b.html",
    "added": "2026-10-11"
   },
   {
@@ -3780,6 +3760,66 @@
    "src": "e-consulta",
    "url": "https://www.e-consulta.com/salud/garantizaran-hemodialisis-y-personal-en-puebla-tras-protesta",
    "added": "2026-11-27"
+  },
+  {
+   "date": "2026-11-27",
+   "cat": "水处理设备",
+   "region": "全球",
+   "title": "巴西CHS医院血透三死事件：监管发现透析液内毒素超标",
+   "summary": "当地卫生监管调查显示，一台透析机的透析液内毒素超过25 EU/mL，是巴西限值0.25的百倍以上；水处理系统氟化物也有异常，另有一台透析器复用机故障被更换。",
+   "src": "G1",
+   "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/27/vigilancia-sanitaria-encontra-toxinas-bacterianas-em-maquina-de-hemodialise-chs.ghtml",
+   "added": "2026-11-28"
+  },
+  {
+   "date": "2026-11-25",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "天津市第四中心医院启动反渗透水处理设备需求调查，预算55万",
+   "summary": "医院拟采购1台反渗透水处理设备供血透室使用，预算55万元，11月23-27日接受供应商资质报名。",
+   "src": "天津市第四中心医院",
+   "url": "http://www.tj4thch.cn/system/2026/11/25/030204134.shtml",
+   "added": "2026-11-28"
+  },
+  {
+   "date": "2026-11-26",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "犍为县中医院血透水处理系统搬迁及反渗膜更换询价",
+   "summary": "预算5.2万元，涉及开能康德威CNKDW-2400与KDW-D1200两套设备整体搬迁并更换反渗透膜，要求合同后10日内完成。",
+   "src": "千里马招标网",
+   "url": "https://www.qianlima.com/bid-651219768.html",
+   "added": "2026-11-28"
+  },
+  {
+   "date": "2026-11-27",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "灌云县中医院血透中心水处理系统竞争性磋商，预算30万",
+   "summary": "采购1套透析用水处理设备，不接受进口产品，合同后30天内完成供货安装调试，12月14日截止。",
+   "src": "千里马招标网",
+   "url": "https://www.qianlima.com/bid-652027076.html",
+   "added": "2026-11-28"
+  },
+  {
+   "date": "2026-11-27",
+   "cat": "水处理设备",
+   "region": "中国大陆",
+   "title": "原阳县中医院拟单一来源采购贝朗透析水处理系统三年原厂维保",
+   "summary": "预算16.5万元，理由是反渗膜、预处理填料需与现有贝朗水机匹配且工程师须原厂培训。",
+   "src": "中国政府采购网",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/dylygg/202611/t20261127_27767078.htm",
+   "added": "2026-11-28"
+  },
+  {
+   "date": "2026-11-26",
+   "cat": "政策与招采",
+   "region": "中国大陆",
+   "title": "北大荒集团牡丹江医院血透室设备公开招标，预算105万",
+   "summary": "项目于12月17日开标，招标文件免费获取。",
+   "src": "中国政府采购网",
+   "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202611/t20261126_27759826.htm",
+   "added": "2026-11-28"
   }
  ]
 }
